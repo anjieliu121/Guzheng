@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "bu_bu_gao",
+      "path": "MIDI/bu_bu_gao.mid",
+      "title": {
+        "en": "Every Step is Higher",
+        "zh": "步步高",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 72.0,
+      "note_lowest": "A2",
+      "note_highest": "A5",
+      "note_count": 321,
+      "bar_count": 60,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/2186.html",
+      "source": "unknown, modified by the author",
+      "notes": "changed 3-note mock vibrato to just the note"
+    },
+    {
+      "id": "gao_shan_liu_shui",
+      "path": "MIDI/gao_shan_liu_shui.mid",
+      "title": {
+        "en": "igh Mountains and Flowing Water",
+        "zh": "高山流水",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        60.0
+      ],
+      "time_signature": [
+        "4/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 264.0,
+      "note_lowest": "D2",
+      "note_highest": "D6",
+      "note_count": 1012,
+      "bar_count": 66,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/53.html",
+      "source": "GuZheng Midi-Wav Database, modified by the author",
+      "notes": "removed duplicated notes"
+    }
+  ]
+}
