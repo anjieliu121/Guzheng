@@ -65,6 +65,53 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/53.html",
       "source": "GuZheng Midi-Wav Database, modified by the author",
       "notes": "removed duplicated notes"
+    },
+    {
+      "id": "han_tian_lei",
+      "path": "MIDI/han_tian_lei.mid",
+      "title": {
+        "en": "Thunder in Drought",
+        "zh": "旱天雷",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        92.0,
+        75.208,
+        66.914,
+        58.758,
+        50.882,
+        43.446,
+        36.707,
+        31.005,
+        26.623,
+        23.614,
+        21.774,
+        20.766,
+        20.273,
+        20.069,
+        20.007
+      ],
+      "time_signature": [
+        "4/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 159.127,
+      "note_lowest": "A2",
+      "note_highest": "A5",
+      "note_count": 633,
+      "bar_count": 57,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/493.html",
+      "source": "created by the author",
+      "notes": "varying tempo"
     }
   ]
 }
