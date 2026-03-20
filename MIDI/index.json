@@ -37,7 +37,7 @@
       "id": "gao_shan_liu_shui",
       "path": "MIDI/gao_shan_liu_shui.mid",
       "title": {
-        "en": "igh Mountains and Flowing Water",
+        "en": "High Mountains and Flowing Water",
         "zh": "高山流水",
         "alt": []
       },
@@ -112,6 +112,75 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/493.html",
       "source": "created by the author",
       "notes": "varying tempo"
+    },
+    {
+      "id": "qian_sheng_fo",
+      "path": "MIDI/qian_sheng_fo.mid",
+      "title": {
+        "en": "Thousand Buddha Chants",
+        "zh": "千声佛",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": false,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        60.0
+      ],
+      "time_signature": [
+        "4/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 104.0,
+      "note_lowest": "A2",
+      "note_highest": "D5",
+      "note_count": 250,
+      "bar_count": 26,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1268.html",
+      "source": "created by the author",
+      "notes": "each note starts and ends exactly on-grid"
+    },
+    {
+      "id": "yu_zhou_chang_wan",
+      "path": "MIDI/yu_zhou_chang_wan.mid",
+      "title": {
+        "en": "Fisherman's Song at Dusk",
+        "zh": "渔舟唱晚",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        58.0
+      ],
+      "time_signature": [
+        "4/4",
+        "5/4",
+        "2/4",
+        "3/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 281.379,
+      "note_lowest": "A2",
+      "note_highest": "A5",
+      "note_count": 718,
+      "bar_count": 68,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/203.html",
+      "source": "created by the author based on (Cheng, 2022)",
+      "notes": "ocr doesn't work"
     }
   ]
 }
