@@ -249,6 +249,42 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/1981.html",
       "source": "created by the author based on (Cheng, 2022)",
       "notes": "different but better glissando"
+    },
+    {
+      "id": "ya_shan_ai",
+      "path": "MIDI/ya_shan_ai.mid",
+      "title": {
+        "en": "Mourning in Ya Shan",
+        "zh": "崖山哀",
+        "alt": [
+          "靠山",
+          "哭山"
+        ]
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        69.0
+      ],
+      "time_signature": [
+        "4/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 236.522,
+      "note_lowest": "A2",
+      "note_highest": "E5",
+      "note_count": 393,
+      "bar_count": 68,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1526.html",
+      "source": "created by the author based on (Cheng, 2022)",
+      "notes": "some bent notes were recorded while some decorative (subjectively determined) bent notes were disregarded"
     }
   ]
 }
