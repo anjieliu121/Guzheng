@@ -1,4 +1,6 @@
 # Guzheng
+# MIDI
+* No duplicates (notes with the same pitch, start tick, and similar duration)
 
 # Resources
 * [Wikepedia: Numbered Musical Notation](https://en.wikipedia.org/wiki/Numbered_musical_notation)

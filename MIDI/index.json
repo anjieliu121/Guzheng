@@ -285,6 +285,39 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/1526.html",
       "source": "created by the author based on (Cheng, 2022)",
       "notes": "some bent notes were recorded while some decorative (subjectively determined) bent notes were disregarded"
+    },
+    {
+      "id": "cai_yun_zhui_yue",
+      "path": "MIDI/cai_yun_zhui_yue.mid",
+      "title": {
+        "en": "Colorful Clouds Chasing the Moon",
+        "zh": "彩云追月",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        74.0
+      ],
+      "time_signature": [
+        "4/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 132.973,
+      "note_lowest": "D2",
+      "note_highest": "D6",
+      "note_count": 895,
+      "bar_count": 41,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/5411.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "modified directly in Sibelius"
     }
   ]
 }
