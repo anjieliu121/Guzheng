@@ -215,6 +215,40 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/921.html",
       "source": "created by the author based on (Cheng, 2022)",
       "notes": ""
+    },
+    {
+      "id": "nan_zheng_gong",
+      "path": "MIDI/nan_zheng_gong.mid",
+      "title": {
+        "en": "Nan Zheng Palace",
+        "zh": "南正宫",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        56.0
+      ],
+      "time_signature": [
+        "2/4",
+        "1/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 291.429,
+      "note_lowest": "A2",
+      "note_highest": "A5",
+      "note_count": 618,
+      "bar_count": 136,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1981.html",
+      "source": "created by the author based on (Cheng, 2022)",
+      "notes": "different but better glissando"
     }
   ]
 }
