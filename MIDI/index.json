@@ -181,6 +181,40 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/203.html",
       "source": "created by the author based on (Cheng, 2022)",
       "notes": "ocr doesn't work"
+    },
+    {
+      "id": "shang_lou",
+      "path": "MIDI/shang_lou.mid",
+      "title": {
+        "en": "Going Upstairs",
+        "zh": "上楼",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        88.0
+      ],
+      "time_signature": [
+        "2/4",
+        "3/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 109.773,
+      "note_lowest": "A2",
+      "note_highest": "D5",
+      "note_count": 369,
+      "bar_count": 80,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/921.html",
+      "source": "created by the author based on (Cheng, 2022)",
+      "notes": ""
     }
   ]
 }
