@@ -318,6 +318,43 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/5411.html",
       "source": "(Cheng, 2022), modified by the author",
       "notes": "modified directly in Sibelius"
+    },
+    {
+      "id": "zhan_tai_feng",
+      "path": "MIDI/zhan_tai_feng.mid",
+      "title": {
+        "en": "Battling the Typhoon",
+        "zh": "战台风",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "2/4",
+        "4/4",
+        "3/4",
+        "10/4",
+        "12/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 351.6,
+      "note_lowest": "D2",
+      "note_highest": "D6",
+      "note_count": 2741,
+      "bar_count": 293,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/964.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "modified directly in Sibelius, retouched glissando in MIDI, could adjust the tempo later"
     }
   ]
 }
