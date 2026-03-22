@@ -1,11 +1,11 @@
 # Guzheng
 # MIDI
-* `scripts/scan_midi_non_pentatonic.py` — list note-ons outside the scale’s pentatonic pitch classes (from `guzheng_scales.json`); optional `--apply` appends missing pitches to that scale’s `pressed_strings` as `m<MIDI>` entries.
 * Human-reviewed
 * No duplicated notes with the same pitch, start tick, and similar duration
 * No non-pentatonic notes played in glissando
 * No incorrect notes based on the sheets
-* Each music piece is transposed into 5 pentatonic scales (D, G, F, C, and A).
+* Each music piece is transposed into at most 5 pentatonic scales (D, G, F, C, and A).
+  * If the transposed file has a range outside the guzheng’s compass for that scale, then the file is disregarded.
   * We acknowledge that transposition is an approximation, not a substitute for real musical diversity. A real G pentatonic guzheng piece sounds different from a D pentatonic piece transposed up a fifth — the phrasing tendencies, the characteristic ornaments, and the idiomatic gestures differ by key because the physical layout of the guzheng strings changes with tuning. Augmentation via transposition increases pitch diversity in the training data but does not capture key-specific performance characteristics.
 
 # Resources
