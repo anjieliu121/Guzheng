@@ -467,6 +467,39 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/520.html",
       "source": "(Cheng, 2022), modified by the author",
       "notes": "modified in Sibelius, retouched glissando in MIDI, could adjust the tempo later"
+    },
+    {
+      "id": "chu_shui_lian",
+      "path": "MIDI/chu_shui_lian.mid",
+      "title": {
+        "en": "Lotus Flowers Emerging from Water",
+        "zh": "出水莲",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        46.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 354.783,
+      "note_lowest": "A2",
+      "note_highest": "D5",
+      "note_count": 646,
+      "bar_count": 136,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1003.html",
+      "source": "created by the author",
+      "notes": "basic sheet in Sibelius, corrected notes in MIDI"
     }
   ]
 }
