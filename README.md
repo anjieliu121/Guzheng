@@ -1,5 +1,6 @@
 # Guzheng
 # MIDI
+* `scripts/scan_midi_non_pentatonic.py` — list note-ons outside the scale’s pentatonic pitch classes (from `guzheng_scales.json`); optional `--apply` appends missing pitches to that scale’s `pressed_strings` as `m<MIDI>` entries.
 * Human-reviewed
 * No duplicated notes with the same pitch, start tick, and similar duration
 * No non-pentatonic notes played in glissando

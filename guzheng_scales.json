@@ -1,4 +1,5 @@
 {
+  "note": "Nominal open-string pitches per tuning. Bent/pressed strings can sound below the lowest entry; effective lowest SPN may be lower than listed here. Scale D pressed_strings includes standard pressed 4/7 plus microtonal variants (7b, 4#, 3b, 5#) found in the MIDI corpus. midiFilePressedJianpu: for each file in MIDI/ (basename, no .mid), which D-scale pressed jianpu match exact note-on MIDI pitches (all tracks). Empty array means no pressed pitch matched; glissandi without note-ons on those targets are not detected.",
   "scales": [
     {
       "scale": "A",
@@ -24,7 +25,8 @@
         {"stringNumber": 3, "jianpu": "1'", "staffNotation": "A", "scientificPitchNotation": "A5"},
         {"stringNumber": 2, "jianpu": "2'", "staffNotation": "B", "scientificPitchNotation": "B5"},
         {"stringNumber": 1, "jianpu": "3'", "staffNotation": "C#", "scientificPitchNotation": "C#6"}
-      ]
+      ],
+      "pressed_strings": []
     },
     {
       "scale": "G",
@@ -50,7 +52,8 @@
         {"stringNumber": 3, "jianpu": "2'", "staffNotation": "A", "scientificPitchNotation": "A5"},
         {"stringNumber": 2, "jianpu": "3'", "staffNotation": "B", "scientificPitchNotation": "B5"},
         {"stringNumber": 1, "jianpu": "5'", "staffNotation": "D", "scientificPitchNotation": "D6"}
-      ]
+      ],
+      "pressed_strings": []
     },
     {
       "scale": "C",
@@ -76,7 +79,8 @@
         {"stringNumber": 3, "jianpu": "6'", "staffNotation": "A", "scientificPitchNotation": "A5"},
         {"stringNumber": 2, "jianpu": "1''", "staffNotation": "C", "scientificPitchNotation": "C6"},
         {"stringNumber": 1, "jianpu": "2''", "staffNotation": "D", "scientificPitchNotation": "D6"}
-      ]
+      ],
+      "pressed_strings": []
     },
     {
       "scale": "Bb",
@@ -102,7 +106,8 @@
         {"stringNumber": 3, "jianpu": "1''", "staffNotation": "B♭", "scientificPitchNotation": "B♭5"},
         {"stringNumber": 2, "jianpu": "2''", "staffNotation": "C", "scientificPitchNotation": "C6"},
         {"stringNumber": 1, "jianpu": "3''", "staffNotation": "D", "scientificPitchNotation": "D6"}
-      ]
+      ],
+      "pressed_strings": []
     },
     {
       "scale": "D",
@@ -110,32 +115,40 @@
         {"stringNumber": 21, "jianpu": "1,,", "staffNotation": "D", "scientificPitchNotation": "D2"},
         {"stringNumber": 20, "jianpu": "2,,", "staffNotation": "E", "scientificPitchNotation": "E2"},
         {"stringNumber": 19, "jianpu": "3,,", "staffNotation": "F#", "scientificPitchNotation": "F#2"},
-        {"stringNumber": 19, "jianpu": "4,,", "staffNotation": "G", "scientificPitchNotation": "G2"},
         {"stringNumber": 18, "jianpu": "5,,", "staffNotation": "A", "scientificPitchNotation": "A2"},
         {"stringNumber": 17, "jianpu": "6,,", "staffNotation": "B", "scientificPitchNotation": "B2"},
-        {"stringNumber": 17, "jianpu": "7,,", "staffNotation": "C#", "scientificPitchNotation": "C#3"},
         {"stringNumber": 16, "jianpu": "1,", "staffNotation": "D", "scientificPitchNotation": "D3"},
         {"stringNumber": 15, "jianpu": "2,", "staffNotation": "E", "scientificPitchNotation": "E3"},
         {"stringNumber": 14, "jianpu": "3,", "staffNotation": "F#", "scientificPitchNotation": "F#3"},
-        {"stringNumber": 14, "jianpu": "4,", "staffNotation": "G", "scientificPitchNotation": "G3"},
         {"stringNumber": 13, "jianpu": "5,", "staffNotation": "A", "scientificPitchNotation": "A3"},
         {"stringNumber": 12, "jianpu": "6,", "staffNotation": "B", "scientificPitchNotation": "B3"},
-        {"stringNumber": 12, "jianpu": "7,", "staffNotation": "C#", "scientificPitchNotation": "C#4"},
         {"stringNumber": 11, "jianpu": "1", "staffNotation": "D", "scientificPitchNotation": "D4"},
         {"stringNumber": 10, "jianpu": "2", "staffNotation": "E", "scientificPitchNotation": "E4"},
         {"stringNumber": 9, "jianpu": "3", "staffNotation": "F#", "scientificPitchNotation": "F#4"},
-        {"stringNumber": 9, "jianpu": "4", "staffNotation": "G", "scientificPitchNotation": "G4"},
         {"stringNumber": 8, "jianpu": "5", "staffNotation": "A", "scientificPitchNotation": "A4"},
         {"stringNumber": 7, "jianpu": "6", "staffNotation": "B", "scientificPitchNotation": "B4"},
-        {"stringNumber": 7, "jianpu": "7", "staffNotation": "C#", "scientificPitchNotation": "C#5"},
         {"stringNumber": 6, "jianpu": "1'", "staffNotation": "D", "scientificPitchNotation": "D5"},
         {"stringNumber": 5, "jianpu": "2'", "staffNotation": "E", "scientificPitchNotation": "E5"},
         {"stringNumber": 4, "jianpu": "3'", "staffNotation": "F#", "scientificPitchNotation": "F#5"},
-        {"stringNumber": 4, "jianpu": "4'", "staffNotation": "G", "scientificPitchNotation": "G5"},
         {"stringNumber": 3, "jianpu": "5'", "staffNotation": "A", "scientificPitchNotation": "A5"},
         {"stringNumber": 2, "jianpu": "6'", "staffNotation": "B", "scientificPitchNotation": "B5"},
-        {"stringNumber": 2, "jianpu": "7'", "staffNotation": "C#", "scientificPitchNotation": "C#6"},
         {"stringNumber": 1, "jianpu": "1''", "staffNotation": "D", "scientificPitchNotation": "D6"}
+      ],
+      "pressed_strings": [
+        {"stringNumber": 19, "jianpu": "4,,", "staffNotation": "G", "scientificPitchNotation": "G2"},
+        {"stringNumber": 17, "jianpu": "7b,,", "staffNotation": "C", "scientificPitchNotation": "C3"},
+        {"stringNumber": 17, "jianpu": "7,,", "staffNotation": "C#", "scientificPitchNotation": "C#3"},
+        {"stringNumber": 14, "jianpu": "4,", "staffNotation": "G", "scientificPitchNotation": "G3"},
+        {"stringNumber": 14, "jianpu": "4#,", "staffNotation": "G#", "scientificPitchNotation": "G#3"},
+        {"stringNumber": 12, "jianpu": "7b,", "staffNotation": "C", "scientificPitchNotation": "C4"},
+        {"stringNumber": 12, "jianpu": "7,", "staffNotation": "C#", "scientificPitchNotation": "C#4"},
+        {"stringNumber": 9, "jianpu": "3b", "staffNotation": "F", "scientificPitchNotation": "F4"},
+        {"stringNumber": 9, "jianpu": "4", "staffNotation": "G", "scientificPitchNotation": "G4"},
+        {"stringNumber": 8, "jianpu": "5#", "staffNotation": "A#", "scientificPitchNotation": "A#4"},
+        {"stringNumber": 7, "jianpu": "7", "staffNotation": "C#", "scientificPitchNotation": "C#5"},
+        {"stringNumber": 4, "jianpu": "3b'", "staffNotation": "F", "scientificPitchNotation": "F5"},
+        {"stringNumber": 4, "jianpu": "4'", "staffNotation": "G", "scientificPitchNotation": "G5"},
+        {"stringNumber": 2, "jianpu": "7'", "staffNotation": "C#", "scientificPitchNotation": "C#6"}
       ]
     },
     {
@@ -162,7 +175,8 @@
         {"stringNumber": 3, "jianpu": "3'", "staffNotation": "A", "scientificPitchNotation": "A5"},
         {"stringNumber": 2, "jianpu": "5'", "staffNotation": "C", "scientificPitchNotation": "C6"},
         {"stringNumber": 1, "jianpu": "6'", "staffNotation": "D", "scientificPitchNotation": "D6"}
-      ]
+      ],
+      "pressed_strings": []
     }
   ]
 }
