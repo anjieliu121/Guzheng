@@ -7,6 +7,9 @@
 * Each music piece is transposed into at most 5 pentatonic scales (D, G, F, C, and A).
   * If the transposed file has a range outside the guzheng’s compass for that scale, then the file is disregarded.
   * We acknowledge that transposition is an approximation, not a substitute for real musical diversity. A real G pentatonic guzheng piece sounds different from a D pentatonic piece transposed up a fifth — the phrasing tendencies, the characteristic ornaments, and the idiomatic gestures differ by key because the physical layout of the guzheng strings changes with tuning. Augmentation via transposition increases pitch diversity in the training data but does not capture key-specific performance characteristics.
+* Tremolos, and glissandos are included.
+* Acciaccaturas, vibratos, and bends are not included.
+* All notes have a duration within the range of 10 ms and 10240 ms as per Moonbeam model configuration.
 
 # Resources
 * [Wikepedia: Numbered Musical Notation](https://en.wikipedia.org/wiki/Numbered_musical_notation)
