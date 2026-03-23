@@ -1,5 +1,6 @@
 {
   "items": [
+    {},
     {
       "id": "bu_bu_gao",
       "path": "MIDI/bu_bu_gao.mid",
@@ -11,6 +12,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -30,47 +34,45 @@
       "note_count": 321,
       "bar_count": 60,
       "source_sheet_url": "https://m.guzheng.cn/qupu/2186.html",
-      "source": "(Cheng, 2022), modified by the author",
-      "notes": "changed 3-note mock vibrato to just the note",
-      "instrument_program": [
-        0
-      ]
+      "source": "unknown, modified by the author",
+      "notes": "changed 3-note mock vibrato to just the note"
     },
     {
       "id": "gao_shan_liu_shui",
       "path": "MIDI/gao_shan_liu_shui.mid",
       "title": {
-        "en": "High Mountains and Flowing Water",
+        "en": "igh Mountains and Flowing Water",
         "zh": "高山流水",
         "alt": []
       },
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
       ],
       "tempo_bpm": [
-        60.0
+        40.0,
+        52.0
       ],
       "time_signature": [
-        "4/4"
+        "2/4"
       ],
       "key_signature": [
         "D"
       ],
-      "duration_seconds": 264.0,
+      "duration_seconds": 347.077,
       "note_lowest": "D2",
-      "note_highest": "D6",
-      "note_count": 1012,
-      "bar_count": 66,
+      "note_highest": "A5",
+      "note_count": 674,
+      "bar_count": 145,
       "source_sheet_url": "https://m.guzheng.cn/qupu/53.html",
-      "source": "GuZheng Midi-Wav Database, modified by the author",
-      "notes": "removed duplicated notes",
-      "instrument_program": [
-        0
-      ]
+      "source": "created by the author based on (Cheng, 2022)",
+      "notes": "no glissandos"
     },
     {
       "id": "han_tian_lei",
@@ -83,6 +85,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -113,14 +118,11 @@
       "duration_seconds": 159.127,
       "note_lowest": "A2",
       "note_highest": "A5",
-      "note_count": 633,
+      "note_count": 625,
       "bar_count": 57,
       "source_sheet_url": "https://m.guzheng.cn/qupu/493.html",
       "source": "created by the author",
-      "notes": "varying tempo",
-      "instrument_program": [
-        0
-      ]
+      "notes": "varying tempo"
     },
     {
       "id": "qian_sheng_fo",
@@ -133,6 +135,9 @@
       "mode": "pentatonic",
       "has_velocity": false,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -149,14 +154,11 @@
       "duration_seconds": 104.0,
       "note_lowest": "A2",
       "note_highest": "D5",
-      "note_count": 250,
+      "note_count": 246,
       "bar_count": 26,
       "source_sheet_url": "https://m.guzheng.cn/qupu/1268.html",
       "source": "created by the author",
-      "notes": "each note starts and ends exactly on-grid",
-      "instrument_program": [
-        0
-      ]
+      "notes": "each note starts and ends exactly on-grid"
     },
     {
       "id": "yu_zhou_chang_wan",
@@ -169,6 +171,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -192,10 +197,7 @@
       "bar_count": 68,
       "source_sheet_url": "https://m.guzheng.cn/qupu/203.html",
       "source": "created by the author based on (Cheng, 2022)",
-      "notes": "ocr doesn't work",
-      "instrument_program": [
-        0
-      ]
+      "notes": "ocr doesn't work"
     },
     {
       "id": "shang_lou",
@@ -208,6 +210,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -229,10 +234,7 @@
       "bar_count": 80,
       "source_sheet_url": "https://m.guzheng.cn/qupu/921.html",
       "source": "created by the author based on (Cheng, 2022)",
-      "notes": "",
-      "instrument_program": [
-        0
-      ]
+      "notes": ""
     },
     {
       "id": "nan_zheng_gong",
@@ -245,6 +247,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -266,246 +271,7 @@
       "bar_count": 136,
       "source_sheet_url": "https://m.guzheng.cn/qupu/1981.html",
       "source": "created by the author based on (Cheng, 2022)",
-      "notes": "different but better glissando",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "ya_shan_ai",
-      "path": "MIDI/ya_shan_ai.mid",
-      "title": {
-        "en": "Mourning in Ya Shan",
-        "zh": "崖山哀",
-        "alt": [
-          "靠山",
-          "哭山"
-        ]
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        69.0
-      ],
-      "time_signature": [
-        "4/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 236.522,
-      "note_lowest": "A2",
-      "note_highest": "E5",
-      "note_count": 393,
-      "bar_count": 68,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/1526.html",
-      "source": "created by the author based on (Cheng, 2022)",
-      "notes": "some bent notes were recorded while some decorative (subjectively determined) bent notes were disregarded",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "cai_yun_zhui_yue",
-      "path": "MIDI/cai_yun_zhui_yue.mid",
-      "title": {
-        "en": "Colorful Clouds Chasing the Moon",
-        "zh": "彩云追月",
-        "alt": []
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        74.0
-      ],
-      "time_signature": [
-        "4/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 132.973,
-      "note_lowest": "D2",
-      "note_highest": "D6",
-      "note_count": 895,
-      "bar_count": 41,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/5411.html",
-      "source": "(Cheng, 2022), modified by the author",
-      "notes": "modified directly in Sibelius",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "zhan_tai_feng",
-      "path": "MIDI/zhan_tai_feng.mid",
-      "title": {
-        "en": "Battling the Typhoon",
-        "zh": "战台风",
-        "alt": []
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        100.0
-      ],
-      "time_signature": [
-        "2/4",
-        "4/4",
-        "3/4",
-        "10/4",
-        "12/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 351.6,
-      "note_lowest": "D2",
-      "note_highest": "D6",
-      "note_count": 2741,
-      "bar_count": 293,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/964.html",
-      "source": "(Cheng, 2022), modified by the author",
-      "notes": "modified directly in Sibelius, retouched glissando in MIDI, could adjust the tempo later",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "chun_dao_la_sa",
-      "path": "MIDI/chun_dao_la_sa.mid",
-      "title": {
-        "en": "Spring Has Arrived in Lhasa",
-        "zh": "春到拉萨",
-        "alt": []
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        100.0,
-        72.0,
-        50.0,
-        154.0
-      ],
-      "time_signature": [
-        "4/4",
-        "13/4",
-        "2/4",
-        "3/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 263.433,
-      "note_lowest": "D2",
-      "note_highest": "D6",
-      "note_count": 1913,
-      "bar_count": 91,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/966.html",
-      "source": "(Cheng, 2022), modified by the author",
-      "notes": "modified directly in Sibelius, retouched glissando and corrected notes in MIDI",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "dan_dian_tou_luan_cha_hua",
-      "path": "MIDI/dan_dian_tou_luan_cha_hua.mid",
-      "title": {
-        "en": "To Arrange Flowers in Disorder",
-        "zh": "单点头乱插花",
-        "alt": [
-          "丹凤点头",
-          "乱插花",
-          "单点头"
-        ]
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        60.0,
-        108.0
-      ],
-      "time_signature": [
-        "2/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 211.556,
-      "note_lowest": "A2",
-      "note_highest": "D6",
-      "note_count": 651,
-      "bar_count": 136,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/25.html",
-      "source": "created by the author",
-      "notes": "basic sheet in Sibelius, corrected notes in MIDI",
-      "instrument_program": [
-        0
-      ]
-    },
-    {
-      "id": "chun_miao",
-      "path": "MIDI/chun_miao.mid",
-      "title": {
-        "en": "Spring Sprouts",
-        "zh": "春苗",
-        "alt": []
-      },
-      "mode": "pentatonic",
-      "has_velocity": true,
-      "has_pitch_bend": false,
-      "track_count": 1,
-      "track_names": [
-        "Guzheng"
-      ],
-      "tempo_bpm": [
-        100.0
-      ],
-      "time_signature": [
-        "4/4",
-        "3/4",
-        "2/4"
-      ],
-      "key_signature": [
-        "D"
-      ],
-      "duration_seconds": 126.0,
-      "note_lowest": "A2",
-      "note_highest": "D6",
-      "note_count": 1053,
-      "bar_count": 52,
-      "source_sheet_url": "https://m.guzheng.cn/qupu/520.html",
-      "source": "(Cheng, 2022), modified by the author",
-      "notes": "modified in Sibelius, retouched glissando in MIDI, could adjust the tempo later",
-      "instrument_program": [
-        0
-      ]
+      "notes": "different but better glissando"
     },
     {
       "id": "chu_shui_lian",
@@ -518,6 +284,9 @@
       "mode": "pentatonic",
       "has_velocity": true,
       "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
       "track_count": 1,
       "track_names": [
         "Guzheng"
@@ -538,10 +307,7 @@
       "bar_count": 136,
       "source_sheet_url": "https://m.guzheng.cn/qupu/1003.html",
       "source": "created by the author",
-      "notes": "basic sheet in Sibelius, corrected notes in MIDI",
-      "instrument_program": [
-        0
-      ]
+      "notes": "basic sheet in Sibelius, corrected notes in MIDI"
     }
   ]
 }
