@@ -2,7 +2,12 @@
 tips.md
 scripts/
 sheets/
+.claude/
+checkpoints/
+data/
+midi-rwkv/
 moonbeam/
+outputs/
 
 # MacOS
 .DS_Store

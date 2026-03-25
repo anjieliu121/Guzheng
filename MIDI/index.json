@@ -1,6 +1,5 @@
 {
   "items": [
-    {},
     {
       "id": "bu_bu_gao",
       "path": "MIDI/bu_bu_gao.mid",
@@ -308,6 +307,78 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/1003.html",
       "source": "created by the author",
       "notes": "basic sheet in Sibelius, corrected notes in MIDI"
+    },
+    {
+      "id": "ba_yue_gui_hua_bian_di_kai",
+      "path": "MIDI/ba_yue_gui_hua_bian_di_kai.mid",
+      "title": {
+        "en": "Osmanthus Flowers Blooming Everywhere in August",
+        "zh": "八月桂花遍地开",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        80.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 87.0,
+      "note_lowest": "F#2",
+      "note_highest": "D6",
+      "note_count": 502,
+      "bar_count": 58,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/519.html",
+      "source": "created by the author",
+      "notes": "basic sheet in Sibelius, adjusted overlapping notes in MIDI"
+    },
+    {
+      "id": "da_yan",
+      "path": "MIDI/da_yan.mid",
+      "title": {
+        "en": "Shooting the Wild Goose",
+        "zh": "打雁",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        72.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "G"
+      ],
+      "duration_seconds": 113.333,
+      "note_lowest": "D3",
+      "note_highest": "G5",
+      "note_count": 486,
+      "bar_count": 68,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/30.html",
+      "source": "created by the author",
+      "notes": "basic sheet in Sibelius, retouched glissando in MIDI, could add f/mf/mp/p in the sheet later"
     }
   ]
 }
