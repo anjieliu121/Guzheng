@@ -5,9 +5,11 @@ sheets/
 .claude/
 checkpoints/
 data/
+logs/
 midi-rwkv/
 moonbeam/
 outputs/
+transformer/
 
 # MacOS
 .DS_Store

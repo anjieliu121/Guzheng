@@ -379,6 +379,44 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/30.html",
       "source": "created by the author",
       "notes": "basic sheet in Sibelius, retouched glissando in MIDI, could add f/mf/mp/p in the sheet later"
+    },
+    {
+      "id": "bai_jia_chun_han_gao",
+      "path": "MIDI/bai_jia_chun_han_gao.mid",
+      "title": {
+        "en": "The Joyful Spring (Hakka ver.)",
+        "zh": "百家春（汉皋）",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        48.0,
+        76.0,
+        84.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 199.793,
+      "note_lowest": "A2",
+      "note_highest": "F#5",
+      "note_count": 406,
+      "bar_count": 99,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1885.html",
+      "source": "created by the author",
+      "notes": "basic sheet in Sibelius"
     }
   ]
 }
