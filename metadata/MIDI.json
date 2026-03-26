@@ -417,6 +417,48 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/1885.html",
       "source": "created by the author",
       "notes": "basic sheet in Sibelius"
+    },
+    {
+      "id": "chun_dao_la_sa",
+      "path": "MIDI/chun_dao_la_sa.mid",
+      "title": {
+        "en": "Spring Has Arrived in Lhasa",
+        "zh": "春到拉萨",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0,
+        72.0,
+        50.0,
+        154.0
+      ],
+      "time_signature": [
+        "4/4",
+        "13/4",
+        "2/4",
+        "3/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 263.433,
+      "note_lowest": "D2",
+      "note_highest": "D6",
+      "note_count": 1909,
+      "bar_count": 91,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/966.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "modified directly in Sibelius, retouched glissando and corrected notes in MIDI"
     }
   ]
 }

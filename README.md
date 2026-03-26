@@ -1,5 +1,5 @@
 # Guzheng
-# MIDI
+# Data Processing
 * Human-reviewed
 * No duplicated notes with the same pitch, start tick, and similar duration
 * No non-pentatonic notes played in glissando
@@ -12,6 +12,7 @@
 * All notes have a duration within the range of 10 ms and 10240 ms as per Moonbeam model configuration.
 * Since each MIDI file contains a single track merging both hands, overlapping notes are removed or handeled in a case-by-case manner during preprocessing to ensure a clean note sequence.
 * No notes are slightly off the grid due to human errors.
+* Notes rarely played in a pentatonic scale are adjusted to the next closest pentatonic note.
 
 # Resources
 * [Wikepedia: Numbered Musical Notation](https://en.wikipedia.org/wiki/Numbered_musical_notation)

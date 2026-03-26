@@ -3,13 +3,9 @@ tips.md
 scripts/
 sheets/
 .claude/
-checkpoints/
-data/
-logs/
-midi-rwkv/
-moonbeam/
-outputs/
-transformer/
+archive/
+notes/
+prompts/
 
 # MacOS
 .DS_Store
