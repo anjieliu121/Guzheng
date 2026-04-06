@@ -3,9 +3,12 @@ tips.md
 scripts/
 sheets/
 .claude/
-archive/
 notes/
 prompts/
+test_and_trial_*/
+thesis/
+raw_data_web_scraped/
+docs/
 
 # MacOS
 .DS_Store

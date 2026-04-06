@@ -459,6 +459,309 @@
       "source_sheet_url": "https://m.guzheng.cn/qupu/966.html",
       "source": "(Cheng, 2022), modified by the author",
       "notes": "modified directly in Sibelius, retouched glissando and corrected notes in MIDI"
+    },
+    {
+      "id": "chun_jiang_hua_yue_ye",
+      "path": "raw_data/MIDI/chun_jiang_hua_yue_ye.mid",
+      "title": {
+        "en": "The Moon over the River on a Spring Night",
+        "zh": "春江花月夜",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "A"
+      ],
+      "duration_seconds": 81.6,
+      "note_lowest": "E4",
+      "note_highest": "E6",
+      "note_count": 550,
+      "bar_count": 68,
+      "source_sheet_url": "http://www.eryixian.com/qpbz/qpdq/1217.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, Bb scale to A scale"
+    },
+    {
+      "id": "zhao_jun_yuan",
+      "path": "raw_data/MIDI/zhao_jun_yuan.mid",
+      "title": {
+        "en": "Lament of Lady Zhaojun",
+        "zh": "昭君怨",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        50.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 326.4,
+      "note_lowest": "A2",
+      "note_highest": "D5",
+      "note_count": 519,
+      "bar_count": 136,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/542.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, 7b to 7"
+    },
+    {
+      "id": "he_nan_ba_ban",
+      "path": "raw_data/MIDI/he_nan_ba_ban.mid",
+      "title": {
+        "en": "Henan Eight Beats",
+        "zh": "河南八板",
+        "alt": [
+          "天下大同"
+        ]
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "2/4",
+        "3/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 88.2,
+      "note_lowest": "A2",
+      "note_highest": "E5",
+      "note_count": 340,
+      "bar_count": 73,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/63.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, 4# to 5, notes corrected in MIDI, (55) to 5"
+    },
+    {
+      "id": "fen_die_cai_hua",
+      "path": "raw_data/MIDI/fen_die_cai_hua.mid",
+      "title": {
+        "en": "Pink Butterflies Gathering Pollen",
+        "zh": "粉蝶采花",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        63.0,
+        92.0,
+        112.0,
+        126.0,
+        132.0
+      ],
+      "time_signature": [
+        "2/4",
+        "1/4"
+      ],
+      "key_signature": [
+        "F"
+      ],
+      "duration_seconds": 307.02,
+      "note_lowest": "C3",
+      "note_highest": "E5",
+      "note_count": 1416,
+      "bar_count": 248,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1513.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius"
+    },
+    {
+      "id": "yu_mei_ren",
+      "path": "raw_data/MIDI/yu_mei_ren.mid",
+      "title": {
+        "en": "Much Sorrow",
+        "zh": "虞美人",
+        "alt": [
+          "几多愁"
+        ]
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        60.0
+      ],
+      "time_signature": [
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 144.0,
+      "note_lowest": "D3",
+      "note_highest": "A5",
+      "note_count": 390,
+      "bar_count": 72,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/1513.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius"
+    },
+    {
+      "id": "fang_zhi_mang",
+      "path": "raw_data/MIDI/fang_zhi_mang.mid",
+      "title": {
+        "en": "Busy Weaving",
+        "zh": "纺织忙",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        80.0
+      ],
+      "time_signature": [
+        "4/4",
+        "2/4",
+        "1/4"
+      ],
+      "key_signature": [
+        "G"
+      ],
+      "duration_seconds": 147.0,
+      "note_lowest": "D3",
+      "note_highest": "D6",
+      "note_count": 809,
+      "bar_count": 49,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/36.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, add left hand later"
+    },
+    {
+      "id": "dong_ting_xin_ge",
+      "path": "raw_data/MIDI/dong_ting_xin_ge.mid",
+      "title": {
+        "en": "New Song of Dongting Lake",
+        "zh": "洞庭新歌",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "26/4",
+        "4/4",
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 408.0,
+      "note_lowest": "D2",
+      "note_highest": "D6",
+      "note_count": 1122,
+      "bar_count": 26,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/34.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, removed decorative tremolos, added section 4 in MIDI"
+    },
+    {
+      "id": "liu_yang_he",
+      "path": "raw_data/MIDI/liu_yang_he.mid",
+      "title": {
+        "en": "Liuyang River",
+        "zh": "浏阳河",
+        "alt": []
+      },
+      "mode": "pentatonic",
+      "has_velocity": true,
+      "has_pitch_bend": false,
+      "instrument_program": [
+        0
+      ],
+      "track_count": 1,
+      "track_names": [
+        "Guzheng"
+      ],
+      "tempo_bpm": [
+        100.0
+      ],
+      "time_signature": [
+        "30/4",
+        "2/4"
+      ],
+      "key_signature": [
+        "D"
+      ],
+      "duration_seconds": 120.0,
+      "note_lowest": "E2",
+      "note_highest": "D6",
+      "note_count": 790,
+      "bar_count": 6,
+      "source_sheet_url": "https://m.guzheng.cn/qupu/525.html",
+      "source": "(Cheng, 2022), modified by the author",
+      "notes": "basic sheet in Sibelius, corrected arpeggios in MIDI"
     }
   ]
 }
