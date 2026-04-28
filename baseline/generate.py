@@ -1,0 +1,216 @@
+"""Generate samples from a trained baseline checkpoint.
+
+Usage:
+    python baseline/generate.py --n 50
+    python baseline/generate.py --n 10 --config small
+    python baseline/generate.py --n 5 --ckpt path/to/checkpoint.pth
+"""
+
+import argparse
+import re
+import subprocess
+import sys
+import time
+from datetime import datetime
+from pathlib import Path
+
+import torch
+
+ROOT = Path(__file__).resolve().parent
+
+# Patch sys.argv to avoid argparse conflict with train.py
+_saved_argv = sys.argv
+sys.argv = [sys.argv[0]]
+from train import Baseline, PATCH_SIZE, BOS_ID, EOS_ID, PAD_ID, VOCAB_SIZE, CONFIGS
+sys.argv = _saved_argv
+
+CKPT_DIR = ROOT / "checkpoints"
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--n", type=int, default=50, help="number of valid samples to produce")
+ap.add_argument("--config", choices=["medium", "small", "tiny"], default="medium")
+ap.add_argument("--ckpt", type=str, default=None, help="checkpoint path (default: auto)")
+ap.add_argument("--max_patches", type=int, default=128, help="max patches to generate")
+ap.add_argument("--window", type=int, default=64, help="sliding window for patch decoder")
+ap.add_argument("--temperature", type=float, default=1.2)
+ap.add_argument("--top_k", type=int, default=9)
+ap.add_argument("--top_p", type=float, default=0.9)
+ap.add_argument("--outdir", type=str, default=None)
+args = ap.parse_args()
+
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+elif torch.cuda.is_available():
+    device = torch.device("cuda")
+else:
+    device = torch.device("cpu")
+print(f"[device] {device}")
+
+ckpt_path = Path(args.ckpt) if args.ckpt else CKPT_DIR / f"baseline_{args.config}_best.pth"
+print(f"[ckpt] {ckpt_path}")
+ckpt = torch.load(ckpt_path, map_location="cpu", weights_only=False)
+
+cfg_name = ckpt.get("config", args.config)
+CFG = CONFIGS[cfg_name]
+max_patches = ckpt.get("max_patches", args.max_patches)
+
+model = Baseline(
+    d_model=ckpt.get("d_model", CFG["d_model"]),
+    n_heads=ckpt.get("n_heads", CFG["n_heads"]),
+    patch_layers=ckpt.get("patch_layers", CFG["patch_layers"]),
+    char_layers=ckpt.get("char_layers", CFG["char_layers"]),
+    d_ff=ckpt.get("d_ff", CFG["d_ff"]),
+    max_patches=max_patches,
+    dropout=0.0,
+).to(device)
+
+model.load_state_dict(ckpt["model"])
+model.eval()
+
+n_params = sum(p.numel() for p in model.parameters())
+print(f"[model] baseline-{cfg_name} params: {n_params/1e6:.2f}M  "
+      f"epoch={ckpt.get('epoch','?')}  eval_loss={ckpt.get('eval_loss','?')}")
+
+if args.outdir:
+    outdir = Path(args.outdir)
+else:
+    stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    outdir = ROOT / "generated" / stamp
+outdir.mkdir(parents=True, exist_ok=True)
+print(f"[output] {outdir}")
+
+# Same prompt metadata as NotaGen — locks key/meter/unit length to training distribution.
+PROMPT_TEXT = 'L:1/32\nM:4/4\nK:C\nV:1 treble nm="Guzheng"\n[V:1]'
+
+
+def text_to_patches(text):
+    ids = [ord(c) for c in text if ord(c) < VOCAB_SIZE]
+    patches = []
+    patches.append([BOS_ID] * 15 + [EOS_ID])
+    for i in range(0, len(ids), PATCH_SIZE):
+        chunk = ids[i:i + PATCH_SIZE]
+        if len(chunk) < PATCH_SIZE:
+            chunk = chunk + [PAD_ID] * (PATCH_SIZE - len(chunk))
+        patches.append(chunk)
+    return patches
+
+
+def patches_to_text(patches):
+    """Decode patches back to ABC text, skipping BOS/EOS/PAD."""
+    text = []
+    for patch in patches:
+        for c in patch:
+            if c > 2:
+                text.append(chr(c))
+    return "".join(text)
+
+
+def clean_abc(raw):
+    """Clean baseline output for abc2midi.
+
+    The model tends to re-emit [V:1] headers and produce fragmented lines —
+    we merge tunebody content into continuous bars."""
+    lines = raw.split("\n")
+    lines = [re.sub(r'\[r:[^\]]*\]', '', l).rstrip() for l in lines]
+    lines = [l for l in lines if l]
+
+    header = []
+    body_parts = []
+    in_body = False
+    for line in lines:
+        if not in_body:
+            if line.startswith("[V:"):
+                in_body = True
+                header.append(line.split("]")[0] + "]")
+                rest = "]".join(line.split("]")[1:]).strip()
+                if rest:
+                    body_parts.append(rest)
+            else:
+                header.append(line)
+        else:
+            cleaned = re.sub(r'\[V:1[^\]]*\]', '', line).strip()
+            if cleaned:
+                body_parts.append(cleaned)
+
+    body = " ".join(body_parts)
+    body = re.sub(r'\s+', ' ', body).strip()
+
+    out_lines = []
+    has_x = False
+    for h in header:
+        if h.startswith("X:"):
+            has_x = True
+        out_lines.append(h)
+    if not has_x:
+        out_lines.insert(0, "X:1")
+
+    if body:
+        bars = body.split("|")
+        line = ""
+        for bar in bars:
+            bar = bar.strip()
+            if not bar:
+                continue
+            if line:
+                line += " | " + bar
+            else:
+                line = bar
+            if len(line) > 60:
+                out_lines.append(line + " |")
+                line = ""
+        if line:
+            out_lines.append(line + " |]")
+
+    return "\n".join(out_lines) + "\n"
+
+
+prompt_patches = text_to_patches(PROMPT_TEXT)
+print(f"[prompt] {len(prompt_patches)} patches from metadata")
+
+valid = 0
+total = 0
+
+# Try up to 3x to get n valid samples (some abc2midi conversions fail).
+for idx in range(1, args.n * 3 + 1):
+    if valid >= args.n:
+        break
+    total += 1
+
+    t0 = time.time()
+    with torch.no_grad():
+        gen_patches = model.generate(
+            prompt_patches,
+            max_patches=args.max_patches,
+            temperature=args.temperature,
+            top_k=args.top_k,
+            top_p=args.top_p,
+            window=args.window,
+        )
+
+    abc_raw = patches_to_text(gen_patches)
+    abc_clean = clean_abc(abc_raw)
+    elapsed = time.time() - t0
+
+    abc_path = outdir / f"sample_{valid+1:02d}.abc"
+    abc_path.write_text(abc_clean, encoding="utf-8")
+
+    mid_path = outdir / f"sample_{valid+1:02d}.mid"
+    try:
+        subprocess.run(
+            ["abc2midi", str(abc_path), "-o", str(mid_path)],
+            capture_output=True, text=True, timeout=30)
+        if mid_path.exists() and mid_path.stat().st_size > 100:
+            valid += 1
+            n_patches = len(gen_patches) - len(prompt_patches)
+            print(f"  [{valid:2d}/{args.n}] sample_{valid:02d} "
+                  f"patches={n_patches} chars={len(abc_raw)} {elapsed:.1f}s")
+        else:
+            abc_path.unlink(missing_ok=True)
+            mid_path.unlink(missing_ok=True)
+            print(f"  [skip] attempt {total}: abc2midi produced empty MIDI")
+    except Exception as e:
+        abc_path.unlink(missing_ok=True)
+        mid_path.unlink(missing_ok=True)
+        print(f"  [skip] attempt {total}: {e}")
+
+print(f"\n[done] {valid}/{args.n} valid MIDI in {outdir}")

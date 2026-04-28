@@ -11,6 +11,14 @@ raw_data_web_scraped/
 docs/
 MIDI_transposed/
 
+# Model artifacts (host externally — too large for Git)
+notagen/checkpoints/
+notagen/logs/
+notagen/generated/
+baseline/checkpoints/
+baseline/logs/
+baseline/generated/
+
 # MacOS
 .DS_Store
 
