@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this code, dataset, or trained models, please cite as follows."
+type: software
+title: "Guzheng music generation: fine-tuning NotaGen for traditional Chinese music"
+authors:
+  - family-names: "Liu"
+    given-names: "Anjie"
+    email: "anjiehst@gmail.com"
+abstract: >
+  Code, dataset, and trained models for generating traditional Chinese guzheng music
+  using hierarchical patch-character language models. Compares a fine-tune of
+  NotaGen-medium (pre-trained on ~1M Western scores) against an identical-architecture
+  model trained from scratch on the same corpus, isolating the contribution of
+  pre-training. Includes 26 hand-curated guzheng repertoire pieces, 99 pieces from
+  the Guzheng-Tech99 dataset, and 1,875 ABC samples (125 pieces × 15 keys).
+keywords:
+  - music-generation
+  - guzheng
+  - chinese-music
+  - abc-notation
+  - language-models
+  - notagen
+license: MIT
+license-url: "https://github.com/anjieliu121/Guzheng/blob/main/LICENSE"
+repository-code: "https://github.com/anjieliu121/Guzheng"
+url: "https://github.com/anjieliu121/Guzheng"
+version: "1.0.0"
+date-released: "2026-04-28"
+references:
+  - type: software
+    title: "NotaGen-guzheng (fine-tuned model weights)"
+    authors:
+      - family-names: "Liu"
+        given-names: "Anjie"
+    url: "https://huggingface.co/anjieliu/notagen-guzheng"
+    repository-code: "https://huggingface.co/anjieliu/notagen-guzheng"
+  - type: software
+    title: "Baseline-guzheng (from-scratch baseline weights)"
+    authors:
+      - family-names: "Liu"
+        given-names: "Anjie"
+    url: "https://huggingface.co/anjieliu/baseline-guzheng"
+    repository-code: "https://huggingface.co/anjieliu/baseline-guzheng"
+  - type: article
+    title: "NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms"
+    authors:
+      - family-names: "Wang"
+        given-names: "Yashan"
+    url: "https://arxiv.org/abs/2502.18008"
