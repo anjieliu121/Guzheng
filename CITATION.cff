@@ -26,6 +26,10 @@ repository-code: "https://github.com/anjieliu121/Guzheng"
 url: "https://github.com/anjieliu121/Guzheng"
 version: "1.0.0"
 date-released: "2026-04-28"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19868672"
+    description: "Zenodo archive of the v1.0-thesis release"
 references:
   - type: software
     title: "NotaGen-guzheng (fine-tuned model weights)"

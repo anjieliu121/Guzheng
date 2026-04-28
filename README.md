@@ -132,5 +132,11 @@ streams from this file directly; no separate per-key directory tree needed.
 Code is MIT licensed. Data and trained weights are CC-BY-SA 4.0.
 See [LICENSE](LICENSE) for the full breakdown including upstream attributions.
 
-If you use this work, please cite the [NotaGen paper](https://arxiv.org/abs/2502.18008)
-and the thesis (citation TBD).
+If you use this work, please cite:
+
+- This repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19868672.svg)](https://doi.org/10.5281/zenodo.19868672) — `10.5281/zenodo.19868672`
+- The upstream model: [NotaGen (Wang et al., 2025)](https://arxiv.org/abs/2502.18008)
+
+Ready-to-paste BibTeX entries are in [`paper.bib`](paper.bib). The "Cite this
+repository" button at the top of the GitHub page also auto-generates BibTeX/APA
+from [`CITATION.cff`](CITATION.cff).
