@@ -9,6 +9,7 @@ test_and_trial_*/
 thesis/
 raw_data_web_scraped/
 docs/
+MIDI_transposed/
 
 # MacOS
 .DS_Store
