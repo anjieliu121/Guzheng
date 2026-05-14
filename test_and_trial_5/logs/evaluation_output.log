@@ -1,0 +1,47 @@
+Evaluating training data baseline...
+  196 files
+Evaluating test data...
+  59 files
+Evaluating rwkv-0/val_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8335
+Evaluating rwkv-0/test_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8189
+Evaluating rwkv-0/synthetic_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8164
+  Combined: 15 files, OA_pc=0.8371
+Evaluating rwkv-2/val_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8313
+Evaluating rwkv-2/test_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8073
+Evaluating rwkv-2/synthetic_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8411
+  Combined: 15 files, OA_pc=0.8378
+Evaluating rwkv-4/val_postprocessed...
+  5 files, purity=1.0, OA_pc=0.7948
+Evaluating rwkv-4/test_postprocessed...
+  5 files, purity=1.0, OA_pc=0.8216
+Evaluating rwkv-4/synthetic_postprocessed...
+  5 files, purity=1.0, OA_pc=0.82
+  Combined: 15 files, OA_pc=0.8419
+
+Results saved to: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/evaluation/evaluation_results.json
+Report saved to: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/evaluation/evaluation_report.md
+
+==========================================================================================
+EVALUATION SUMMARY
+==========================================================================================
+Variant                                  Files  Notes   Penta%   Dens    OA_PC    OA_Dur   Rep4g   
+--------------------------------------------------------------------------------------------
+training                                 196    254.1   1.0      2.27    1.0000   1.0000   0.5276  
+rwkv-0/val_postprocessed                 5      155.0   1.0      4.32    0.8335   0.6701   0.0     
+rwkv-0/test_postprocessed                5      97.0    1.0      3.03    0.8189   0.6143   0.0133  
+rwkv-0/synthetic_postprocessed           5      139.0   1.0      3.53    0.8164   0.6356   0.0     
+rwkv-0/all_postprocessed                 15     130.3   1.0      3.63    0.8371   0.6648   0.0044  
+rwkv-2/val_postprocessed                 5      191.6   1.0      5.26    0.8313   0.5571   0.0065  
+rwkv-2/test_postprocessed                5      96.8    1.0      5.17    0.8073   0.5722   0.0024  
+rwkv-2/synthetic_postprocessed           5      153.6   1.0      5.1     0.8411   0.5822   0.0105  
+rwkv-2/all_postprocessed                 15     147.3   1.0      5.18    0.8378   0.5886   0.0065  
+rwkv-4/val_postprocessed                 5      207.6   1.0      3.09    0.7948   0.6156   0.139   
+rwkv-4/test_postprocessed                5      108.0   1.0      2.65    0.8216   0.7117   0.0     
+rwkv-4/synthetic_postprocessed           5      141.8   1.0      4.28    0.82     0.7273   0.0     
+rwkv-4/all_postprocessed                 15     152.5   1.0      3.34    0.8419   0.697    0.0463  

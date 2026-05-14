@@ -1,0 +1,48 @@
+{
+  "config": {
+    "peft_path": "/Users/anjie/Documents/MyGuzheng/Guzheng/archive/midi-rwkv/RWKV-PEFT/peft_model_guzheng/rwkv-2.pth",
+    "temperature": 0.7,
+    "top_p": 0.85,
+    "max_new_tokens": 512,
+    "prompt_tokens": 64,
+    "seed": 42
+  },
+  "results": [
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07/constrained_00_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07_unconstrained/unconstrained_00_A.mid",
+      "scale": "A",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07/constrained_01_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07_unconstrained/unconstrained_01_A.mid",
+      "scale": "A",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07/constrained_02_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_temp07_unconstrained/unconstrained_02_G.mid",
+      "scale": "G",
+      "type": "unconstrained",
+      "tokens": 577
+    }
+  ]
+}

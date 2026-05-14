@@ -1,0 +1,69 @@
+============================================================
+STEP 4: POST-PROCESSING (Trial 4)
+============================================================
+
+rwkv-0/val: 5 files
+  val_00_A.mid: 241 notes (scale: A)
+  val_01_D.mid: 165 notes (scale: D)
+  val_02_C.mid: 109 notes (scale: C)
+  val_03_D.mid: 123 notes (scale: D)
+  val_04_D.mid: 148 notes (scale: D)
+
+rwkv-0/test: 5 files
+  test_05_C.mid: 68 notes (scale: C)
+  test_06_A.mid: 80 notes (scale: A)
+  test_07_G.mid: 93 notes (scale: G)
+  test_08_F.mid: 218 notes (scale: F)
+  test_09_D.mid: 34 notes (scale: D)
+
+rwkv-0/synthetic: 5 files
+  synthetic_10_A.mid: 179 notes (scale: A)
+  synthetic_11_C.mid: 167 notes (scale: C)
+  synthetic_12_D.mid: 77 notes (scale: D)
+  synthetic_13_F.mid: 162 notes (scale: F)
+  synthetic_14_G.mid: 119 notes (scale: G)
+
+rwkv-2/val: 5 files
+  val_00_A.mid: 288 notes (scale: A)
+  val_01_D.mid: 47 notes (scale: D)
+  val_02_C.mid: 261 notes (scale: C)
+  val_03_D.mid: 135 notes (scale: D)
+  val_04_D.mid: 241 notes (scale: D)
+
+rwkv-2/test: 5 files
+  test_05_C.mid: 177 notes (scale: C)
+  test_06_A.mid: 57 notes (scale: A)
+  test_07_G.mid: 65 notes (scale: G)
+  test_08_F.mid: 24 notes (scale: F)
+  test_09_D.mid: 170 notes (scale: D)
+
+rwkv-2/synthetic: 5 files
+  synthetic_10_A.mid: 165 notes (scale: A)
+  synthetic_11_C.mid: 137 notes (scale: C)
+  synthetic_12_D.mid: 199 notes (scale: D)
+  synthetic_13_F.mid: 178 notes (scale: F)
+  synthetic_14_G.mid: 104 notes (scale: G)
+
+rwkv-4/val: 5 files
+  val_00_A.mid: 173 notes (scale: A)
+  val_01_D.mid: 184 notes (scale: D)
+  val_02_C.mid: 200 notes (scale: C)
+  val_03_D.mid: 392 notes (scale: D)
+  val_04_D.mid: 98 notes (scale: D)
+
+rwkv-4/test: 5 files
+  test_05_C.mid: 44 notes (scale: C)
+  test_06_A.mid: 196 notes (scale: A)
+  test_07_G.mid: 207 notes (scale: G)
+  test_08_F.mid: 89 notes (scale: F)
+  test_09_D.mid: 19 notes (scale: D)
+
+rwkv-4/synthetic: 5 files
+  synthetic_10_A.mid: 105 notes (scale: A)
+  synthetic_11_C.mid: 183 notes (scale: C)
+  synthetic_12_D.mid: 183 notes (scale: D)
+  synthetic_13_F.mid: 187 notes (scale: F)
+  synthetic_14_G.mid: 58 notes (scale: G)
+
+============================================================
+Post-processing complete: 45 files processed, 0 skipped

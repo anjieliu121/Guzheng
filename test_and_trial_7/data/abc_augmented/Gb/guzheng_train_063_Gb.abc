@@ -1,0 +1,43 @@
+L:1/32
+M:4/4
+Q:1/4=99
+K:Gb
+V:1 treble nm="Guzheng"
+
+[V:1]z8 E,4 E4 B,4 D4 E,4 E3 E-|
+[V:1]E3 D4 B,4 D4 E16 A,-|
+[V:1]A,3 A4 A,4 A4 B4 d4 E,3 E3 D2 B,-|
+[V:1]B,2 D4 E,8 E8 [E,-E-]10|
+[V:1][E,E]7 A,3 A5 E4 B4 A,4 A4 A-|
+[V:1]A3 A3 E4 A4 D4 E4 A,8 A2-|
+[V:1]A6 E,4 E4 B,4 D4 E,4 E3 E3-|
+[V:1]E D5 B,3 D4 E17 A,2-|
+[V:1]A,2 A4 A,4 A4 B4 d4 E,4 E2 D B,3-|
+[V:1]B, D4 E,8 E8 [E,-E-]11|
+[V:1][E,E]5 D4 d4 B4 e4 D4 d4 d3-|
+[V:1]d B4 A,8 A8 E3 e4 e4|
+[V:1]d4 d4 d4 B4 d4 A,3 A2 A2 E4 A-|
+[V:1]A3 A,8 A9 [A,-A-]12|
+[V:1][A,A]5 A,4 A4 A4 B4 D4 d3 d4|
+[V:1]d4 B,9 B8 D4 d4 B3|
+[V:1]e4 D4 d4 d4 B3 A,4 A4 A4 d-|
+[V:1]d3 B4 d4 B4 A4 A4 A4 F4 A-|
+[V:1]A3 E,8 E9 [E,-E-]12|
+[V:1][E,E]4 A,4 A4 A4 B4 D4 d4 d3 d-|
+[V:1]d3 B,8 B12 z5 D3 d-|
+[V:1]d3 B,4 B4 B4 A4 A,7 A6-|
+[V:1]A2 A,4 A4 A4 A4 B,8 B6-|
+[V:1]B2 A,4 A4 A5 A4 B,8 B5-|
+[V:1]B2 B5 d4 e15 D4 d2-|
+[V:1]d2 d4 d4 B4 d4 A,7 A7-|
+[V:1]A2 [A,A]7 B5 A4 A,3 A4 A4 A3-|
+[V:1]A A,4 A4 B4 d4 E,8 E7-|
+[V:1]E A4 B4 A16 A,4 A3-|
+[V:1]A A,4 A4 B,4 D4 E,8 E7-|
+[V:1]E E4 e4 B4 d4 E4 e4 e4 a3-|
+[V:1]a d4 e4 d15 A4 a4|
+[V:1]E4 e4 e4 d4 B4 d4 B4 e4|
+[V:1]D4 d4 d4 B4 A,4 A4 A4 d3 B,-|
+[V:1]B,3 B4 B4 A4 A,4 A4 F4 A5|
+[V:1]E,8 E8 [E,-E-]16|
+[V:1][E,E]14 z18|

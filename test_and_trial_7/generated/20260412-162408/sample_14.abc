@@ -1,0 +1,24 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+A,4 D8 E4 G4 A4 d4 e4 g4|
+e4 d4 d4 A4 G4 E4 D4 A,4|
+G,8 A,8 G,16|
+A,8 D8 E8 G8|
+A8 d8 A,8 A8|
+D8 G8 E4 G4 D8|
+A,4 D4 G,8 A,16|
+A,4 A4 G4 E4 D4 D,8 G,8|
+A,4 D4 G,4 A,4 D4 D,4 G,4 A,8|
+A,4 A4 G4 E4 D4 D,4 D4 D4 E4|
+G8 A8 A,4 A4 G,8|
+G8 G,8 G8 G,4 G4|
+E4 G4 D8 E8 D,4 D4|
+D,4 D4 G,4 A,4 D8 D,8|
+D8 E4 G4 A4 G4 E4 G4|
+E4 D4 D,4 D8 D,8 D8|
+[D,D]16 z24|

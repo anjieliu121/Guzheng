@@ -1,0 +1,57 @@
+L:1/32
+M:4/4
+K:Gb
+V:1 treble nm="Guzheng"
+[V:1]d'6 b2 d' d' d' d' d' d' d' d' d' d' d' d' d' d' d' d' g'8|
+[V:1]d'2 g'2 d'2 b2 g8 b b b b b b b b a a a a a a a a|
+[V:1]d d d d d [deg] [dab] [dd'e'] [dg'] [de'-] [de'] [dd'] [db-] [db] [da] [dg-] [dg] [de] [Bd] [A-d] [Ad] [Gd] [E-d] [Ed] [Dd] [B,d] [A,-d] [A,d] [G,d] [E,-d] [E,d] [D,d]|
+[V:1]d'6 b2 d' d' d' d' d' d' d' d' d' d' d' d' d' d' d' d' g'8|
+[V:1]d'2 g'2 d'2 b2 g8 b b b b b b b b a a a a a a a a|
+[V:1][D,-g] [D,g] [E,-g] [E,-g] [E,g] [G,-g] [G,g] [A,-g] [A,-g] [A,g] [B,-g] [B,g] [D-g] [D-g] [Dg] [E-g] [Eg] [G-g] [G-g] [Gg] [A-g] [Ag] [B-g] [B-g] [Bg] [d-g] [dg] [e-g] [e-g] e g2|
+[V:1]D8 d'6 b2 d'8 G8|
+[V:1]d'6 b2 d'8 D8 d'6 b2|
+[V:1]d8 G8 d'6 b2 d'8|
+[V:1][D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [Dd'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [Gd'] [Bb]8 [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [Dd']|
+[V:1][G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [Gd'] [Bg']8 [D-d']4 [Dg']4 [G-d']4 [Gb]4|
+[V:1][Bg]8 [D-b] [D-b] [D-b] [D-b] [D-b] [D-b] [D-b] [Db] [G-b] [G-b] [G-b] [G-b] [G-b] [G-b] [G-b] [Gb] [B-g]4 [Be]4|
+[V:1][D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [Dd] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [GBd] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [G-B-d] [GBd] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [Dd']|
+[V:1][G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [Gd'] [Bb]8 [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [D-d'] [Dd'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [G-d'] [Gd']|
+[V:1][Bg']8 [D-d']4 [Dg']4 [G-d']4 [Gb]4 [Bg]8|
+[V:1][D-b] [D-b] [D-b] [D-b] [D-b] [D-b] [D-b] [Db] [G-b] [G-b] [G-b] [G-b] [G-b] [G-b] [G-b] [Gb] [B-g]4 [Be]4 [G,-g] [G,-g] [G,-g] [G,-g] [G,-g] [G,-g] [G,-g] [G,g]|
+[V:1][D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [DGg] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [D-G-g] [DGg] [Dg']8 [Gd'-]8|
+[V:1][Bd']8 [Dd']8 [Gb-]8 [Bb]8|
+[V:1][Db]8 [Gg-]8 [Bg]8 [Dg]8|
+[V:1][Gd-]8 [Bd]8 [D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [Dd] [G-d] [G-d] [G-d] [G-d] [Gg]4|
+[V:1][B-a]4 [Bg]4 [D-a] [D-a] [D-a] [D-a] [D-a] [D-a] [D-a] [Da] [G-a] [G-a] [G-a] [G-a] [G-a] [G-a] [G-a] [Ga] [B-a] [B-a] [B-a] [B-a] [B-a] [B-a] [B-a] [Ba]|
+[V:1][Dg']8 [Gd'-]8 [Bd']8 [Dd']8|
+[V:1][Gb-]8 [Bb]8 [Db]8 [Gg-]8|
+[V:1][Bg]8 [Dg]8 [Gd-]8 [Bd]8|
+[V:1][D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [D-d] [Dd] [G-d] [G-d] [G-d] [G-d] [Gg]4 [B-a]4 [Bg]4 [G,-g] [G,-D-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g]|
+[V:1][G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,-D-G-g] [G,DGg] [Dd]4 [G-d']2 [Gd']2 [Bd']4 [Gg']4|
+[V:1][Dd']4 [Gb]4 [Bb]4 [Gg]4 [Dd]4 [G-d']2 [Gd']2 [Bd']4 [Gg']4|
+[V:1][Dd']4 [Gb]4 [Bd'-]4 [Gd']4 [Dd]4 [G-d']2 [Gd']2 [Bd']4 [Gg']4|
+[V:1][Dd']4 [Gb]4 [Bb]4 [Gg]4 [DB]4 [G-b]2 [Gb]2 [Bb]4 [Gd']4|
+[V:1][Da]4 [Gg]4 [Bg-]4 [Gg]4 [Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gg]4|
+[V:1][Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gg]4 [Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gg]4|
+[V:1][Da]8 [Ada]8 [Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gg]4|
+[V:1][Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gg]4 [Dd]4 [G-g]2 [Gg]2 [Ba]4 [Gd']4|
+[V:1][Dg]8 [GBg]8 [dd']2 d'2 [dd']2 d'2 [dd']4 [gg']4|
+[V:1][dd']4 [Bb]4 [Bb]4 [Gg]4 [dd']2 d'2 [dd']2 d'2 [dd']4 [gg']4|
+[V:1][dd']4 [Bb]4 [dd']8 [dd']2 d'2 [dd']2 d'2 [dd']4 [gg']4|
+[V:1][dd']4 [Bb]4 [Bb]4 [Gg]4 [Bb]2 b2 [Bb]2 b2 [Bb]4 [dd']4|
+[V:1][Aa]4 [Gg]4 [Gg]8 [Dd]4 G A B d [Gg]4 B d e g|
+[V:1][Aa]4 d e g a [Gg]4 B d e g [Dd]4 G A B d [Gg]4 B d e g|
+[V:1][Aa]4 d e g a [Gg]4 B d e g [Gg]4 B d e g [Bb]4 e g a b|
+[V:1][dd']4 g a b d' [Bb]4 e g a b [Gg]4 B d e g [Bb]4 e g a b|
+[V:1][dd']4 g a b d' [Bb]4 e g a b [Bb]4 e g a b [dd']4 g a b d'|
+[V:1][gg']4 b d' e' g' [dd']4 g a b d' [Bb]4 e g a b [dd']4 g a b d'|
+[V:1][gg']4 b d' e' g' [dd']4 g a b d' [gg']2 g'2 [gg']2 g'2 [dd']2 d'2 [dd']2 d'2|
+[V:1][Bb]2 b2 [Bb]2 b2 [Gg]2 g2 [Gg]2 g2 [Dd]2 d2 [Dd]2 d2 [B,B]2 B2 [B,B]2 B2|
+[V:1][G,G]2 G2 [G,G]2 G2 [D,D]2 D2 [D,D]2 D2 [G,G]4 z12|
+[V:1]G,- [G,-B,-] [G,-B,-D-] [G,B,DG]5 z8 d'6 b2 d' d' d' d' d' d' d' d'|
+[V:1]d' d' d' d' d' d' d' d' g'8 d'2 g'2 d'2 b2 g8|
+[V:1]b b b b b b b b a a a a a a a a d [de] [dg] [da-] [da] [db] [dd'] [de'] [dg'] [de'-] [de'] [dd'] [db] [da-] [da] [dg]|
+[V:1][de] d2 [Bd] [Ad] [G-d] [Gd] [Ed] [Dd] [B,-d] [B,d] [A,d] [G,d] [E,-d] [E,d] [D,d] d'6 b2 d' d' d' d' d' d' d' d'|
+[V:1]d' d' d' d' d' d' d' d' g'8 d'2 g'2 d'2 b2 g8|
+[V:1]b b b b b b b b a a a a a a a a [dg] [eg] g a- [ga] [gb] [gd'] [ge'] [gg'] [ge'-] [ge'] [gd'] [gb] [ga-] a g|
+[V:1][eg] [d-g] [dg] [Bg] [Ag] [G-g] [Gg] [Eg] [Dg] [B,-g] [B,g] [A,g] [G,g] [E,-g] [E,g] [D,g] z16|

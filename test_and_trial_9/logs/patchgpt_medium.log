@@ -1,0 +1,204 @@
+
+=== Tue Apr 14 18:22:37 2026 device=mps config=medium params=241.84M ===
+epoch   1  train=132.3459  eval=6.6086  best=6.6086 *  65.9s
+epoch   2  train=8.5959  eval=6.6273  best=6.6086  63.6s
+epoch   3  train=7.1412  eval=3.2062  best=3.2062 *  62.9s
+epoch   4  train=6.0290  eval=2.8657  best=2.8657 *  63.4s
+epoch   5  train=5.2177  eval=3.0498  best=2.8657  62.5s
+epoch   6  train=4.8377  eval=3.3458  best=2.8657  60.9s
+epoch   7  train=4.7252  eval=3.9916  best=2.8657  62.6s
+epoch   8  train=4.4613  eval=2.0829  best=2.0829 *  61.5s
+epoch   9  train=4.2834  eval=2.6072  best=2.0829  62.2s
+epoch  10  train=3.9465  eval=2.6736  best=2.0829  62.2s
+epoch  11  train=3.7525  eval=3.4557  best=2.0829  64.8s
+epoch  12  train=3.5071  eval=2.1768  best=2.0829  60.8s
+epoch  13  train=3.1656  eval=2.4142  best=2.0829  60.7s
+epoch  14  train=2.7919  eval=2.8909  best=2.0829  62.7s
+epoch  15  train=2.7335  eval=1.8487  best=1.8487 *  61.3s
+epoch  16  train=2.4168  eval=1.6369  best=1.6369 *  61.3s
+epoch  17  train=2.3752  eval=1.6452  best=1.6369  61.4s
+epoch  18  train=2.1137  eval=1.4745  best=1.4745 *  61.7s
+epoch  19  train=1.9880  eval=1.4436  best=1.4436 *  61.4s
+epoch  20  train=1.8467  eval=1.3291  best=1.3291 *  60.6s
+epoch  21  train=1.7957  eval=1.6701  best=1.3291  62.6s
+epoch  22  train=1.7168  eval=1.4881  best=1.3291  62.8s
+epoch  23  train=1.6507  eval=1.3526  best=1.3291  62.5s
+epoch  24  train=1.6495  eval=1.3321  best=1.3291  62.4s
+epoch  25  train=1.5458  eval=1.3503  best=1.3291  59.5s
+epoch  26  train=1.5574  eval=1.3454  best=1.3291  61.8s
+epoch  27  train=1.5377  eval=1.3087  best=1.3087 *  63.5s
+epoch  28  train=1.4624  eval=1.2461  best=1.2461 *  62.7s
+epoch  29  train=1.4624  eval=1.3109  best=1.2461  62.4s
+epoch  30  train=1.4369  eval=1.2557  best=1.2461  61.8s
+epoch  31  train=1.3874  eval=1.3145  best=1.2461  63.1s
+epoch  32  train=1.3478  eval=1.3096  best=1.2461  59.6s
+epoch  33  train=1.3513  eval=1.1879  best=1.1879 *  60.3s
+epoch  34  train=1.3233  eval=1.2668  best=1.1879  62.7s
+epoch  35  train=1.3198  eval=1.2354  best=1.1879  59.3s
+epoch  36  train=1.3377  eval=1.2025  best=1.1879  60.7s
+epoch  37  train=1.3036  eval=1.1415  best=1.1415 *  62.8s
+epoch  38  train=1.2902  eval=1.0914  best=1.0914 *  60.5s
+epoch  39  train=1.2616  eval=1.3090  best=1.0914  59.6s
+epoch  40  train=1.2940  eval=1.2140  best=1.0914  60.9s
+epoch  41  train=1.2641  eval=1.2140  best=1.0914  62.3s
+epoch  42  train=1.2872  eval=1.1882  best=1.0914  60.6s
+epoch  43  train=1.2454  eval=1.1231  best=1.0914  61.3s
+epoch  44  train=1.2440  eval=1.2264  best=1.0914  61.8s
+epoch  45  train=1.2212  eval=1.1231  best=1.0914  60.0s
+epoch  46  train=1.2072  eval=1.1124  best=1.0914  59.7s
+epoch  47  train=1.2205  eval=1.2023  best=1.0914  60.3s
+epoch  48  train=1.1882  eval=1.2201  best=1.0914  60.3s
+epoch  49  train=1.1875  eval=1.1076  best=1.0914  57.6s
+epoch  50  train=1.2360  eval=1.0547  best=1.0547 *  58.1s
+epoch  51  train=1.1976  eval=1.1839  best=1.0547  58.6s
+epoch  52  train=1.2023  eval=1.0803  best=1.0547  58.6s
+epoch  53  train=1.2075  eval=1.1522  best=1.0547  59.3s
+epoch  54  train=1.1607  eval=1.1848  best=1.0547  59.3s
+epoch  55  train=1.1579  eval=1.1093  best=1.0547  57.6s
+epoch  56  train=1.1657  eval=1.0887  best=1.0547  58.5s
+epoch  57  train=1.1645  eval=1.1049  best=1.0547  60.0s
+epoch  58  train=1.1555  eval=1.2790  best=1.0547  57.3s
+epoch  59  train=1.1631  eval=1.1551  best=1.0547  59.9s
+epoch  60  train=1.1553  eval=1.1163  best=1.0547  59.2s
+epoch  61  train=1.1514  eval=1.1346  best=1.0547  59.9s
+epoch  62  train=1.1513  eval=1.0877  best=1.0547  59.1s
+epoch  63  train=1.1320  eval=1.0698  best=1.0547  58.0s
+epoch  64  train=1.1380  eval=1.0430  best=1.0430 *  59.8s
+epoch  65  train=1.1308  eval=1.1198  best=1.0430  57.7s
+
+=== Tue Apr 14 21:21:42 2026 device=mps config=medium params=241.84M ===
+epoch  66  train=1.1201  eval=1.0427  best=1.0427 *  66.3s
+epoch  67  train=1.1584  eval=1.0839  best=1.0427  62.4s
+epoch  68  train=1.1499  eval=1.1056  best=1.0427  62.6s
+epoch  69  train=1.1244  eval=1.1169  best=1.0427  63.1s
+epoch  70  train=1.1267  eval=1.0749  best=1.0427  62.6s
+epoch  71  train=1.1065  eval=1.0851  best=1.0427  61.6s
+epoch  72  train=1.1195  eval=1.0836  best=1.0427  63.1s
+epoch  73  train=1.0992  eval=1.0988  best=1.0427  61.9s
+epoch  74  train=1.0899  eval=1.1399  best=1.0427  62.8s
+epoch  75  train=1.1122  eval=1.0938  best=1.0427  63.3s
+epoch  76  train=1.0973  eval=1.0842  best=1.0427  65.0s
+epoch  77  train=1.0786  eval=1.0645  best=1.0427  61.1s
+epoch  78  train=1.0687  eval=1.1111  best=1.0427  61.4s
+epoch  79  train=1.0639  eval=1.0994  best=1.0427  63.7s
+epoch  80  train=1.0978  eval=1.0686  best=1.0427  62.1s
+epoch  81  train=1.0905  eval=1.1105  best=1.0427  62.5s
+epoch  82  train=1.0639  eval=1.0597  best=1.0427  61.7s
+epoch  83  train=1.0648  eval=1.1614  best=1.0427  62.5s
+epoch  84  train=1.0602  eval=1.1078  best=1.0427  62.6s
+epoch  85  train=1.0560  eval=1.0736  best=1.0427  61.7s
+epoch  86  train=1.0683  eval=1.0789  best=1.0427  63.4s
+epoch  87  train=1.0318  eval=1.0816  best=1.0427  62.8s
+epoch  88  train=1.0440  eval=1.0792  best=1.0427  62.6s
+epoch  89  train=1.0469  eval=1.0377  best=1.0377 *  62.6s
+epoch  90  train=1.0160  eval=1.0667  best=1.0377  60.3s
+epoch  91  train=1.0253  eval=1.0819  best=1.0377  62.3s
+epoch  92  train=1.0818  eval=1.0975  best=1.0377  63.5s
+epoch  93  train=1.0216  eval=1.1216  best=1.0377  62.9s
+epoch  94  train=1.0656  eval=1.0859  best=1.0377  62.6s
+epoch  95  train=1.0338  eval=1.0520  best=1.0377  62.0s
+epoch  96  train=1.0142  eval=1.0914  best=1.0377  62.4s
+epoch  97  train=1.0009  eval=1.0771  best=1.0377  60.3s
+epoch  98  train=1.0168  eval=1.0521  best=1.0377  61.2s
+epoch  99  train=0.9868  eval=1.0784  best=1.0377  63.6s
+epoch 100  train=0.9771  eval=1.0912  best=1.0377  60.5s
+epoch 101  train=1.0097  eval=1.1077  best=1.0377  61.6s
+epoch 102  train=0.9951  eval=1.0765  best=1.0377  63.1s
+epoch 103  train=0.9822  eval=1.0410  best=1.0377  60.4s
+epoch 104  train=0.9864  eval=1.1815  best=1.0377  60.2s
+epoch 105  train=1.0011  eval=1.0883  best=1.0377  61.8s
+epoch 106  train=0.9985  eval=1.1045  best=1.0377  63.2s
+epoch 107  train=0.9934  eval=1.0547  best=1.0377  61.4s
+epoch 108  train=0.9748  eval=1.0800  best=1.0377  60.5s
+epoch 109  train=0.9765  eval=1.1111  best=1.0377  63.0s
+epoch 110  train=0.9630  eval=1.0973  best=1.0377  61.7s
+epoch 111  train=0.9763  eval=1.0591  best=1.0377  62.3s
+epoch 112  train=0.9873  eval=1.1126  best=1.0377  61.1s
+epoch 113  train=0.9509  eval=1.1043  best=1.0377  61.0s
+epoch 114  train=0.9714  eval=1.0753  best=1.0377  59.2s
+epoch 115  train=1.0049  eval=1.0504  best=1.0377  59.9s
+epoch 116  train=0.9695  eval=1.0624  best=1.0377  60.5s
+epoch 117  train=0.9551  eval=1.0877  best=1.0377  59.9s
+epoch 118  train=0.9720  eval=1.1412  best=1.0377  61.9s
+epoch 119  train=0.9652  eval=1.1010  best=1.0377  62.2s
+epoch 120  train=0.9452  eval=1.0966  best=1.0377  60.7s
+epoch 121  train=0.9463  eval=1.1090  best=1.0377  60.9s
+epoch 122  train=0.9409  eval=1.0842  best=1.0377  62.2s
+epoch 123  train=0.9283  eval=1.1406  best=1.0377  60.6s
+epoch 124  train=0.9482  eval=1.1090  best=1.0377  63.6s
+epoch 125  train=0.9462  eval=1.0814  best=1.0377  62.8s
+epoch 126  train=0.9378  eval=1.1038  best=1.0377  63.6s
+epoch 127  train=0.9404  eval=1.0711  best=1.0377  62.2s
+epoch 128  train=0.9266  eval=1.0927  best=1.0377  62.0s
+epoch 129  train=0.9230  eval=1.0582  best=1.0377  63.3s
+epoch 130  train=0.9256  eval=1.0803  best=1.0377  61.2s
+epoch 131  train=0.9614  eval=1.1441  best=1.0377  62.6s
+epoch 132  train=0.9369  eval=1.1197  best=1.0377  60.9s
+epoch 133  train=0.9144  eval=1.1111  best=1.0377  60.7s
+epoch 134  train=0.9201  eval=1.1116  best=1.0377  61.4s
+epoch 135  train=0.9315  eval=1.0758  best=1.0377  59.9s
+epoch 136  train=0.9308  eval=1.0928  best=1.0377  62.0s
+epoch 137  train=0.9504  eval=1.0845  best=1.0377  62.3s
+epoch 138  train=0.9088  eval=1.0870  best=1.0377  59.7s
+epoch 139  train=0.9055  eval=1.0951  best=1.0377  61.7s
+epoch 140  train=0.9295  eval=1.0817  best=1.0377  63.7s
+epoch 141  train=0.8909  eval=1.1089  best=1.0377  61.7s
+epoch 142  train=0.9421  eval=1.1089  best=1.0377  61.0s
+epoch 143  train=0.8960  eval=1.0683  best=1.0377  61.6s
+epoch 144  train=0.9411  eval=1.0882  best=1.0377  61.5s
+epoch 145  train=0.8904  eval=1.0921  best=1.0377  61.8s
+epoch 146  train=0.9143  eval=1.0587  best=1.0377  61.0s
+epoch 147  train=0.8965  eval=1.0754  best=1.0377  63.0s
+epoch 148  train=0.9463  eval=1.0832  best=1.0377  63.4s
+epoch 149  train=0.9163  eval=1.0820  best=1.0377  60.9s
+epoch 150  train=0.9004  eval=1.0751  best=1.0377  61.0s
+epoch 151  train=0.9144  eval=1.0669  best=1.0377  61.6s
+epoch 152  train=0.8688  eval=1.1166  best=1.0377  61.7s
+epoch 153  train=0.9281  eval=1.0786  best=1.0377  61.3s
+epoch 154  train=0.8950  eval=1.1083  best=1.0377  61.7s
+epoch 155  train=0.8566  eval=1.0926  best=1.0377  62.4s
+epoch 156  train=0.8989  eval=1.1005  best=1.0377  60.7s
+epoch 157  train=0.8747  eval=1.1064  best=1.0377  60.9s
+epoch 158  train=0.9001  eval=1.0860  best=1.0377  60.8s
+epoch 159  train=0.9010  eval=1.0903  best=1.0377  62.2s
+epoch 160  train=0.9079  eval=1.0853  best=1.0377  61.9s
+epoch 161  train=0.9109  eval=1.0825  best=1.0377  62.3s
+epoch 162  train=0.8943  eval=1.0766  best=1.0377  62.5s
+epoch 163  train=0.9060  eval=1.0842  best=1.0377  62.9s
+epoch 164  train=0.8739  eval=1.0924  best=1.0377  62.0s
+epoch 165  train=0.9140  eval=1.0715  best=1.0377  62.2s
+epoch 166  train=0.9166  eval=1.0725  best=1.0377  62.6s
+epoch 167  train=0.8682  eval=1.0918  best=1.0377  60.9s
+epoch 168  train=0.8978  eval=1.0830  best=1.0377  62.6s
+epoch 169  train=0.8752  eval=1.0838  best=1.0377  61.1s
+epoch 170  train=0.9255  eval=1.0682  best=1.0377  60.4s
+epoch 171  train=0.8739  eval=1.0814  best=1.0377  60.7s
+epoch 172  train=0.8767  eval=1.0914  best=1.0377  61.3s
+epoch 173  train=0.8627  eval=1.0668  best=1.0377  61.2s
+epoch 174  train=0.9024  eval=1.0829  best=1.0377  61.6s
+epoch 175  train=0.8729  eval=1.0883  best=1.0377  61.1s
+epoch 176  train=0.8698  eval=1.0902  best=1.0377  62.9s
+epoch 177  train=0.8769  eval=1.0857  best=1.0377  61.2s
+epoch 178  train=0.9072  eval=1.0844  best=1.0377  60.1s
+epoch 179  train=0.8731  eval=1.0836  best=1.0377  61.9s
+epoch 180  train=0.9018  eval=1.0868  best=1.0377  62.5s
+epoch 181  train=0.8971  eval=1.0908  best=1.0377  60.6s
+epoch 182  train=0.8724  eval=1.0927  best=1.0377  57.5s
+epoch 183  train=0.8588  eval=1.0892  best=1.0377  59.6s
+epoch 184  train=0.8840  eval=1.0838  best=1.0377  61.6s
+epoch 185  train=0.9156  eval=1.0773  best=1.0377  62.0s
+epoch 186  train=0.8881  eval=1.0827  best=1.0377  61.6s
+epoch 187  train=0.8507  eval=1.0802  best=1.0377  61.1s
+epoch 188  train=0.8750  eval=1.0842  best=1.0377  60.2s
+epoch 189  train=0.8644  eval=1.0886  best=1.0377  59.6s
+epoch 190  train=0.8751  eval=1.0901  best=1.0377  61.2s
+epoch 191  train=0.8612  eval=1.0857  best=1.0377  59.0s
+epoch 192  train=0.8620  eval=1.0853  best=1.0377  60.6s
+epoch 193  train=0.9105  eval=1.0855  best=1.0377  59.2s
+epoch 194  train=0.8599  eval=1.0846  best=1.0377  58.4s
+epoch 195  train=0.8474  eval=1.0850  best=1.0377  58.5s
+epoch 196  train=0.8563  eval=1.0861  best=1.0377  60.8s
+epoch 197  train=0.8581  eval=1.0866  best=1.0377  62.4s
+epoch 198  train=0.8596  eval=1.0875  best=1.0377  62.6s
+epoch 199  train=0.8808  eval=1.0881  best=1.0377  61.0s
+epoch 200  train=0.8778  eval=1.0861  best=1.0377  60.4s

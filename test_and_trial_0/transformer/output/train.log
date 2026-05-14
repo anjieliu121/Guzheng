@@ -1,0 +1,1027 @@
+Device: mps
+Pieces: 17 unique, 67 files
+Train: 15 pieces, Val: 2 pieces (['dan_dian_tou_luan_cha_hua', 'nan_zheng_gong'])
+Train: 58 seqs, 134740 tokens | Val: 9 seqs, 22794 tokens
+Train chunks: 498, Val chunks: 85
+Model parameters: 3,883,008
+Vocab size: 764
+
+Training for 200 epochs, 31 batches/epoch
+
+  epoch   0 | batch    0/31 | loss 6.6483 | lr 1.50e-06
+  epoch   0 | batch   10/31 | loss 6.5690 | lr 1.65e-05
+  epoch   0 | batch   20/31 | loss 6.2961 | lr 3.15e-05
+  epoch   0 | batch   30/31 | loss 5.9723 | lr 4.65e-05
+Epoch   0 | train_loss 6.3897 | val_loss 5.8017 | ppl 330.9 | 13.3s
+  -> saved best model (val_loss=5.8017)
+  epoch   1 | batch    0/31 | loss 6.0084 | lr 4.80e-05
+  epoch   1 | batch   10/31 | loss 5.6385 | lr 6.30e-05
+  epoch   1 | batch   20/31 | loss 5.2686 | lr 7.80e-05
+  epoch   1 | batch   30/31 | loss 5.0599 | lr 9.30e-05
+Epoch   1 | train_loss 5.4758 | val_loss 4.8658 | ppl 129.8 | 7.9s
+  -> saved best model (val_loss=4.8658)
+  epoch   2 | batch    0/31 | loss 5.0744 | lr 9.45e-05
+  epoch   2 | batch   10/31 | loss 4.6420 | lr 1.09e-04
+  epoch   2 | batch   20/31 | loss 4.4365 | lr 1.24e-04
+  epoch   2 | batch   30/31 | loss 4.1430 | lr 1.40e-04
+Epoch   2 | train_loss 4.5409 | val_loss 3.9638 | ppl 52.7 | 8.0s
+  -> saved best model (val_loss=3.9638)
+  epoch   3 | batch    0/31 | loss 4.0296 | lr 1.41e-04
+  epoch   3 | batch   10/31 | loss 3.7995 | lr 1.56e-04
+  epoch   3 | batch   20/31 | loss 3.4211 | lr 1.71e-04
+  epoch   3 | batch   30/31 | loss 3.1227 | lr 1.86e-04
+Epoch   3 | train_loss 3.5721 | val_loss 2.9594 | ppl 19.3 | 7.9s
+  -> saved best model (val_loss=2.9594)
+  epoch   4 | batch    0/31 | loss 3.0424 | lr 1.87e-04
+  epoch   4 | batch   10/31 | loss 2.6894 | lr 2.02e-04
+  epoch   4 | batch   20/31 | loss 2.5981 | lr 2.17e-04
+  epoch   4 | batch   30/31 | loss 2.4247 | lr 2.32e-04
+Epoch   4 | train_loss 2.6841 | val_loss 2.4247 | ppl 11.3 | 8.3s
+  -> saved best model (val_loss=2.4247)
+  epoch   5 | batch    0/31 | loss 2.3663 | lr 2.34e-04
+  epoch   5 | batch   10/31 | loss 2.2951 | lr 2.49e-04
+  epoch   5 | batch   20/31 | loss 2.0107 | lr 2.64e-04
+  epoch   5 | batch   30/31 | loss 2.1144 | lr 2.79e-04
+Epoch   5 | train_loss 2.2024 | val_loss 2.1970 | ppl 9.0 | 8.2s
+  -> saved best model (val_loss=2.1970)
+  epoch   6 | batch    0/31 | loss 2.0233 | lr 2.80e-04
+  epoch   6 | batch   10/31 | loss 1.9519 | lr 2.95e-04
+  epoch   6 | batch   20/31 | loss 1.9339 | lr 3.00e-04
+  epoch   6 | batch   30/31 | loss 1.8556 | lr 3.00e-04
+Epoch   6 | train_loss 1.9568 | val_loss 2.0824 | ppl 8.0 | 8.3s
+  -> saved best model (val_loss=2.0824)
+  epoch   7 | batch    0/31 | loss 1.9525 | lr 3.00e-04
+  epoch   7 | batch   10/31 | loss 1.7710 | lr 3.00e-04
+  epoch   7 | batch   20/31 | loss 1.6780 | lr 3.00e-04
+  epoch   7 | batch   30/31 | loss 1.7279 | lr 3.00e-04
+Epoch   7 | train_loss 1.8034 | val_loss 1.9852 | ppl 7.3 | 8.3s
+  -> saved best model (val_loss=1.9852)
+  epoch   8 | batch    0/31 | loss 1.6000 | lr 3.00e-04
+  epoch   8 | batch   10/31 | loss 1.8078 | lr 3.00e-04
+  epoch   8 | batch   20/31 | loss 1.7631 | lr 3.00e-04
+  epoch   8 | batch   30/31 | loss 1.7187 | lr 3.00e-04
+Epoch   8 | train_loss 1.6910 | val_loss 1.9238 | ppl 6.8 | 7.7s
+  -> saved best model (val_loss=1.9238)
+  epoch   9 | batch    0/31 | loss 1.6196 | lr 3.00e-04
+  epoch   9 | batch   10/31 | loss 1.6205 | lr 3.00e-04
+  epoch   9 | batch   20/31 | loss 1.6625 | lr 3.00e-04
+  epoch   9 | batch   30/31 | loss 1.4497 | lr 3.00e-04
+Epoch   9 | train_loss 1.5868 | val_loss 1.8584 | ppl 6.4 | 7.8s
+  -> saved best model (val_loss=1.8584)
+  epoch  10 | batch    0/31 | loss 1.5548 | lr 3.00e-04
+  epoch  10 | batch   10/31 | loss 1.5355 | lr 3.00e-04
+  epoch  10 | batch   20/31 | loss 1.4329 | lr 3.00e-04
+  epoch  10 | batch   30/31 | loss 1.4162 | lr 3.00e-04
+Epoch  10 | train_loss 1.4976 | val_loss 1.7877 | ppl 6.0 | 7.8s
+  -> saved best model (val_loss=1.7877)
+  epoch  11 | batch    0/31 | loss 1.4422 | lr 3.00e-04
+  epoch  11 | batch   10/31 | loss 1.3565 | lr 3.00e-04
+  epoch  11 | batch   20/31 | loss 1.4641 | lr 2.99e-04
+  epoch  11 | batch   30/31 | loss 1.4149 | lr 2.99e-04
+Epoch  11 | train_loss 1.4199 | val_loss 1.7599 | ppl 5.8 | 7.7s
+  -> saved best model (val_loss=1.7599)
+  epoch  12 | batch    0/31 | loss 1.4375 | lr 2.99e-04
+  epoch  12 | batch   10/31 | loss 1.3859 | lr 2.99e-04
+  epoch  12 | batch   20/31 | loss 1.2434 | lr 2.99e-04
+  epoch  12 | batch   30/31 | loss 1.3903 | lr 2.99e-04
+Epoch  12 | train_loss 1.3630 | val_loss 1.7546 | ppl 5.8 | 8.0s
+  -> saved best model (val_loss=1.7546)
+  epoch  13 | batch    0/31 | loss 1.2895 | lr 2.99e-04
+  epoch  13 | batch   10/31 | loss 1.4308 | lr 2.99e-04
+  epoch  13 | batch   20/31 | loss 1.3031 | lr 2.99e-04
+  epoch  13 | batch   30/31 | loss 1.3615 | lr 2.99e-04
+Epoch  13 | train_loss 1.3182 | val_loss 1.7477 | ppl 5.7 | 8.0s
+  -> saved best model (val_loss=1.7477)
+  epoch  14 | batch    0/31 | loss 1.2057 | lr 2.99e-04
+  epoch  14 | batch   10/31 | loss 1.2339 | lr 2.99e-04
+  epoch  14 | batch   20/31 | loss 1.2342 | lr 2.99e-04
+  epoch  14 | batch   30/31 | loss 1.3563 | lr 2.99e-04
+Epoch  14 | train_loss 1.2797 | val_loss 1.7482 | ppl 5.7 | 8.0s
+  epoch  15 | batch    0/31 | loss 1.1407 | lr 2.99e-04
+  epoch  15 | batch   10/31 | loss 1.2980 | lr 2.98e-04
+  epoch  15 | batch   20/31 | loss 1.2950 | lr 2.98e-04
+  epoch  15 | batch   30/31 | loss 1.2300 | lr 2.98e-04
+Epoch  15 | train_loss 1.2446 | val_loss 1.7404 | ppl 5.7 | 7.9s
+  -> saved best model (val_loss=1.7404)
+  epoch  16 | batch    0/31 | loss 1.2706 | lr 2.98e-04
+  epoch  16 | batch   10/31 | loss 1.1604 | lr 2.98e-04
+  epoch  16 | batch   20/31 | loss 1.1602 | lr 2.98e-04
+  epoch  16 | batch   30/31 | loss 1.2355 | lr 2.98e-04
+Epoch  16 | train_loss 1.2140 | val_loss 1.7654 | ppl 5.8 | 8.0s
+  epoch  17 | batch    0/31 | loss 1.1462 | lr 2.98e-04
+  epoch  17 | batch   10/31 | loss 1.1797 | lr 2.98e-04
+  epoch  17 | batch   20/31 | loss 1.2004 | lr 2.98e-04
+  epoch  17 | batch   30/31 | loss 1.1525 | lr 2.97e-04
+Epoch  17 | train_loss 1.1887 | val_loss 1.7719 | ppl 5.9 | 8.0s
+  epoch  18 | batch    0/31 | loss 1.1495 | lr 2.97e-04
+  epoch  18 | batch   10/31 | loss 1.1847 | lr 2.97e-04
+  epoch  18 | batch   20/31 | loss 1.1909 | lr 2.97e-04
+  epoch  18 | batch   30/31 | loss 1.2549 | lr 2.97e-04
+Epoch  18 | train_loss 1.1589 | val_loss 1.7660 | ppl 5.8 | 8.1s
+  epoch  19 | batch    0/31 | loss 1.1525 | lr 2.97e-04
+  epoch  19 | batch   10/31 | loss 1.1434 | lr 2.97e-04
+  epoch  19 | batch   20/31 | loss 1.1036 | lr 2.97e-04
+  epoch  19 | batch   30/31 | loss 0.9815 | lr 2.96e-04
+Epoch  19 | train_loss 1.1347 | val_loss 1.7820 | ppl 5.9 | 8.0s
+  epoch  20 | batch    0/31 | loss 1.0879 | lr 2.96e-04
+  epoch  20 | batch   10/31 | loss 1.0447 | lr 2.96e-04
+  epoch  20 | batch   20/31 | loss 1.1294 | lr 2.96e-04
+  epoch  20 | batch   30/31 | loss 1.0623 | lr 2.96e-04
+Epoch  20 | train_loss 1.1092 | val_loss 1.7835 | ppl 6.0 | 8.1s
+  epoch  21 | batch    0/31 | loss 1.0772 | lr 2.96e-04
+  epoch  21 | batch   10/31 | loss 1.0740 | lr 2.96e-04
+  epoch  21 | batch   20/31 | loss 1.0678 | lr 2.95e-04
+  epoch  21 | batch   30/31 | loss 0.9668 | lr 2.95e-04
+Epoch  21 | train_loss 1.0871 | val_loss 1.7868 | ppl 6.0 | 8.0s
+  epoch  22 | batch    0/31 | loss 1.0702 | lr 2.95e-04
+  epoch  22 | batch   10/31 | loss 0.9932 | lr 2.95e-04
+  epoch  22 | batch   20/31 | loss 1.1213 | lr 2.95e-04
+  epoch  22 | batch   30/31 | loss 1.0894 | lr 2.95e-04
+Epoch  22 | train_loss 1.0611 | val_loss 1.8202 | ppl 6.2 | 8.0s
+  epoch  23 | batch    0/31 | loss 1.0709 | lr 2.95e-04
+  epoch  23 | batch   10/31 | loss 1.1129 | lr 2.94e-04
+  epoch  23 | batch   20/31 | loss 0.9985 | lr 2.94e-04
+  epoch  23 | batch   30/31 | loss 1.0498 | lr 2.94e-04
+Epoch  23 | train_loss 1.0398 | val_loss 1.8276 | ppl 6.2 | 7.7s
+  epoch  24 | batch    0/31 | loss 0.9979 | lr 2.94e-04
+  epoch  24 | batch   10/31 | loss 0.8877 | lr 2.94e-04
+  epoch  24 | batch   20/31 | loss 1.0251 | lr 2.93e-04
+  epoch  24 | batch   30/31 | loss 0.9847 | lr 2.93e-04
+Epoch  24 | train_loss 1.0187 | val_loss 1.8370 | ppl 6.3 | 7.6s
+  epoch  25 | batch    0/31 | loss 1.0140 | lr 2.93e-04
+  epoch  25 | batch   10/31 | loss 0.9946 | lr 2.93e-04
+  epoch  25 | batch   20/31 | loss 0.9519 | lr 2.93e-04
+  epoch  25 | batch   30/31 | loss 0.8986 | lr 2.93e-04
+Epoch  25 | train_loss 0.9961 | val_loss 1.8579 | ppl 6.4 | 7.6s
+  epoch  26 | batch    0/31 | loss 0.9897 | lr 2.92e-04
+  epoch  26 | batch   10/31 | loss 1.0000 | lr 2.92e-04
+  epoch  26 | batch   20/31 | loss 0.9424 | lr 2.92e-04
+  epoch  26 | batch   30/31 | loss 0.9102 | lr 2.92e-04
+Epoch  26 | train_loss 0.9782 | val_loss 1.8914 | ppl 6.6 | 7.8s
+  epoch  27 | batch    0/31 | loss 0.8879 | lr 2.92e-04
+  epoch  27 | batch   10/31 | loss 0.8740 | lr 2.91e-04
+  epoch  27 | batch   20/31 | loss 0.9778 | lr 2.91e-04
+  epoch  27 | batch   30/31 | loss 0.9318 | lr 2.91e-04
+Epoch  27 | train_loss 0.9581 | val_loss 1.8966 | ppl 6.7 | 7.8s
+  epoch  28 | batch    0/31 | loss 0.8902 | lr 2.91e-04
+  epoch  28 | batch   10/31 | loss 0.9095 | lr 2.91e-04
+  epoch  28 | batch   20/31 | loss 0.8826 | lr 2.90e-04
+  epoch  28 | batch   30/31 | loss 0.8996 | lr 2.90e-04
+Epoch  28 | train_loss 0.9397 | val_loss 1.9210 | ppl 6.8 | 7.4s
+  epoch  29 | batch    0/31 | loss 0.8079 | lr 2.90e-04
+  epoch  29 | batch   10/31 | loss 0.8349 | lr 2.90e-04
+  epoch  29 | batch   20/31 | loss 0.8452 | lr 2.89e-04
+  epoch  29 | batch   30/31 | loss 0.8464 | lr 2.89e-04
+Epoch  29 | train_loss 0.9169 | val_loss 1.9303 | ppl 6.9 | 7.9s
+  epoch  30 | batch    0/31 | loss 0.8983 | lr 2.89e-04
+  epoch  30 | batch   10/31 | loss 0.8560 | lr 2.89e-04
+  epoch  30 | batch   20/31 | loss 0.9438 | lr 2.89e-04
+  epoch  30 | batch   30/31 | loss 0.9078 | lr 2.88e-04
+Epoch  30 | train_loss 0.8995 | val_loss 1.9328 | ppl 6.9 | 7.4s
+  epoch  31 | batch    0/31 | loss 0.7811 | lr 2.88e-04
+  epoch  31 | batch   10/31 | loss 0.9150 | lr 2.88e-04
+  epoch  31 | batch   20/31 | loss 0.8849 | lr 2.88e-04
+  epoch  31 | batch   30/31 | loss 0.8738 | lr 2.87e-04
+Epoch  31 | train_loss 0.8826 | val_loss 1.9697 | ppl 7.2 | 7.5s
+  epoch  32 | batch    0/31 | loss 0.8685 | lr 2.87e-04
+  epoch  32 | batch   10/31 | loss 0.9393 | lr 2.87e-04
+  epoch  32 | batch   20/31 | loss 0.8699 | lr 2.87e-04
+  epoch  32 | batch   30/31 | loss 0.8839 | lr 2.86e-04
+Epoch  32 | train_loss 0.8640 | val_loss 1.9652 | ppl 7.1 | 7.6s
+  epoch  33 | batch    0/31 | loss 0.8033 | lr 2.86e-04
+  epoch  33 | batch   10/31 | loss 0.7735 | lr 2.86e-04
+  epoch  33 | batch   20/31 | loss 0.8430 | lr 2.86e-04
+  epoch  33 | batch   30/31 | loss 0.9274 | lr 2.85e-04
+Epoch  33 | train_loss 0.8473 | val_loss 1.9947 | ppl 7.3 | 7.6s
+  epoch  34 | batch    0/31 | loss 0.8548 | lr 2.85e-04
+  epoch  34 | batch   10/31 | loss 0.8470 | lr 2.85e-04
+  epoch  34 | batch   20/31 | loss 0.8459 | lr 2.85e-04
+  epoch  34 | batch   30/31 | loss 0.8853 | lr 2.84e-04
+Epoch  34 | train_loss 0.8273 | val_loss 1.9920 | ppl 7.3 | 8.1s
+  epoch  35 | batch    0/31 | loss 0.6967 | lr 2.84e-04
+  epoch  35 | batch   10/31 | loss 0.8102 | lr 2.84e-04
+  epoch  35 | batch   20/31 | loss 0.8842 | lr 2.83e-04
+  epoch  35 | batch   30/31 | loss 0.7898 | lr 2.83e-04
+Epoch  35 | train_loss 0.8119 | val_loss 2.0547 | ppl 7.8 | 7.7s
+  epoch  36 | batch    0/31 | loss 0.7544 | lr 2.83e-04
+  epoch  36 | batch   10/31 | loss 0.7495 | lr 2.83e-04
+  epoch  36 | batch   20/31 | loss 0.8544 | lr 2.82e-04
+  epoch  36 | batch   30/31 | loss 0.7361 | lr 2.82e-04
+Epoch  36 | train_loss 0.7925 | val_loss 2.0449 | ppl 7.7 | 7.7s
+  epoch  37 | batch    0/31 | loss 0.7643 | lr 2.82e-04
+  epoch  37 | batch   10/31 | loss 0.8044 | lr 2.82e-04
+  epoch  37 | batch   20/31 | loss 0.8317 | lr 2.81e-04
+  epoch  37 | batch   30/31 | loss 0.8423 | lr 2.81e-04
+Epoch  37 | train_loss 0.7798 | val_loss 2.0550 | ppl 7.8 | 7.8s
+  epoch  38 | batch    0/31 | loss 0.8211 | lr 2.81e-04
+  epoch  38 | batch   10/31 | loss 0.8095 | lr 2.80e-04
+  epoch  38 | batch   20/31 | loss 0.8115 | lr 2.80e-04
+  epoch  38 | batch   30/31 | loss 0.7856 | lr 2.80e-04
+Epoch  38 | train_loss 0.7639 | val_loss 2.1027 | ppl 8.2 | 7.6s
+  epoch  39 | batch    0/31 | loss 0.7246 | lr 2.80e-04
+  epoch  39 | batch   10/31 | loss 0.6082 | lr 2.79e-04
+  epoch  39 | batch   20/31 | loss 0.7570 | lr 2.79e-04
+  epoch  39 | batch   30/31 | loss 0.7286 | lr 2.78e-04
+Epoch  39 | train_loss 0.7454 | val_loss 2.1146 | ppl 8.3 | 7.8s
+  epoch  40 | batch    0/31 | loss 0.7580 | lr 2.78e-04
+  epoch  40 | batch   10/31 | loss 0.6386 | lr 2.78e-04
+  epoch  40 | batch   20/31 | loss 0.7038 | lr 2.77e-04
+  epoch  40 | batch   30/31 | loss 0.7555 | lr 2.77e-04
+Epoch  40 | train_loss 0.7333 | val_loss 2.1416 | ppl 8.5 | 8.1s
+  epoch  41 | batch    0/31 | loss 0.7520 | lr 2.77e-04
+  epoch  41 | batch   10/31 | loss 0.7471 | lr 2.77e-04
+  epoch  41 | batch   20/31 | loss 0.8095 | lr 2.76e-04
+  epoch  41 | batch   30/31 | loss 0.7212 | lr 2.76e-04
+Epoch  41 | train_loss 0.7175 | val_loss 2.1774 | ppl 8.8 | 7.4s
+  epoch  42 | batch    0/31 | loss 0.6681 | lr 2.76e-04
+  epoch  42 | batch   10/31 | loss 0.7288 | lr 2.75e-04
+  epoch  42 | batch   20/31 | loss 0.7494 | lr 2.75e-04
+  epoch  42 | batch   30/31 | loss 0.7422 | lr 2.74e-04
+Epoch  42 | train_loss 0.7056 | val_loss 2.1814 | ppl 8.9 | 7.4s
+  epoch  43 | batch    0/31 | loss 0.7192 | lr 2.74e-04
+  epoch  43 | batch   10/31 | loss 0.6448 | lr 2.74e-04
+  epoch  43 | batch   20/31 | loss 0.7949 | lr 2.73e-04
+  epoch  43 | batch   30/31 | loss 0.6288 | lr 2.73e-04
+Epoch  43 | train_loss 0.6925 | val_loss 2.1751 | ppl 8.8 | 7.3s
+  epoch  44 | batch    0/31 | loss 0.6802 | lr 2.73e-04
+  epoch  44 | batch   10/31 | loss 0.6211 | lr 2.72e-04
+  epoch  44 | batch   20/31 | loss 0.6798 | lr 2.72e-04
+  epoch  44 | batch   30/31 | loss 0.7005 | lr 2.72e-04
+Epoch  44 | train_loss 0.6788 | val_loss 2.1846 | ppl 8.9 | 7.3s
+  epoch  45 | batch    0/31 | loss 0.6612 | lr 2.72e-04
+  epoch  45 | batch   10/31 | loss 0.6586 | lr 2.71e-04
+  epoch  45 | batch   20/31 | loss 0.6425 | lr 2.71e-04
+  epoch  45 | batch   30/31 | loss 0.6050 | lr 2.70e-04
+Epoch  45 | train_loss 0.6654 | val_loss 2.2293 | ppl 9.3 | 7.4s
+  epoch  46 | batch    0/31 | loss 0.6987 | lr 2.70e-04
+  epoch  46 | batch   10/31 | loss 0.6104 | lr 2.70e-04
+  epoch  46 | batch   20/31 | loss 0.7294 | lr 2.69e-04
+  epoch  46 | batch   30/31 | loss 0.5869 | lr 2.69e-04
+Epoch  46 | train_loss 0.6515 | val_loss 2.2563 | ppl 9.5 | 7.5s
+  epoch  47 | batch    0/31 | loss 0.6329 | lr 2.69e-04
+  epoch  47 | batch   10/31 | loss 0.6554 | lr 2.68e-04
+  epoch  47 | batch   20/31 | loss 0.6610 | lr 2.68e-04
+  epoch  47 | batch   30/31 | loss 0.6932 | lr 2.67e-04
+Epoch  47 | train_loss 0.6375 | val_loss 2.2388 | ppl 9.4 | 7.6s
+  epoch  48 | batch    0/31 | loss 0.5999 | lr 2.67e-04
+  epoch  48 | batch   10/31 | loss 0.6438 | lr 2.67e-04
+  epoch  48 | batch   20/31 | loss 0.6409 | lr 2.66e-04
+  epoch  48 | batch   30/31 | loss 0.6835 | lr 2.66e-04
+Epoch  48 | train_loss 0.6240 | val_loss 2.2757 | ppl 9.7 | 7.4s
+  epoch  49 | batch    0/31 | loss 0.6145 | lr 2.66e-04
+  epoch  49 | batch   10/31 | loss 0.5296 | lr 2.65e-04
+  epoch  49 | batch   20/31 | loss 0.6256 | lr 2.65e-04
+  epoch  49 | batch   30/31 | loss 0.6548 | lr 2.64e-04
+Epoch  49 | train_loss 0.6113 | val_loss 2.3070 | ppl 10.0 | 7.6s
+  epoch  50 | batch    0/31 | loss 0.5672 | lr 2.64e-04
+  epoch  50 | batch   10/31 | loss 0.5600 | lr 2.63e-04
+  epoch  50 | batch   20/31 | loss 0.5878 | lr 2.63e-04
+  epoch  50 | batch   30/31 | loss 0.6495 | lr 2.62e-04
+Epoch  50 | train_loss 0.6020 | val_loss 2.3168 | ppl 10.1 | 8.0s
+  epoch  51 | batch    0/31 | loss 0.6277 | lr 2.62e-04
+  epoch  51 | batch   10/31 | loss 0.5351 | lr 2.62e-04
+  epoch  51 | batch   20/31 | loss 0.5663 | lr 2.61e-04
+  epoch  51 | batch   30/31 | loss 0.6080 | lr 2.61e-04
+Epoch  51 | train_loss 0.5884 | val_loss 2.3442 | ppl 10.4 | 7.7s
+  epoch  52 | batch    0/31 | loss 0.6397 | lr 2.61e-04
+  epoch  52 | batch   10/31 | loss 0.6388 | lr 2.60e-04
+  epoch  52 | batch   20/31 | loss 0.5886 | lr 2.60e-04
+  epoch  52 | batch   30/31 | loss 0.5043 | lr 2.59e-04
+Epoch  52 | train_loss 0.5796 | val_loss 2.3685 | ppl 10.7 | 7.8s
+  epoch  53 | batch    0/31 | loss 0.5901 | lr 2.59e-04
+  epoch  53 | batch   10/31 | loss 0.5759 | lr 2.59e-04
+  epoch  53 | batch   20/31 | loss 0.5141 | lr 2.58e-04
+  epoch  53 | batch   30/31 | loss 0.5792 | lr 2.58e-04
+Epoch  53 | train_loss 0.5702 | val_loss 2.3645 | ppl 10.6 | 7.6s
+  epoch  54 | batch    0/31 | loss 0.6259 | lr 2.57e-04
+  epoch  54 | batch   10/31 | loss 0.5836 | lr 2.57e-04
+  epoch  54 | batch   20/31 | loss 0.5609 | lr 2.56e-04
+  epoch  54 | batch   30/31 | loss 0.4884 | lr 2.56e-04
+Epoch  54 | train_loss 0.5573 | val_loss 2.4043 | ppl 11.1 | 7.4s
+  epoch  55 | batch    0/31 | loss 0.4833 | lr 2.56e-04
+  epoch  55 | batch   10/31 | loss 0.5515 | lr 2.55e-04
+  epoch  55 | batch   20/31 | loss 0.5142 | lr 2.55e-04
+  epoch  55 | batch   30/31 | loss 0.4879 | lr 2.54e-04
+Epoch  55 | train_loss 0.5506 | val_loss 2.4421 | ppl 11.5 | 7.4s
+  epoch  56 | batch    0/31 | loss 0.5489 | lr 2.54e-04
+  epoch  56 | batch   10/31 | loss 0.5740 | lr 2.53e-04
+  epoch  56 | batch   20/31 | loss 0.5522 | lr 2.53e-04
+  epoch  56 | batch   30/31 | loss 0.5394 | lr 2.52e-04
+Epoch  56 | train_loss 0.5401 | val_loss 2.4823 | ppl 12.0 | 7.5s
+  epoch  57 | batch    0/31 | loss 0.5243 | lr 2.52e-04
+  epoch  57 | batch   10/31 | loss 0.5412 | lr 2.52e-04
+  epoch  57 | batch   20/31 | loss 0.4807 | lr 2.51e-04
+  epoch  57 | batch   30/31 | loss 0.5998 | lr 2.50e-04
+Epoch  57 | train_loss 0.5319 | val_loss 2.4465 | ppl 11.5 | 7.8s
+  epoch  58 | batch    0/31 | loss 0.5077 | lr 2.50e-04
+  epoch  58 | batch   10/31 | loss 0.5500 | lr 2.50e-04
+  epoch  58 | batch   20/31 | loss 0.5522 | lr 2.49e-04
+  epoch  58 | batch   30/31 | loss 0.5290 | lr 2.49e-04
+Epoch  58 | train_loss 0.5211 | val_loss 2.5021 | ppl 12.2 | 7.4s
+  epoch  59 | batch    0/31 | loss 0.4753 | lr 2.49e-04
+  epoch  59 | batch   10/31 | loss 0.4963 | lr 2.48e-04
+  epoch  59 | batch   20/31 | loss 0.5466 | lr 2.47e-04
+  epoch  59 | batch   30/31 | loss 0.5575 | lr 2.47e-04
+Epoch  59 | train_loss 0.5089 | val_loss 2.5300 | ppl 12.6 | 7.3s
+  epoch  60 | batch    0/31 | loss 0.6113 | lr 2.47e-04
+  epoch  60 | batch   10/31 | loss 0.5413 | lr 2.46e-04
+  epoch  60 | batch   20/31 | loss 0.3911 | lr 2.46e-04
+  epoch  60 | batch   30/31 | loss 0.4838 | lr 2.45e-04
+Epoch  60 | train_loss 0.5023 | val_loss 2.5280 | ppl 12.5 | 7.4s
+  epoch  61 | batch    0/31 | loss 0.4411 | lr 2.45e-04
+  epoch  61 | batch   10/31 | loss 0.4333 | lr 2.44e-04
+  epoch  61 | batch   20/31 | loss 0.5172 | lr 2.44e-04
+  epoch  61 | batch   30/31 | loss 0.5564 | lr 2.43e-04
+Epoch  61 | train_loss 0.4919 | val_loss 2.5146 | ppl 12.4 | 7.4s
+  epoch  62 | batch    0/31 | loss 0.5329 | lr 2.43e-04
+  epoch  62 | batch   10/31 | loss 0.4489 | lr 2.42e-04
+  epoch  62 | batch   20/31 | loss 0.5025 | lr 2.42e-04
+  epoch  62 | batch   30/31 | loss 0.5698 | lr 2.41e-04
+Epoch  62 | train_loss 0.4846 | val_loss 2.5927 | ppl 13.4 | 7.4s
+  epoch  63 | batch    0/31 | loss 0.3672 | lr 2.41e-04
+  epoch  63 | batch   10/31 | loss 0.5531 | lr 2.40e-04
+  epoch  63 | batch   20/31 | loss 0.4750 | lr 2.40e-04
+  epoch  63 | batch   30/31 | loss 0.5203 | lr 2.39e-04
+Epoch  63 | train_loss 0.4739 | val_loss 2.5892 | ppl 13.3 | 7.4s
+  epoch  64 | batch    0/31 | loss 0.4867 | lr 2.39e-04
+  epoch  64 | batch   10/31 | loss 0.5090 | lr 2.38e-04
+  epoch  64 | batch   20/31 | loss 0.5644 | lr 2.38e-04
+  epoch  64 | batch   30/31 | loss 0.4429 | lr 2.37e-04
+Epoch  64 | train_loss 0.4702 | val_loss 2.5884 | ppl 13.3 | 7.4s
+  epoch  65 | batch    0/31 | loss 0.5347 | lr 2.37e-04
+  epoch  65 | batch   10/31 | loss 0.4495 | lr 2.37e-04
+  epoch  65 | batch   20/31 | loss 0.5518 | lr 2.36e-04
+  epoch  65 | batch   30/31 | loss 0.5158 | lr 2.35e-04
+Epoch  65 | train_loss 0.4629 | val_loss 2.6437 | ppl 14.1 | 7.5s
+  epoch  66 | batch    0/31 | loss 0.4283 | lr 2.35e-04
+  epoch  66 | batch   10/31 | loss 0.4657 | lr 2.35e-04
+  epoch  66 | batch   20/31 | loss 0.4596 | lr 2.34e-04
+  epoch  66 | batch   30/31 | loss 0.5434 | lr 2.33e-04
+Epoch  66 | train_loss 0.4561 | val_loss 2.6105 | ppl 13.6 | 7.4s
+  epoch  67 | batch    0/31 | loss 0.4983 | lr 2.33e-04
+  epoch  67 | batch   10/31 | loss 0.4524 | lr 2.32e-04
+  epoch  67 | batch   20/31 | loss 0.4758 | lr 2.32e-04
+  epoch  67 | batch   30/31 | loss 0.4672 | lr 2.31e-04
+Epoch  67 | train_loss 0.4461 | val_loss 2.6569 | ppl 14.3 | 7.4s
+  epoch  68 | batch    0/31 | loss 0.3853 | lr 2.31e-04
+  epoch  68 | batch   10/31 | loss 0.4584 | lr 2.30e-04
+  epoch  68 | batch   20/31 | loss 0.4812 | lr 2.30e-04
+  epoch  68 | batch   30/31 | loss 0.4518 | lr 2.29e-04
+Epoch  68 | train_loss 0.4374 | val_loss 2.6533 | ppl 14.2 | 7.3s
+  epoch  69 | batch    0/31 | loss 0.4548 | lr 2.29e-04
+  epoch  69 | batch   10/31 | loss 0.4133 | lr 2.28e-04
+  epoch  69 | batch   20/31 | loss 0.4190 | lr 2.28e-04
+  epoch  69 | batch   30/31 | loss 0.4235 | lr 2.27e-04
+Epoch  69 | train_loss 0.4312 | val_loss 2.7150 | ppl 15.1 | 8.2s
+  epoch  70 | batch    0/31 | loss 0.5443 | lr 2.27e-04
+  epoch  70 | batch   10/31 | loss 0.4565 | lr 2.26e-04
+  epoch  70 | batch   20/31 | loss 0.4504 | lr 2.26e-04
+  epoch  70 | batch   30/31 | loss 0.3539 | lr 2.25e-04
+Epoch  70 | train_loss 0.4231 | val_loss 2.7015 | ppl 14.9 | 8.0s
+  epoch  71 | batch    0/31 | loss 0.4224 | lr 2.25e-04
+  epoch  71 | batch   10/31 | loss 0.3886 | lr 2.24e-04
+  epoch  71 | batch   20/31 | loss 0.4276 | lr 2.23e-04
+  epoch  71 | batch   30/31 | loss 0.3593 | lr 2.23e-04
+Epoch  71 | train_loss 0.4164 | val_loss 2.7140 | ppl 15.1 | 7.9s
+  epoch  72 | batch    0/31 | loss 0.5062 | lr 2.23e-04
+  epoch  72 | batch   10/31 | loss 0.4316 | lr 2.22e-04
+  epoch  72 | batch   20/31 | loss 0.4389 | lr 2.21e-04
+  epoch  72 | batch   30/31 | loss 0.4744 | lr 2.21e-04
+Epoch  72 | train_loss 0.4112 | val_loss 2.7706 | ppl 16.0 | 7.8s
+  epoch  73 | batch    0/31 | loss 0.4578 | lr 2.21e-04
+  epoch  73 | batch   10/31 | loss 0.3502 | lr 2.20e-04
+  epoch  73 | batch   20/31 | loss 0.4087 | lr 2.19e-04
+  epoch  73 | batch   30/31 | loss 0.4348 | lr 2.19e-04
+Epoch  73 | train_loss 0.4036 | val_loss 2.7680 | ppl 15.9 | 8.2s
+  epoch  74 | batch    0/31 | loss 0.4282 | lr 2.18e-04
+  epoch  74 | batch   10/31 | loss 0.4045 | lr 2.18e-04
+  epoch  74 | batch   20/31 | loss 0.4599 | lr 2.17e-04
+  epoch  74 | batch   30/31 | loss 0.3496 | lr 2.16e-04
+Epoch  74 | train_loss 0.3986 | val_loss 2.8024 | ppl 16.5 | 7.8s
+  epoch  75 | batch    0/31 | loss 0.4735 | lr 2.16e-04
+  epoch  75 | batch   10/31 | loss 0.3618 | lr 2.16e-04
+  epoch  75 | batch   20/31 | loss 0.3421 | lr 2.15e-04
+  epoch  75 | batch   30/31 | loss 0.4307 | lr 2.14e-04
+Epoch  75 | train_loss 0.3899 | val_loss 2.8295 | ppl 16.9 | 7.6s
+  epoch  76 | batch    0/31 | loss 0.2929 | lr 2.14e-04
+  epoch  76 | batch   10/31 | loss 0.4657 | lr 2.13e-04
+  epoch  76 | batch   20/31 | loss 0.4294 | lr 2.13e-04
+  epoch  76 | batch   30/31 | loss 0.3720 | lr 2.12e-04
+Epoch  76 | train_loss 0.3852 | val_loss 2.8050 | ppl 16.5 | 7.5s
+  epoch  77 | batch    0/31 | loss 0.3123 | lr 2.12e-04
+  epoch  77 | batch   10/31 | loss 0.4054 | lr 2.11e-04
+  epoch  77 | batch   20/31 | loss 0.3480 | lr 2.10e-04
+  epoch  77 | batch   30/31 | loss 0.3788 | lr 2.10e-04
+Epoch  77 | train_loss 0.3804 | val_loss 2.8252 | ppl 16.9 | 7.4s
+  epoch  78 | batch    0/31 | loss 0.3916 | lr 2.10e-04
+  epoch  78 | batch   10/31 | loss 0.4232 | lr 2.09e-04
+  epoch  78 | batch   20/31 | loss 0.3946 | lr 2.08e-04
+  epoch  78 | batch   30/31 | loss 0.3441 | lr 2.07e-04
+Epoch  78 | train_loss 0.3739 | val_loss 2.8533 | ppl 17.3 | 7.5s
+  epoch  79 | batch    0/31 | loss 0.3152 | lr 2.07e-04
+  epoch  79 | batch   10/31 | loss 0.3666 | lr 2.07e-04
+  epoch  79 | batch   20/31 | loss 0.3769 | lr 2.06e-04
+  epoch  79 | batch   30/31 | loss 0.3996 | lr 2.05e-04
+Epoch  79 | train_loss 0.3682 | val_loss 2.8501 | ppl 17.3 | 7.4s
+  epoch  80 | batch    0/31 | loss 0.4483 | lr 2.05e-04
+  epoch  80 | batch   10/31 | loss 0.3565 | lr 2.04e-04
+  epoch  80 | batch   20/31 | loss 0.4006 | lr 2.04e-04
+  epoch  80 | batch   30/31 | loss 0.4414 | lr 2.03e-04
+Epoch  80 | train_loss 0.3641 | val_loss 2.8781 | ppl 17.8 | 7.3s
+  epoch  81 | batch    0/31 | loss 0.3720 | lr 2.03e-04
+  epoch  81 | batch   10/31 | loss 0.3172 | lr 2.02e-04
+  epoch  81 | batch   20/31 | loss 0.2954 | lr 2.01e-04
+  epoch  81 | batch   30/31 | loss 0.3644 | lr 2.01e-04
+Epoch  81 | train_loss 0.3598 | val_loss 2.9141 | ppl 18.4 | 7.3s
+  epoch  82 | batch    0/31 | loss 0.3276 | lr 2.01e-04
+  epoch  82 | batch   10/31 | loss 0.3345 | lr 2.00e-04
+  epoch  82 | batch   20/31 | loss 0.3846 | lr 1.99e-04
+  epoch  82 | batch   30/31 | loss 0.3411 | lr 1.98e-04
+Epoch  82 | train_loss 0.3517 | val_loss 2.9122 | ppl 18.4 | 7.4s
+  epoch  83 | batch    0/31 | loss 0.3185 | lr 1.98e-04
+  epoch  83 | batch   10/31 | loss 0.3419 | lr 1.98e-04
+  epoch  83 | batch   20/31 | loss 0.3857 | lr 1.97e-04
+  epoch  83 | batch   30/31 | loss 0.2673 | lr 1.96e-04
+Epoch  83 | train_loss 0.3485 | val_loss 2.9453 | ppl 19.0 | 7.4s
+  epoch  84 | batch    0/31 | loss 0.2884 | lr 1.96e-04
+  epoch  84 | batch   10/31 | loss 0.3349 | lr 1.95e-04
+  epoch  84 | batch   20/31 | loss 0.3272 | lr 1.94e-04
+  epoch  84 | batch   30/31 | loss 0.3478 | lr 1.94e-04
+Epoch  84 | train_loss 0.3433 | val_loss 2.9709 | ppl 19.5 | 7.4s
+  epoch  85 | batch    0/31 | loss 0.3248 | lr 1.94e-04
+  epoch  85 | batch   10/31 | loss 0.3316 | lr 1.93e-04
+  epoch  85 | batch   20/31 | loss 0.3256 | lr 1.92e-04
+  epoch  85 | batch   30/31 | loss 0.4535 | lr 1.91e-04
+Epoch  85 | train_loss 0.3361 | val_loss 2.9330 | ppl 18.8 | 7.4s
+  epoch  86 | batch    0/31 | loss 0.2863 | lr 1.91e-04
+  epoch  86 | batch   10/31 | loss 0.3524 | lr 1.91e-04
+  epoch  86 | batch   20/31 | loss 0.3278 | lr 1.90e-04
+  epoch  86 | batch   30/31 | loss 0.3084 | lr 1.89e-04
+Epoch  86 | train_loss 0.3317 | val_loss 2.9696 | ppl 19.5 | 7.3s
+  epoch  87 | batch    0/31 | loss 0.3031 | lr 1.89e-04
+  epoch  87 | batch   10/31 | loss 0.3982 | lr 1.88e-04
+  epoch  87 | batch   20/31 | loss 0.3439 | lr 1.87e-04
+  epoch  87 | batch   30/31 | loss 0.3662 | lr 1.87e-04
+Epoch  87 | train_loss 0.3255 | val_loss 3.0041 | ppl 20.2 | 7.4s
+  epoch  88 | batch    0/31 | loss 0.3213 | lr 1.87e-04
+  epoch  88 | batch   10/31 | loss 0.3396 | lr 1.86e-04
+  epoch  88 | batch   20/31 | loss 0.2797 | lr 1.85e-04
+  epoch  88 | batch   30/31 | loss 0.3498 | lr 1.84e-04
+Epoch  88 | train_loss 0.3209 | val_loss 3.0092 | ppl 20.3 | 7.7s
+  epoch  89 | batch    0/31 | loss 0.3236 | lr 1.84e-04
+  epoch  89 | batch   10/31 | loss 0.2894 | lr 1.83e-04
+  epoch  89 | batch   20/31 | loss 0.3025 | lr 1.83e-04
+  epoch  89 | batch   30/31 | loss 0.3786 | lr 1.82e-04
+Epoch  89 | train_loss 0.3187 | val_loss 3.0288 | ppl 20.7 | 7.7s
+  epoch  90 | batch    0/31 | loss 0.2858 | lr 1.82e-04
+  epoch  90 | batch   10/31 | loss 0.2943 | lr 1.81e-04
+  epoch  90 | batch   20/31 | loss 0.2973 | lr 1.80e-04
+  epoch  90 | batch   30/31 | loss 0.2922 | lr 1.80e-04
+Epoch  90 | train_loss 0.3138 | val_loss 3.0167 | ppl 20.4 | 7.6s
+  epoch  91 | batch    0/31 | loss 0.2902 | lr 1.79e-04
+  epoch  91 | batch   10/31 | loss 0.4287 | lr 1.79e-04
+  epoch  91 | batch   20/31 | loss 0.3759 | lr 1.78e-04
+  epoch  91 | batch   30/31 | loss 0.3024 | lr 1.77e-04
+Epoch  91 | train_loss 0.3088 | val_loss 3.0324 | ppl 20.7 | 7.5s
+  epoch  92 | batch    0/31 | loss 0.2855 | lr 1.77e-04
+  epoch  92 | batch   10/31 | loss 0.2883 | lr 1.76e-04
+  epoch  92 | batch   20/31 | loss 0.3096 | lr 1.76e-04
+  epoch  92 | batch   30/31 | loss 0.3363 | lr 1.75e-04
+Epoch  92 | train_loss 0.3062 | val_loss 3.0502 | ppl 21.1 | 7.4s
+  epoch  93 | batch    0/31 | loss 0.3290 | lr 1.75e-04
+  epoch  93 | batch   10/31 | loss 0.2747 | lr 1.74e-04
+  epoch  93 | batch   20/31 | loss 0.3469 | lr 1.73e-04
+  epoch  93 | batch   30/31 | loss 0.2581 | lr 1.72e-04
+Epoch  93 | train_loss 0.3024 | val_loss 3.1157 | ppl 22.5 | 7.3s
+  epoch  94 | batch    0/31 | loss 0.2972 | lr 1.72e-04
+  epoch  94 | batch   10/31 | loss 0.2481 | lr 1.72e-04
+  epoch  94 | batch   20/31 | loss 0.2714 | lr 1.71e-04
+  epoch  94 | batch   30/31 | loss 0.3349 | lr 1.70e-04
+Epoch  94 | train_loss 0.2958 | val_loss 3.0664 | ppl 21.5 | 7.3s
+  epoch  95 | batch    0/31 | loss 0.2581 | lr 1.70e-04
+  epoch  95 | batch   10/31 | loss 0.3446 | lr 1.69e-04
+  epoch  95 | batch   20/31 | loss 0.2554 | lr 1.68e-04
+  epoch  95 | batch   30/31 | loss 0.2589 | lr 1.68e-04
+Epoch  95 | train_loss 0.2927 | val_loss 3.1125 | ppl 22.5 | 7.3s
+  epoch  96 | batch    0/31 | loss 0.3416 | lr 1.67e-04
+  epoch  96 | batch   10/31 | loss 0.2755 | lr 1.67e-04
+  epoch  96 | batch   20/31 | loss 0.2974 | lr 1.66e-04
+  epoch  96 | batch   30/31 | loss 0.2545 | lr 1.65e-04
+Epoch  96 | train_loss 0.2905 | val_loss 3.0742 | ppl 21.6 | 7.2s
+  epoch  97 | batch    0/31 | loss 0.3246 | lr 1.65e-04
+  epoch  97 | batch   10/31 | loss 0.3016 | lr 1.64e-04
+  epoch  97 | batch   20/31 | loss 0.3024 | lr 1.63e-04
+  epoch  97 | batch   30/31 | loss 0.3080 | lr 1.63e-04
+Epoch  97 | train_loss 0.2870 | val_loss 3.1276 | ppl 22.8 | 7.3s
+  epoch  98 | batch    0/31 | loss 0.3104 | lr 1.63e-04
+  epoch  98 | batch   10/31 | loss 0.3007 | lr 1.62e-04
+  epoch  98 | batch   20/31 | loss 0.2913 | lr 1.61e-04
+  epoch  98 | batch   30/31 | loss 0.2919 | lr 1.60e-04
+Epoch  98 | train_loss 0.2813 | val_loss 3.0826 | ppl 21.8 | 7.3s
+  epoch  99 | batch    0/31 | loss 0.2685 | lr 1.60e-04
+  epoch  99 | batch   10/31 | loss 0.2943 | lr 1.59e-04
+  epoch  99 | batch   20/31 | loss 0.2904 | lr 1.59e-04
+  epoch  99 | batch   30/31 | loss 0.2539 | lr 1.58e-04
+Epoch  99 | train_loss 0.2792 | val_loss 3.0819 | ppl 21.8 | 7.3s
+  epoch 100 | batch    0/31 | loss 0.2767 | lr 1.58e-04
+  epoch 100 | batch   10/31 | loss 0.2620 | lr 1.57e-04
+  epoch 100 | batch   20/31 | loss 0.3155 | lr 1.56e-04
+  epoch 100 | batch   30/31 | loss 0.3099 | lr 1.55e-04
+Epoch 100 | train_loss 0.2757 | val_loss 3.1229 | ppl 22.7 | 7.4s
+  epoch 101 | batch    0/31 | loss 0.2803 | lr 1.55e-04
+  epoch 101 | batch   10/31 | loss 0.2722 | lr 1.55e-04
+  epoch 101 | batch   20/31 | loss 0.2294 | lr 1.54e-04
+  epoch 101 | batch   30/31 | loss 0.2320 | lr 1.53e-04
+Epoch 101 | train_loss 0.2717 | val_loss 3.1650 | ppl 23.7 | 7.5s
+  epoch 102 | batch    0/31 | loss 0.2928 | lr 1.53e-04
+  epoch 102 | batch   10/31 | loss 0.2693 | lr 1.52e-04
+  epoch 102 | batch   20/31 | loss 0.2832 | lr 1.51e-04
+  epoch 102 | batch   30/31 | loss 0.2754 | lr 1.51e-04
+Epoch 102 | train_loss 0.2692 | val_loss 3.1533 | ppl 23.4 | 7.5s
+  epoch 103 | batch    0/31 | loss 0.2981 | lr 1.50e-04
+  epoch 103 | batch   10/31 | loss 0.2280 | lr 1.50e-04
+  epoch 103 | batch   20/31 | loss 0.3286 | lr 1.49e-04
+  epoch 103 | batch   30/31 | loss 0.2069 | lr 1.48e-04
+Epoch 103 | train_loss 0.2647 | val_loss 3.1787 | ppl 24.0 | 7.7s
+  epoch 104 | batch    0/31 | loss 0.2147 | lr 1.48e-04
+  epoch 104 | batch   10/31 | loss 0.3031 | lr 1.47e-04
+  epoch 104 | batch   20/31 | loss 0.2880 | lr 1.46e-04
+  epoch 104 | batch   30/31 | loss 0.2274 | lr 1.46e-04
+Epoch 104 | train_loss 0.2633 | val_loss 3.1561 | ppl 23.5 | 8.3s
+  epoch 105 | batch    0/31 | loss 0.2831 | lr 1.46e-04
+  epoch 105 | batch   10/31 | loss 0.3123 | lr 1.45e-04
+  epoch 105 | batch   20/31 | loss 0.3006 | lr 1.44e-04
+  epoch 105 | batch   30/31 | loss 0.2708 | lr 1.43e-04
+Epoch 105 | train_loss 0.2604 | val_loss 3.1761 | ppl 24.0 | 7.9s
+  epoch 106 | batch    0/31 | loss 0.2842 | lr 1.43e-04
+  epoch 106 | batch   10/31 | loss 0.2529 | lr 1.42e-04
+  epoch 106 | batch   20/31 | loss 0.2742 | lr 1.42e-04
+  epoch 106 | batch   30/31 | loss 0.2423 | lr 1.41e-04
+Epoch 106 | train_loss 0.2554 | val_loss 3.2094 | ppl 24.8 | 8.4s
+  epoch 107 | batch    0/31 | loss 0.2382 | lr 1.41e-04
+  epoch 107 | batch   10/31 | loss 0.2443 | lr 1.40e-04
+  epoch 107 | batch   20/31 | loss 0.2783 | lr 1.39e-04
+  epoch 107 | batch   30/31 | loss 0.2453 | lr 1.38e-04
+Epoch 107 | train_loss 0.2559 | val_loss 3.2183 | ppl 25.0 | 8.3s
+  epoch 108 | batch    0/31 | loss 0.2334 | lr 1.38e-04
+  epoch 108 | batch   10/31 | loss 0.2735 | lr 1.38e-04
+  epoch 108 | batch   20/31 | loss 0.2110 | lr 1.37e-04
+  epoch 108 | batch   30/31 | loss 0.2302 | lr 1.36e-04
+Epoch 108 | train_loss 0.2502 | val_loss 3.2304 | ppl 25.3 | 8.3s
+  epoch 109 | batch    0/31 | loss 0.2607 | lr 1.36e-04
+  epoch 109 | batch   10/31 | loss 0.2895 | lr 1.35e-04
+  epoch 109 | batch   20/31 | loss 0.2634 | lr 1.34e-04
+  epoch 109 | batch   30/31 | loss 0.2179 | lr 1.34e-04
+Epoch 109 | train_loss 0.2470 | val_loss 3.2573 | ppl 26.0 | 8.5s
+  epoch 110 | batch    0/31 | loss 0.2710 | lr 1.33e-04
+  epoch 110 | batch   10/31 | loss 0.2802 | lr 1.33e-04
+  epoch 110 | batch   20/31 | loss 0.2821 | lr 1.32e-04
+  epoch 110 | batch   30/31 | loss 0.2755 | lr 1.31e-04
+Epoch 110 | train_loss 0.2460 | val_loss 3.2500 | ppl 25.8 | 8.8s
+  epoch 111 | batch    0/31 | loss 0.2320 | lr 1.31e-04
+  epoch 111 | batch   10/31 | loss 0.3220 | lr 1.30e-04
+  epoch 111 | batch   20/31 | loss 0.2068 | lr 1.29e-04
+  epoch 111 | batch   30/31 | loss 0.2305 | lr 1.29e-04
+Epoch 111 | train_loss 0.2425 | val_loss 3.2602 | ppl 26.1 | 8.0s
+  epoch 112 | batch    0/31 | loss 0.2245 | lr 1.29e-04
+  epoch 112 | batch   10/31 | loss 0.2171 | lr 1.28e-04
+  epoch 112 | batch   20/31 | loss 0.2500 | lr 1.27e-04
+  epoch 112 | batch   30/31 | loss 0.2171 | lr 1.26e-04
+Epoch 112 | train_loss 0.2409 | val_loss 3.2561 | ppl 25.9 | 8.4s
+  epoch 113 | batch    0/31 | loss 0.1959 | lr 1.26e-04
+  epoch 113 | batch   10/31 | loss 0.2766 | lr 1.25e-04
+  epoch 113 | batch   20/31 | loss 0.2263 | lr 1.25e-04
+  epoch 113 | batch   30/31 | loss 0.2436 | lr 1.24e-04
+Epoch 113 | train_loss 0.2369 | val_loss 3.2983 | ppl 27.1 | 323.8s
+  epoch 114 | batch    0/31 | loss 0.2114 | lr 1.24e-04
+  epoch 114 | batch   10/31 | loss 0.2297 | lr 1.23e-04
+  epoch 114 | batch   20/31 | loss 0.2197 | lr 1.22e-04
+  epoch 114 | batch   30/31 | loss 0.2344 | lr 1.22e-04
+Epoch 114 | train_loss 0.2324 | val_loss 3.3151 | ppl 27.5 | 118.7s
+  epoch 115 | batch    0/31 | loss 0.2650 | lr 1.21e-04
+  epoch 115 | batch   10/31 | loss 0.2602 | lr 1.21e-04
+  epoch 115 | batch   20/31 | loss 0.2167 | lr 1.20e-04
+  epoch 115 | batch   30/31 | loss 0.1968 | lr 1.19e-04
+Epoch 115 | train_loss 0.2337 | val_loss 3.3316 | ppl 28.0 | 8.8s
+  epoch 116 | batch    0/31 | loss 0.2805 | lr 1.19e-04
+  epoch 116 | batch   10/31 | loss 0.2216 | lr 1.18e-04
+  epoch 116 | batch   20/31 | loss 0.2626 | lr 1.18e-04
+  epoch 116 | batch   30/31 | loss 0.2417 | lr 1.17e-04
+Epoch 116 | train_loss 0.2303 | val_loss 3.3019 | ppl 27.2 | 8.3s
+  epoch 117 | batch    0/31 | loss 0.2583 | lr 1.17e-04
+  epoch 117 | batch   10/31 | loss 0.2382 | lr 1.16e-04
+  epoch 117 | batch   20/31 | loss 0.1925 | lr 1.15e-04
+  epoch 117 | batch   30/31 | loss 0.2506 | lr 1.14e-04
+Epoch 117 | train_loss 0.2278 | val_loss 3.3284 | ppl 27.9 | 8.4s
+  epoch 118 | batch    0/31 | loss 0.2927 | lr 1.14e-04
+  epoch 118 | batch   10/31 | loss 0.2262 | lr 1.14e-04
+  epoch 118 | batch   20/31 | loss 0.2349 | lr 1.13e-04
+  epoch 118 | batch   30/31 | loss 0.1897 | lr 1.12e-04
+Epoch 118 | train_loss 0.2241 | val_loss 3.3109 | ppl 27.4 | 8.2s
+  epoch 119 | batch    0/31 | loss 0.2244 | lr 1.12e-04
+  epoch 119 | batch   10/31 | loss 0.2561 | lr 1.11e-04
+  epoch 119 | batch   20/31 | loss 0.2134 | lr 1.10e-04
+  epoch 119 | batch   30/31 | loss 0.2385 | lr 1.10e-04
+Epoch 119 | train_loss 0.2247 | val_loss 3.3454 | ppl 28.4 | 8.4s
+  epoch 120 | batch    0/31 | loss 0.2212 | lr 1.10e-04
+  epoch 120 | batch   10/31 | loss 0.2274 | lr 1.09e-04
+  epoch 120 | batch   20/31 | loss 0.2109 | lr 1.08e-04
+  epoch 120 | batch   30/31 | loss 0.1670 | lr 1.07e-04
+Epoch 120 | train_loss 0.2234 | val_loss 3.3290 | ppl 27.9 | 8.7s
+  epoch 121 | batch    0/31 | loss 0.1939 | lr 1.07e-04
+  epoch 121 | batch   10/31 | loss 0.1823 | lr 1.06e-04
+  epoch 121 | batch   20/31 | loss 0.2037 | lr 1.06e-04
+  epoch 121 | batch   30/31 | loss 0.1966 | lr 1.05e-04
+Epoch 121 | train_loss 0.2199 | val_loss 3.3595 | ppl 28.8 | 8.8s
+  epoch 122 | batch    0/31 | loss 0.1894 | lr 1.05e-04
+  epoch 122 | batch   10/31 | loss 0.2129 | lr 1.04e-04
+  epoch 122 | batch   20/31 | loss 0.1781 | lr 1.03e-04
+  epoch 122 | batch   30/31 | loss 0.2345 | lr 1.03e-04
+Epoch 122 | train_loss 0.2183 | val_loss 3.3683 | ppl 29.0 | 8.5s
+  epoch 123 | batch    0/31 | loss 0.2069 | lr 1.03e-04
+  epoch 123 | batch   10/31 | loss 0.2441 | lr 1.02e-04
+  epoch 123 | batch   20/31 | loss 0.2141 | lr 1.01e-04
+  epoch 123 | batch   30/31 | loss 0.2172 | lr 1.00e-04
+Epoch 123 | train_loss 0.2180 | val_loss 3.3747 | ppl 29.2 | 8.4s
+  epoch 124 | batch    0/31 | loss 0.2179 | lr 1.00e-04
+  epoch 124 | batch   10/31 | loss 0.2160 | lr 9.96e-05
+  epoch 124 | batch   20/31 | loss 0.2731 | lr 9.88e-05
+  epoch 124 | batch   30/31 | loss 0.2305 | lr 9.81e-05
+Epoch 124 | train_loss 0.2111 | val_loss 3.3961 | ppl 29.8 | 8.5s
+  epoch 125 | batch    0/31 | loss 0.1704 | lr 9.80e-05
+  epoch 125 | batch   10/31 | loss 0.1773 | lr 9.73e-05
+  epoch 125 | batch   20/31 | loss 0.2464 | lr 9.65e-05
+  epoch 125 | batch   30/31 | loss 0.2256 | lr 9.58e-05
+Epoch 125 | train_loss 0.2105 | val_loss 3.3960 | ppl 29.8 | 11.8s
+  epoch 126 | batch    0/31 | loss 0.1992 | lr 9.57e-05
+  epoch 126 | batch   10/31 | loss 0.2393 | lr 9.50e-05
+  epoch 126 | batch   20/31 | loss 0.1709 | lr 9.43e-05
+  epoch 126 | batch   30/31 | loss 0.2063 | lr 9.35e-05
+Epoch 126 | train_loss 0.2101 | val_loss 3.4518 | ppl 31.6 | 13.5s
+  epoch 127 | batch    0/31 | loss 0.1977 | lr 9.35e-05
+  epoch 127 | batch   10/31 | loss 0.2607 | lr 9.27e-05
+  epoch 127 | batch   20/31 | loss 0.1934 | lr 9.20e-05
+  epoch 127 | batch   30/31 | loss 0.2338 | lr 9.13e-05
+Epoch 127 | train_loss 0.2079 | val_loss 3.4430 | ppl 31.3 | 14.5s
+  epoch 128 | batch    0/31 | loss 0.1763 | lr 9.12e-05
+  epoch 128 | batch   10/31 | loss 0.1802 | lr 9.05e-05
+  epoch 128 | batch   20/31 | loss 0.1906 | lr 8.98e-05
+  epoch 128 | batch   30/31 | loss 0.1883 | lr 8.91e-05
+Epoch 128 | train_loss 0.2063 | val_loss 3.4351 | ppl 31.0 | 9.0s
+  epoch 129 | batch    0/31 | loss 0.2267 | lr 8.90e-05
+  epoch 129 | batch   10/31 | loss 0.1998 | lr 8.83e-05
+  epoch 129 | batch   20/31 | loss 0.2150 | lr 8.76e-05
+  epoch 129 | batch   30/31 | loss 0.2284 | lr 8.68e-05
+Epoch 129 | train_loss 0.2055 | val_loss 3.4405 | ppl 31.2 | 8.7s
+  epoch 130 | batch    0/31 | loss 0.2478 | lr 8.68e-05
+  epoch 130 | batch   10/31 | loss 0.1721 | lr 8.61e-05
+  epoch 130 | batch   20/31 | loss 0.1717 | lr 8.54e-05
+  epoch 130 | batch   30/31 | loss 0.1928 | lr 8.46e-05
+Epoch 130 | train_loss 0.2013 | val_loss 3.4630 | ppl 31.9 | 8.6s
+  epoch 131 | batch    0/31 | loss 0.2062 | lr 8.46e-05
+  epoch 131 | batch   10/31 | loss 0.1943 | lr 8.39e-05
+  epoch 131 | batch   20/31 | loss 0.2104 | lr 8.32e-05
+  epoch 131 | batch   30/31 | loss 0.2099 | lr 8.25e-05
+Epoch 131 | train_loss 0.2006 | val_loss 3.4298 | ppl 30.9 | 8.7s
+  epoch 132 | batch    0/31 | loss 0.1915 | lr 8.24e-05
+  epoch 132 | batch   10/31 | loss 0.1998 | lr 8.17e-05
+  epoch 132 | batch   20/31 | loss 0.1949 | lr 8.10e-05
+  epoch 132 | batch   30/31 | loss 0.1670 | lr 8.03e-05
+Epoch 132 | train_loss 0.1980 | val_loss 3.4552 | ppl 31.7 | 8.5s
+  epoch 133 | batch    0/31 | loss 0.1668 | lr 8.02e-05
+  epoch 133 | batch   10/31 | loss 0.2202 | lr 7.95e-05
+  epoch 133 | batch   20/31 | loss 0.2028 | lr 7.88e-05
+  epoch 133 | batch   30/31 | loss 0.1862 | lr 7.82e-05
+Epoch 133 | train_loss 0.1973 | val_loss 3.4351 | ppl 31.0 | 9.0s
+  epoch 134 | batch    0/31 | loss 0.2140 | lr 7.81e-05
+  epoch 134 | batch   10/31 | loss 0.2237 | lr 7.74e-05
+  epoch 134 | batch   20/31 | loss 0.1981 | lr 7.67e-05
+  epoch 134 | batch   30/31 | loss 0.2039 | lr 7.60e-05
+Epoch 134 | train_loss 0.1954 | val_loss 3.4812 | ppl 32.5 | 8.7s
+  epoch 135 | batch    0/31 | loss 0.1782 | lr 7.60e-05
+  epoch 135 | batch   10/31 | loss 0.1855 | lr 7.53e-05
+  epoch 135 | batch   20/31 | loss 0.1874 | lr 7.46e-05
+  epoch 135 | batch   30/31 | loss 0.2275 | lr 7.39e-05
+Epoch 135 | train_loss 0.1941 | val_loss 3.4695 | ppl 32.1 | 8.0s
+  epoch 136 | batch    0/31 | loss 0.1612 | lr 7.38e-05
+  epoch 136 | batch   10/31 | loss 0.2000 | lr 7.32e-05
+  epoch 136 | batch   20/31 | loss 0.1736 | lr 7.25e-05
+  epoch 136 | batch   30/31 | loss 0.2025 | lr 7.18e-05
+Epoch 136 | train_loss 0.1937 | val_loss 3.4959 | ppl 33.0 | 8.2s
+  epoch 137 | batch    0/31 | loss 0.1583 | lr 7.18e-05
+  epoch 137 | batch   10/31 | loss 0.1928 | lr 7.11e-05
+  epoch 137 | batch   20/31 | loss 0.1958 | lr 7.04e-05
+  epoch 137 | batch   30/31 | loss 0.1795 | lr 6.98e-05
+Epoch 137 | train_loss 0.1913 | val_loss 3.4896 | ppl 32.8 | 8.1s
+  epoch 138 | batch    0/31 | loss 0.2229 | lr 6.97e-05
+  epoch 138 | batch   10/31 | loss 0.1921 | lr 6.90e-05
+  epoch 138 | batch   20/31 | loss 0.2014 | lr 6.84e-05
+  epoch 138 | batch   30/31 | loss 0.1982 | lr 6.77e-05
+Epoch 138 | train_loss 0.1907 | val_loss 3.5036 | ppl 33.2 | 8.2s
+  epoch 139 | batch    0/31 | loss 0.1739 | lr 6.76e-05
+  epoch 139 | batch   10/31 | loss 0.2009 | lr 6.70e-05
+  epoch 139 | batch   20/31 | loss 0.2136 | lr 6.63e-05
+  epoch 139 | batch   30/31 | loss 0.1884 | lr 6.57e-05
+Epoch 139 | train_loss 0.1900 | val_loss 3.4911 | ppl 32.8 | 7.9s
+  epoch 140 | batch    0/31 | loss 0.1583 | lr 6.56e-05
+  epoch 140 | batch   10/31 | loss 0.1939 | lr 6.50e-05
+  epoch 140 | batch   20/31 | loss 0.1926 | lr 6.43e-05
+  epoch 140 | batch   30/31 | loss 0.1995 | lr 6.37e-05
+Epoch 140 | train_loss 0.1877 | val_loss 3.5283 | ppl 34.1 | 7.9s
+  epoch 141 | batch    0/31 | loss 0.2042 | lr 6.36e-05
+  epoch 141 | batch   10/31 | loss 0.2054 | lr 6.30e-05
+  epoch 141 | batch   20/31 | loss 0.1937 | lr 6.23e-05
+  epoch 141 | batch   30/31 | loss 0.1832 | lr 6.17e-05
+Epoch 141 | train_loss 0.1860 | val_loss 3.5024 | ppl 33.2 | 7.8s
+  epoch 142 | batch    0/31 | loss 0.1742 | lr 6.16e-05
+  epoch 142 | batch   10/31 | loss 0.2122 | lr 6.10e-05
+  epoch 142 | batch   20/31 | loss 0.2132 | lr 6.04e-05
+  epoch 142 | batch   30/31 | loss 0.1907 | lr 5.97e-05
+Epoch 142 | train_loss 0.1843 | val_loss 3.5095 | ppl 33.4 | 7.9s
+  epoch 143 | batch    0/31 | loss 0.1834 | lr 5.97e-05
+  epoch 143 | batch   10/31 | loss 0.1719 | lr 5.91e-05
+  epoch 143 | batch   20/31 | loss 0.1413 | lr 5.84e-05
+  epoch 143 | batch   30/31 | loss 0.1730 | lr 5.78e-05
+Epoch 143 | train_loss 0.1865 | val_loss 3.5172 | ppl 33.7 | 7.8s
+  epoch 144 | batch    0/31 | loss 0.1771 | lr 5.78e-05
+  epoch 144 | batch   10/31 | loss 0.2387 | lr 5.71e-05
+  epoch 144 | batch   20/31 | loss 0.1892 | lr 5.65e-05
+  epoch 144 | batch   30/31 | loss 0.1699 | lr 5.59e-05
+Epoch 144 | train_loss 0.1819 | val_loss 3.5138 | ppl 33.6 | 7.8s
+  epoch 145 | batch    0/31 | loss 0.1934 | lr 5.58e-05
+  epoch 145 | batch   10/31 | loss 0.2017 | lr 5.52e-05
+  epoch 145 | batch   20/31 | loss 0.1451 | lr 5.46e-05
+  epoch 145 | batch   30/31 | loss 0.1992 | lr 5.40e-05
+Epoch 145 | train_loss 0.1819 | val_loss 3.5266 | ppl 34.0 | 7.8s
+  epoch 146 | batch    0/31 | loss 0.1807 | lr 5.40e-05
+  epoch 146 | batch   10/31 | loss 0.1994 | lr 5.34e-05
+  epoch 146 | batch   20/31 | loss 0.1475 | lr 5.28e-05
+  epoch 146 | batch   30/31 | loss 0.2039 | lr 5.22e-05
+Epoch 146 | train_loss 0.1824 | val_loss 3.5210 | ppl 33.8 | 7.9s
+  epoch 147 | batch    0/31 | loss 0.1613 | lr 5.21e-05
+  epoch 147 | batch   10/31 | loss 0.1509 | lr 5.15e-05
+  epoch 147 | batch   20/31 | loss 0.1832 | lr 5.09e-05
+  epoch 147 | batch   30/31 | loss 0.1669 | lr 5.03e-05
+Epoch 147 | train_loss 0.1813 | val_loss 3.5120 | ppl 33.5 | 7.7s
+  epoch 148 | batch    0/31 | loss 0.1781 | lr 5.03e-05
+  epoch 148 | batch   10/31 | loss 0.1438 | lr 4.97e-05
+  epoch 148 | batch   20/31 | loss 0.1827 | lr 4.91e-05
+  epoch 148 | batch   30/31 | loss 0.1527 | lr 4.85e-05
+Epoch 148 | train_loss 0.1782 | val_loss 3.5277 | ppl 34.0 | 7.7s
+  epoch 149 | batch    0/31 | loss 0.1582 | lr 4.85e-05
+  epoch 149 | batch   10/31 | loss 0.1724 | lr 4.79e-05
+  epoch 149 | batch   20/31 | loss 0.1889 | lr 4.73e-05
+  epoch 149 | batch   30/31 | loss 0.1619 | lr 4.67e-05
+Epoch 149 | train_loss 0.1789 | val_loss 3.5409 | ppl 34.5 | 7.7s
+  epoch 150 | batch    0/31 | loss 0.1560 | lr 4.67e-05
+  epoch 150 | batch   10/31 | loss 0.1770 | lr 4.61e-05
+  epoch 150 | batch   20/31 | loss 0.2088 | lr 4.56e-05
+  epoch 150 | batch   30/31 | loss 0.1471 | lr 4.50e-05
+Epoch 150 | train_loss 0.1770 | val_loss 3.5685 | ppl 35.5 | 8.0s
+  epoch 151 | batch    0/31 | loss 0.1855 | lr 4.49e-05
+  epoch 151 | batch   10/31 | loss 0.2141 | lr 4.44e-05
+  epoch 151 | batch   20/31 | loss 0.1855 | lr 4.38e-05
+  epoch 151 | batch   30/31 | loss 0.2036 | lr 4.33e-05
+Epoch 151 | train_loss 0.1772 | val_loss 3.5486 | ppl 34.8 | 7.7s
+  epoch 152 | batch    0/31 | loss 0.1482 | lr 4.32e-05
+  epoch 152 | batch   10/31 | loss 0.1776 | lr 4.27e-05
+  epoch 152 | batch   20/31 | loss 0.1587 | lr 4.21e-05
+  epoch 152 | batch   30/31 | loss 0.1628 | lr 4.16e-05
+Epoch 152 | train_loss 0.1764 | val_loss 3.5717 | ppl 35.6 | 7.6s
+  epoch 153 | batch    0/31 | loss 0.1758 | lr 4.15e-05
+  epoch 153 | batch   10/31 | loss 0.1324 | lr 4.10e-05
+  epoch 153 | batch   20/31 | loss 0.1596 | lr 4.04e-05
+  epoch 153 | batch   30/31 | loss 0.1725 | lr 3.99e-05
+Epoch 153 | train_loss 0.1750 | val_loss 3.5614 | ppl 35.2 | 8.0s
+  epoch 154 | batch    0/31 | loss 0.1783 | lr 3.99e-05
+  epoch 154 | batch   10/31 | loss 0.1450 | lr 3.93e-05
+  epoch 154 | batch   20/31 | loss 0.2078 | lr 3.88e-05
+  epoch 154 | batch   30/31 | loss 0.1603 | lr 3.83e-05
+Epoch 154 | train_loss 0.1726 | val_loss 3.5650 | ppl 35.3 | 7.9s
+  epoch 155 | batch    0/31 | loss 0.1604 | lr 3.82e-05
+  epoch 155 | batch   10/31 | loss 0.1719 | lr 3.77e-05
+  epoch 155 | batch   20/31 | loss 0.1895 | lr 3.72e-05
+  epoch 155 | batch   30/31 | loss 0.1599 | lr 3.67e-05
+Epoch 155 | train_loss 0.1733 | val_loss 3.5530 | ppl 34.9 | 7.7s
+  epoch 156 | batch    0/31 | loss 0.2058 | lr 3.66e-05
+  epoch 156 | batch   10/31 | loss 0.1591 | lr 3.61e-05
+  epoch 156 | batch   20/31 | loss 0.1595 | lr 3.56e-05
+  epoch 156 | batch   30/31 | loss 0.1612 | lr 3.51e-05
+Epoch 156 | train_loss 0.1726 | val_loss 3.5754 | ppl 35.7 | 7.7s
+  epoch 157 | batch    0/31 | loss 0.1613 | lr 3.50e-05
+  epoch 157 | batch   10/31 | loss 0.1555 | lr 3.45e-05
+  epoch 157 | batch   20/31 | loss 0.1985 | lr 3.40e-05
+  epoch 157 | batch   30/31 | loss 0.1555 | lr 3.35e-05
+Epoch 157 | train_loss 0.1696 | val_loss 3.5737 | ppl 35.6 | 7.7s
+  epoch 158 | batch    0/31 | loss 0.1587 | lr 3.35e-05
+  epoch 158 | batch   10/31 | loss 0.1862 | lr 3.30e-05
+  epoch 158 | batch   20/31 | loss 0.1768 | lr 3.25e-05
+  epoch 158 | batch   30/31 | loss 0.1561 | lr 3.20e-05
+Epoch 158 | train_loss 0.1711 | val_loss 3.5830 | ppl 36.0 | 7.7s
+  epoch 159 | batch    0/31 | loss 0.1740 | lr 3.20e-05
+  epoch 159 | batch   10/31 | loss 0.1793 | lr 3.15e-05
+  epoch 159 | batch   20/31 | loss 0.1784 | lr 3.10e-05
+  epoch 159 | batch   30/31 | loss 0.1438 | lr 3.05e-05
+Epoch 159 | train_loss 0.1701 | val_loss 3.5880 | ppl 36.2 | 7.8s
+  epoch 160 | batch    0/31 | loss 0.2194 | lr 3.05e-05
+  epoch 160 | batch   10/31 | loss 0.1308 | lr 3.00e-05
+  epoch 160 | batch   20/31 | loss 0.1782 | lr 2.95e-05
+  epoch 160 | batch   30/31 | loss 0.1873 | lr 2.91e-05
+Epoch 160 | train_loss 0.1691 | val_loss 3.5720 | ppl 35.6 | 7.8s
+  epoch 161 | batch    0/31 | loss 0.1864 | lr 2.90e-05
+  epoch 161 | batch   10/31 | loss 0.1719 | lr 2.86e-05
+  epoch 161 | batch   20/31 | loss 0.1775 | lr 2.81e-05
+  epoch 161 | batch   30/31 | loss 0.1818 | lr 2.76e-05
+Epoch 161 | train_loss 0.1681 | val_loss 3.5955 | ppl 36.4 | 8.1s
+  epoch 162 | batch    0/31 | loss 0.1587 | lr 2.76e-05
+  epoch 162 | batch   10/31 | loss 0.1591 | lr 2.71e-05
+  epoch 162 | batch   20/31 | loss 0.1726 | lr 2.67e-05
+  epoch 162 | batch   30/31 | loss 0.1885 | lr 2.62e-05
+Epoch 162 | train_loss 0.1686 | val_loss 3.6080 | ppl 36.9 | 8.0s
+  epoch 163 | batch    0/31 | loss 0.1597 | lr 2.62e-05
+  epoch 163 | batch   10/31 | loss 0.2037 | lr 2.58e-05
+  epoch 163 | batch   20/31 | loss 0.1403 | lr 2.53e-05
+  epoch 163 | batch   30/31 | loss 0.1966 | lr 2.49e-05
+Epoch 163 | train_loss 0.1669 | val_loss 3.6075 | ppl 36.9 | 8.0s
+  epoch 164 | batch    0/31 | loss 0.1542 | lr 2.48e-05
+  epoch 164 | batch   10/31 | loss 0.1808 | lr 2.44e-05
+  epoch 164 | batch   20/31 | loss 0.1773 | lr 2.40e-05
+  epoch 164 | batch   30/31 | loss 0.1611 | lr 2.36e-05
+Epoch 164 | train_loss 0.1651 | val_loss 3.6089 | ppl 36.9 | 8.1s
+  epoch 165 | batch    0/31 | loss 0.1852 | lr 2.35e-05
+  epoch 165 | batch   10/31 | loss 0.1607 | lr 2.31e-05
+  epoch 165 | batch   20/31 | loss 0.1844 | lr 2.27e-05
+  epoch 165 | batch   30/31 | loss 0.1965 | lr 2.23e-05
+Epoch 165 | train_loss 0.1660 | val_loss 3.6233 | ppl 37.5 | 7.9s
+  epoch 166 | batch    0/31 | loss 0.1359 | lr 2.22e-05
+  epoch 166 | batch   10/31 | loss 0.1608 | lr 2.18e-05
+  epoch 166 | batch   20/31 | loss 0.1376 | lr 2.14e-05
+  epoch 166 | batch   30/31 | loss 0.2034 | lr 2.10e-05
+Epoch 166 | train_loss 0.1659 | val_loss 3.6157 | ppl 37.2 | 7.7s
+  epoch 167 | batch    0/31 | loss 0.1561 | lr 2.10e-05
+  epoch 167 | batch   10/31 | loss 0.1667 | lr 2.06e-05
+  epoch 167 | batch   20/31 | loss 0.1923 | lr 2.02e-05
+  epoch 167 | batch   30/31 | loss 0.1801 | lr 1.98e-05
+Epoch 167 | train_loss 0.1651 | val_loss 3.6301 | ppl 37.7 | 7.8s
+  epoch 168 | batch    0/31 | loss 0.1872 | lr 1.97e-05
+  epoch 168 | batch   10/31 | loss 0.1308 | lr 1.94e-05
+  epoch 168 | batch   20/31 | loss 0.1646 | lr 1.90e-05
+  epoch 168 | batch   30/31 | loss 0.1627 | lr 1.86e-05
+Epoch 168 | train_loss 0.1639 | val_loss 3.6248 | ppl 37.5 | 7.9s
+  epoch 169 | batch    0/31 | loss 0.1780 | lr 1.86e-05
+  epoch 169 | batch   10/31 | loss 0.1906 | lr 1.82e-05
+  epoch 169 | batch   20/31 | loss 0.1572 | lr 1.78e-05
+  epoch 169 | batch   30/31 | loss 0.1683 | lr 1.74e-05
+Epoch 169 | train_loss 0.1641 | val_loss 3.6190 | ppl 37.3 | 10.8s
+  epoch 170 | batch    0/31 | loss 0.1676 | lr 1.74e-05
+  epoch 170 | batch   10/31 | loss 0.1462 | lr 1.70e-05
+  epoch 170 | batch   20/31 | loss 0.1751 | lr 1.67e-05
+  epoch 170 | batch   30/31 | loss 0.1496 | lr 1.63e-05
+Epoch 170 | train_loss 0.1634 | val_loss 3.6284 | ppl 37.7 | 12.2s
+  epoch 171 | batch    0/31 | loss 0.1533 | lr 1.63e-05
+  epoch 171 | batch   10/31 | loss 0.1604 | lr 1.59e-05
+  epoch 171 | batch   20/31 | loss 0.1984 | lr 1.56e-05
+  epoch 171 | batch   30/31 | loss 0.1536 | lr 1.52e-05
+Epoch 171 | train_loss 0.1645 | val_loss 3.6286 | ppl 37.7 | 7.8s
+  epoch 172 | batch    0/31 | loss 0.1544 | lr 1.52e-05
+  epoch 172 | batch   10/31 | loss 0.1589 | lr 1.48e-05
+  epoch 172 | batch   20/31 | loss 0.1614 | lr 1.45e-05
+  epoch 172 | batch   30/31 | loss 0.1786 | lr 1.42e-05
+Epoch 172 | train_loss 0.1629 | val_loss 3.6367 | ppl 38.0 | 7.8s
+  epoch 173 | batch    0/31 | loss 0.1547 | lr 1.41e-05
+  epoch 173 | batch   10/31 | loss 0.1629 | lr 1.38e-05
+  epoch 173 | batch   20/31 | loss 0.2016 | lr 1.35e-05
+  epoch 173 | batch   30/31 | loss 0.1306 | lr 1.32e-05
+Epoch 173 | train_loss 0.1654 | val_loss 3.6342 | ppl 37.9 | 7.9s
+  epoch 174 | batch    0/31 | loss 0.1680 | lr 1.31e-05
+  epoch 174 | batch   10/31 | loss 0.1722 | lr 1.28e-05
+  epoch 174 | batch   20/31 | loss 0.1659 | lr 1.25e-05
+  epoch 174 | batch   30/31 | loss 0.1338 | lr 1.22e-05
+Epoch 174 | train_loss 0.1634 | val_loss 3.6371 | ppl 38.0 | 7.7s
+  epoch 175 | batch    0/31 | loss 0.1388 | lr 1.22e-05
+  epoch 175 | batch   10/31 | loss 0.1700 | lr 1.18e-05
+  epoch 175 | batch   20/31 | loss 0.1625 | lr 1.15e-05
+  epoch 175 | batch   30/31 | loss 0.1627 | lr 1.12e-05
+Epoch 175 | train_loss 0.1612 | val_loss 3.6368 | ppl 38.0 | 7.9s
+  epoch 176 | batch    0/31 | loss 0.1302 | lr 1.12e-05
+  epoch 176 | batch   10/31 | loss 0.1683 | lr 1.09e-05
+  epoch 176 | batch   20/31 | loss 0.1480 | lr 1.06e-05
+  epoch 176 | batch   30/31 | loss 0.1716 | lr 1.03e-05
+Epoch 176 | train_loss 0.1609 | val_loss 3.6347 | ppl 37.9 | 7.7s
+  epoch 177 | batch    0/31 | loss 0.1755 | lr 1.03e-05
+  epoch 177 | batch   10/31 | loss 0.1498 | lr 1.00e-05
+  epoch 177 | batch   20/31 | loss 0.1931 | lr 9.74e-06
+  epoch 177 | batch   30/31 | loss 0.1413 | lr 9.46e-06
+Epoch 177 | train_loss 0.1623 | val_loss 3.6315 | ppl 37.8 | 7.8s
+  epoch 178 | batch    0/31 | loss 0.1705 | lr 9.44e-06
+  epoch 178 | batch   10/31 | loss 0.1606 | lr 9.16e-06
+  epoch 178 | batch   20/31 | loss 0.1566 | lr 8.89e-06
+  epoch 178 | batch   30/31 | loss 0.1555 | lr 8.63e-06
+Epoch 178 | train_loss 0.1604 | val_loss 3.6378 | ppl 38.0 | 7.8s
+  epoch 179 | batch    0/31 | loss 0.1581 | lr 8.60e-06
+  epoch 179 | batch   10/31 | loss 0.1622 | lr 8.34e-06
+  epoch 179 | batch   20/31 | loss 0.1542 | lr 8.09e-06
+  epoch 179 | batch   30/31 | loss 0.1966 | lr 7.83e-06
+Epoch 179 | train_loss 0.1596 | val_loss 3.6479 | ppl 38.4 | 7.8s
+  epoch 180 | batch    0/31 | loss 0.1612 | lr 7.81e-06
+  epoch 180 | batch   10/31 | loss 0.1848 | lr 7.56e-06
+  epoch 180 | batch   20/31 | loss 0.1593 | lr 7.32e-06
+  epoch 180 | batch   30/31 | loss 0.1323 | lr 7.08e-06
+Epoch 180 | train_loss 0.1607 | val_loss 3.6436 | ppl 38.2 | 8.0s
+  epoch 181 | batch    0/31 | loss 0.2007 | lr 7.05e-06
+  epoch 181 | batch   10/31 | loss 0.1876 | lr 6.82e-06
+  epoch 181 | batch   20/31 | loss 0.1708 | lr 6.58e-06
+  epoch 181 | batch   30/31 | loss 0.1624 | lr 6.36e-06
+Epoch 181 | train_loss 0.1605 | val_loss 3.6460 | ppl 38.3 | 8.0s
+  epoch 182 | batch    0/31 | loss 0.1344 | lr 6.33e-06
+  epoch 182 | batch   10/31 | loss 0.1266 | lr 6.11e-06
+  epoch 182 | batch   20/31 | loss 0.1792 | lr 5.89e-06
+  epoch 182 | batch   30/31 | loss 0.1259 | lr 5.67e-06
+Epoch 182 | train_loss 0.1600 | val_loss 3.6422 | ppl 38.2 | 8.2s
+  epoch 183 | batch    0/31 | loss 0.1569 | lr 5.65e-06
+  epoch 183 | batch   10/31 | loss 0.1652 | lr 5.44e-06
+  epoch 183 | batch   20/31 | loss 0.1413 | lr 5.23e-06
+  epoch 183 | batch   30/31 | loss 0.1595 | lr 5.03e-06
+Epoch 183 | train_loss 0.1613 | val_loss 3.6459 | ppl 38.3 | 8.2s
+  epoch 184 | batch    0/31 | loss 0.1706 | lr 5.01e-06
+  epoch 184 | batch   10/31 | loss 0.1693 | lr 4.81e-06
+  epoch 184 | batch   20/31 | loss 0.1612 | lr 4.62e-06
+  epoch 184 | batch   30/31 | loss 0.1723 | lr 4.42e-06
+Epoch 184 | train_loss 0.1601 | val_loss 3.6421 | ppl 38.2 | 8.6s
+  epoch 185 | batch    0/31 | loss 0.1272 | lr 4.41e-06
+  epoch 185 | batch   10/31 | loss 0.1720 | lr 4.22e-06
+  epoch 185 | batch   20/31 | loss 0.1353 | lr 4.04e-06
+  epoch 185 | batch   30/31 | loss 0.1803 | lr 3.86e-06
+Epoch 185 | train_loss 0.1599 | val_loss 3.6470 | ppl 38.4 | 8.3s
+  epoch 186 | batch    0/31 | loss 0.1843 | lr 3.84e-06
+  epoch 186 | batch   10/31 | loss 0.1561 | lr 3.66e-06
+  epoch 186 | batch   20/31 | loss 0.1646 | lr 3.49e-06
+  epoch 186 | batch   30/31 | loss 0.1741 | lr 3.33e-06
+Epoch 186 | train_loss 0.1603 | val_loss 3.6513 | ppl 38.5 | 8.1s
+  epoch 187 | batch    0/31 | loss 0.1627 | lr 3.31e-06
+  epoch 187 | batch   10/31 | loss 0.1429 | lr 3.15e-06
+  epoch 187 | batch   20/31 | loss 0.1547 | lr 2.99e-06
+  epoch 187 | batch   30/31 | loss 0.1381 | lr 2.84e-06
+Epoch 187 | train_loss 0.1579 | val_loss 3.6504 | ppl 38.5 | 8.3s
+  epoch 188 | batch    0/31 | loss 0.1640 | lr 2.82e-06
+  epoch 188 | batch   10/31 | loss 0.1567 | lr 2.67e-06
+  epoch 188 | batch   20/31 | loss 0.1462 | lr 2.53e-06
+  epoch 188 | batch   30/31 | loss 0.1536 | lr 2.38e-06
+Epoch 188 | train_loss 0.1593 | val_loss 3.6499 | ppl 38.5 | 7.4s
+  epoch 189 | batch    0/31 | loss 0.1448 | lr 2.37e-06
+  epoch 189 | batch   10/31 | loss 0.1355 | lr 2.23e-06
+  epoch 189 | batch   20/31 | loss 0.1311 | lr 2.10e-06
+  epoch 189 | batch   30/31 | loss 0.1928 | lr 1.97e-06
+Epoch 189 | train_loss 0.1604 | val_loss 3.6501 | ppl 38.5 | 7.6s
+  epoch 190 | batch    0/31 | loss 0.1672 | lr 1.96e-06
+  epoch 190 | batch   10/31 | loss 0.1760 | lr 1.83e-06
+  epoch 190 | batch   20/31 | loss 0.1433 | lr 1.71e-06
+  epoch 190 | batch   30/31 | loss 0.1872 | lr 1.60e-06
+Epoch 190 | train_loss 0.1604 | val_loss 3.6506 | ppl 38.5 | 7.5s
+  epoch 191 | batch    0/31 | loss 0.1633 | lr 1.59e-06
+  epoch 191 | batch   10/31 | loss 0.1846 | lr 1.47e-06
+  epoch 191 | batch   20/31 | loss 0.1583 | lr 1.37e-06
+  epoch 191 | batch   30/31 | loss 0.1375 | lr 1.26e-06
+Epoch 191 | train_loss 0.1598 | val_loss 3.6507 | ppl 38.5 | 7.5s
+  epoch 192 | batch    0/31 | loss 0.1592 | lr 1.25e-06
+  epoch 192 | batch   10/31 | loss 0.1742 | lr 1.15e-06
+  epoch 192 | batch   20/31 | loss 0.1627 | lr 1.06e-06
+  epoch 192 | batch   30/31 | loss 0.1656 | lr 1.00e-06
+Epoch 192 | train_loss 0.1605 | val_loss 3.6505 | ppl 38.5 | 7.6s
+  epoch 193 | batch    0/31 | loss 0.1313 | lr 1.00e-06
+  epoch 193 | batch   10/31 | loss 0.1693 | lr 1.00e-06
+  epoch 193 | batch   20/31 | loss 0.1385 | lr 1.00e-06
+  epoch 193 | batch   30/31 | loss 0.1512 | lr 1.00e-06
+Epoch 193 | train_loss 0.1580 | val_loss 3.6497 | ppl 38.5 | 7.6s
+  epoch 194 | batch    0/31 | loss 0.1260 | lr 1.00e-06
+  epoch 194 | batch   10/31 | loss 0.1575 | lr 1.00e-06
+  epoch 194 | batch   20/31 | loss 0.1529 | lr 1.00e-06
+  epoch 194 | batch   30/31 | loss 0.1792 | lr 1.00e-06
+Epoch 194 | train_loss 0.1600 | val_loss 3.6502 | ppl 38.5 | 7.6s
+  epoch 195 | batch    0/31 | loss 0.1568 | lr 1.00e-06
+  epoch 195 | batch   10/31 | loss 0.1749 | lr 1.00e-06
+  epoch 195 | batch   20/31 | loss 0.1777 | lr 1.00e-06
+  epoch 195 | batch   30/31 | loss 0.1336 | lr 1.00e-06
+Epoch 195 | train_loss 0.1612 | val_loss 3.6497 | ppl 38.5 | 7.8s
+  epoch 196 | batch    0/31 | loss 0.1401 | lr 1.00e-06
+  epoch 196 | batch   10/31 | loss 0.1580 | lr 1.00e-06
+  epoch 196 | batch   20/31 | loss 0.1479 | lr 1.00e-06
+  epoch 196 | batch   30/31 | loss 0.1269 | lr 1.00e-06
+Epoch 196 | train_loss 0.1589 | val_loss 3.6493 | ppl 38.4 | 7.6s
+  epoch 197 | batch    0/31 | loss 0.1873 | lr 1.00e-06
+  epoch 197 | batch   10/31 | loss 0.1465 | lr 1.00e-06
+  epoch 197 | batch   20/31 | loss 0.1355 | lr 1.00e-06
+  epoch 197 | batch   30/31 | loss 0.1570 | lr 1.00e-06
+Epoch 197 | train_loss 0.1590 | val_loss 3.6504 | ppl 38.5 | 7.6s
+  epoch 198 | batch    0/31 | loss 0.1660 | lr 1.00e-06
+  epoch 198 | batch   10/31 | loss 0.1577 | lr 1.00e-06
+  epoch 198 | batch   20/31 | loss 0.1401 | lr 1.00e-06
+  epoch 198 | batch   30/31 | loss 0.1383 | lr 1.00e-06
+Epoch 198 | train_loss 0.1591 | val_loss 3.6505 | ppl 38.5 | 7.7s
+  epoch 199 | batch    0/31 | loss 0.1503 | lr 1.00e-06
+  epoch 199 | batch   10/31 | loss 0.1710 | lr 1.00e-06
+  epoch 199 | batch   20/31 | loss 0.1533 | lr 1.00e-06
+  epoch 199 | batch   30/31 | loss 0.1471 | lr 1.00e-06
+Epoch 199 | train_loss 0.1583 | val_loss 3.6496 | ppl 38.5 | 7.6s
+
+Training complete. Best val loss: 1.7404

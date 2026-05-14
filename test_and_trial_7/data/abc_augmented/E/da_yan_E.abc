@@ -1,0 +1,73 @@
+L:1/32
+M:4/4
+Q:1/4=144
+K:E
+V:1 treble nm="Guzheng"
+[V:1]B16 G8 G8|
+[V:1][F,F]8 B4 B4 G4 G4 G4 F4|
+[V:1][E,E]8 z8 [E,E]6 F2 E4 C4|
+[V:1][B,,B,]8 z8 C6 E2 B,4 C4|
+[V:1][E,E]8 z8 [E,E]6 E2 E4 F4|
+[V:1]B16 F4 F,4 B4 B4|
+[V:1][F,F]6 B2 F4 E4 C8 C4 E4|
+[V:1][F,F]8 [F,F]8 [F,F]8 F4 E4|
+[V:1]B16 G8 G8|
+[V:1][F,F]8 B4 B4 G4 G4 G4 F4|
+[V:1][E,E]8 z8 [E,E]6 F2 E4 C4|
+[V:1][B,,B,]8 z8 C,6 E2 B,4 C4|
+[V:1][E,E]8 z8 [E,E]4 E,4 E4 F4|
+[V:1]B16 F4 F,4 B4 B4|
+[V:1][F,F]6 B2 F4 E4 C8 C4 E4|
+[V:1][B,,B,]8 C4 B,4 B,4 B,4 [B,,B,]8|
+[V:1]B4 B,4 e4 e4 [B,B]4 e4 c4 B4|
+[V:1]B16 B4 B4 B4 F4|
+[V:1]B4 B,4 e4 e4 [B,B]4 e4 c4 B4|
+[V:1]B16 B4 B4 B4 B4|
+[V:1]G8 G4 F4 [E,E]8 E4 E4|
+[V:1][F,F]8 [F,F]8 [F,F]8 F4 E4|
+[V:1]e4 e4 c4 B4 B4 B4 B4 B4|
+[V:1]e4 e4 c4 B4 G8 B,4 z4|
+[V:1][B,,B,]8 C8 B,4 C4 B,4 C4|
+[V:1][E,E]8 z8 [E,E]6 E,2 E4 F4|
+[V:1]B16 F4 F,4 B4 B4|
+[V:1][F,F]6 B2 F4 E4 C8 C4 E4|
+[V:1][B,,B,]8 C4 B,4 B,4 B,4 [B,,B,]8|
+[V:1]B4 B,4 e4 e4 [B,B]4 e4 c4 B4|
+[V:1]B16 B4 B4 B4 F4|
+[V:1]B4 B,4 e4 e4 [B,B]4 e4 c4 B4|
+[V:1]B16 c6 C2 c4 C4|
+[V:1][B,B]8 z8 [Cc]6 e2 c4 B4|
+[V:1]B16 [B,B]8 z8|
+[V:1][B,B]8 [Ee]8 [B,B]6 c2 B4 B4|
+[V:1][B,B]4 B4 B4 B4 B4 B4 B4 B4|
+[V:1]B8 B,8 B,4 B,,4 B,4 B,,4|
+[V:1]e c B G F E C B, G, F, E, C, B,, z19|
+[V:1]B,6 B,2 B4 B,4 [B,B]8 c4 B4|
+[V:1]G4 G,4 G4 G,4 G4 G,4 G4 G,4|
+[V:1]F4 F,4 F4 F,4 F4 F,4 F4 E4|
+[V:1]D24 E4 E,4|
+[V:1]A8 [E,E]8 A8 [E,E]8|
+[V:1][F,F]8 [F,F]8 F8 [E,E]8|
+[V:1]A8 [E,E]8 A8 [E,E]8|
+[V:1][F,F]4 F,4 [F,F]4 F,4 [F,F]4 F,4 F4 E4|
+[V:1]A8 [E,E]8 A4 [E,E]4 A4 [E,E]4|
+[V:1]F4 E4 [B,B]8 [F,F]6 B2 F4 E4|
+[V:1]E8 D16 F4 F4|
+[V:1][E,E]8 D16 E4 E4|
+[V:1][F,F]8 [F,F]8 [F,F]8 F4 E4|
+[V:1][F,F]4 F,4 [F,F]4 F,4 [F,F]4 F,4 F4 E4|
+[V:1][F,F]4 F,4 [F,F]4 F,4 [F,F]4 F,4 B4 B4|
+[V:1][F,F]4 F,4 [F,F]4 F,4 [F,F]4 F,4 F4 E4|
+[V:1]B6 B,2 B4 B4 [Ee]8 c4 B4|
+[V:1]G4 G,4 G4 G,4 G4 G,4 G4 G,4|
+[V:1]F4 F,4 F4 F,4 F4 F,4 F4 E4|
+[V:1]F4 F,4 F4 F,4 F4 F,4 F4 E4|
+[V:1]B6 B,2 B4 B,4 [Ee]8 c4 B4|
+[V:1]G4 G,4 G4 G,4 G4 G,4 G4 G,4|
+[V:1]F4 F,4 F4 F,4 F4 F,4 B4 B,4|
+[V:1]F4 F,4 F4 F,4 F4 F,4 F4 E4|
+[V:1]B6 B,2 B4 B,4 e4 e4 [G,B]4 c4|
+[V:1]A16 A8 [B,B]8|
+[V:1]C8 E8 C8 F4 F4|
+[V:1][E,E]8 D16 F4 F4|
+[V:1]E16 [E,E]16|

@@ -1,0 +1,472 @@
+Failed to process MIDI_transposed/chun_dao_la_sa_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/cai_yun_zhui_yue_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/yu_zhou_chang_wan_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/shang_lou_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chu_shui_lian_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/ya_shan_ai_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zhan_tai_feng_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zai_bei_jing_de_jin_shan_shang_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/ya_shan_ai_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chun_miao_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/shang_lou_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/shang_lou_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chu_shui_lian_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/qian_sheng_fo_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/yu_zhou_chang_wan_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/nan_zheng_gong_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chu_shui_lian_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/qian_sheng_fo_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/han_tian_lei_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/bu_bu_gao_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chun_miao_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/qian_sheng_fo_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/qian_sheng_fo_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zai_bei_jing_de_jin_shan_shang_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/gao_shan_liu_shui_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chu_shui_lian_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/yu_zhou_chang_wan_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/shang_lou_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/dan_dian_tou_luan_cha_hua_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chu_shui_lian_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zai_bei_jing_de_jin_shan_shang_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/han_tian_lei_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zai_bei_jing_de_jin_shan_shang_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/han_tian_lei_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/bu_bu_gao_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/gao_shan_liu_shui_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/ya_shan_ai_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/zai_bei_jing_de_jin_shan_shang_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/yu_zhou_chang_wan_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/dan_dian_tou_luan_cha_hua_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chun_miao_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/nan_zheng_gong_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/bu_bu_gao_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/chun_miao_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/nan_zheng_gong_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/qian_sheng_fo_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/gao_shan_liu_shui_F.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/ya_shan_ai_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/dan_dian_tou_luan_cha_hua_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/ya_shan_ai_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/han_tian_lei_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/nan_zheng_gong_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/han_tian_lei_G.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/shang_lou_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/bu_bu_gao_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/yu_zhou_chang_wan_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/bu_bu_gao_D.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/dan_dian_tou_luan_cha_hua_C.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+
+Failed to process MIDI_transposed/nan_zheng_gong_A.mid:
+Traceback (most recent call last):
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 74, in process_midi_file_safe_v2
+    out = process_midi_file_v2(midi_file, split, onset_vocab_size, dur_vocab_size, output_folder, log_file, silence_threshold)
+  File "/Users/anjie/Documents/MyGuzheng/Guzheng/moonbeam/data_preprocess.py", line 129, in process_midi_file_v2
+    compounds = tokenizer.midi_to_compound(midi_file)
+NameError: name 'tokenizer' is not defined
+

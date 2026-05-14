@@ -1,0 +1,42 @@
+{
+  "config": {
+    "peft_path": "/tmp/lora_ep15/rwkv-15.pth",
+    "temperature": 0.85,
+    "top_p": 0.9,
+    "max_new_tokens": 512,
+    "prompt_tokens": 64,
+    "seed": 42
+  },
+  "results": [
+    {
+      "file": "outputs/midirwkv_lora_ep15/constrained_00_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "outputs/midirwkv_lora_ep15/constrained_01_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "outputs/midirwkv_lora_ep15/constrained_02_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "outputs/midirwkv_lora_ep15/constrained_03_D.mid",
+      "scale": "D",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "outputs/midirwkv_lora_ep15/constrained_04_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 577
+    }
+  ]
+}

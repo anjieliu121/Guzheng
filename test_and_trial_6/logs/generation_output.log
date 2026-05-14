@@ -1,0 +1,62 @@
+Device: mps
+Loaded model from epoch 10 (val_loss=2.1108)
+Parameters: 8,203,840
+
+Generating 5 constrained samples per scale (['A', 'C', 'D', 'F', 'G'])
+  A_00: 512 notes, 2049 tokens, 102.2s
+  A_01: 512 notes, 2049 tokens, 53.2s
+  A_02: 512 notes, 2049 tokens, 35.3s
+  A_03: 512 notes, 2049 tokens, 35.8s
+  A_04: 512 notes, 2049 tokens, 33.2s
+  C_00: 512 notes, 2049 tokens, 32.3s
+  C_01: 512 notes, 2049 tokens, 34.1s
+  C_02: 512 notes, 2049 tokens, 34.3s
+  C_03: 512 notes, 2049 tokens, 33.8s
+  C_04: 512 notes, 2049 tokens, 34.6s
+  D_00: 512 notes, 2049 tokens, 34.5s
+  D_01: 512 notes, 2049 tokens, 34.3s
+  D_02: 512 notes, 2049 tokens, 34.1s
+  D_03: 512 notes, 2049 tokens, 33.8s
+  D_04: 512 notes, 2049 tokens, 34.0s
+  F_00: 512 notes, 2049 tokens, 33.7s
+  F_01: 512 notes, 2049 tokens, 33.3s
+  F_02: 512 notes, 2049 tokens, 34.0s
+  F_03: 512 notes, 2049 tokens, 34.3s
+  F_04: 512 notes, 2049 tokens, 34.2s
+  G_00: 512 notes, 2049 tokens, 34.2s
+  G_01: 512 notes, 2049 tokens, 34.2s
+  G_02: 512 notes, 2049 tokens, 34.0s
+  G_03: 512 notes, 2049 tokens, 34.8s
+  G_04: 512 notes, 2049 tokens, 35.5s
+
+Generating 5 unconstrained samples per scale
+  A_00: 512 notes, 2049 tokens, 34.4s
+  A_01: 512 notes, 2049 tokens, 34.3s
+  A_02: 512 notes, 2049 tokens, 34.7s
+  A_03: 512 notes, 2049 tokens, 34.7s
+  A_04: 512 notes, 2049 tokens, 34.8s
+  C_00: 512 notes, 2049 tokens, 33.9s
+  C_01: 512 notes, 2049 tokens, 33.3s
+  C_02: 512 notes, 2049 tokens, 34.8s
+  C_03: 512 notes, 2049 tokens, 34.3s
+  C_04: 512 notes, 2049 tokens, 34.2s
+  D_00: 512 notes, 2049 tokens, 34.5s
+  D_01: 512 notes, 2049 tokens, 36.3s
+  D_02: 512 notes, 2049 tokens, 35.7s
+  D_03: 512 notes, 2049 tokens, 34.5s
+  D_04: 512 notes, 2049 tokens, 34.1s
+  F_00: 512 notes, 2049 tokens, 34.9s
+  F_01: 512 notes, 2049 tokens, 37.1s
+  F_02: 512 notes, 2049 tokens, 34.6s
+  F_03: 512 notes, 2049 tokens, 34.6s
+  F_04: 512 notes, 2049 tokens, 33.6s
+  G_00: 512 notes, 2049 tokens, 36.5s
+  G_01: 512 notes, 2049 tokens, 34.3s
+  G_02: 512 notes, 2049 tokens, 34.0s
+  G_03: 512 notes, 2049 tokens, 33.9s
+  G_04: 512 notes, 2049 tokens, 33.8s
+
+Generation complete:
+  Constrained: 25 samples in /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/generated/constrained
+  Unconstrained: 25 samples in /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/generated/unconstrained
+  Stats: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/generated/generation_stats.json

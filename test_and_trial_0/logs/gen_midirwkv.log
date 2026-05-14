@@ -1,0 +1,197 @@
+Device: mps
+
+>>> Building pretrained MIDI-RWKV ...
+Base model loaded. Missing: 12, Unexpected: 3
+
+=== Generating 10 samples for midirwkv_pretrained ===
+
+  Sample 1/10: shang_lou_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_00.mid (577 tokens)
+
+  Sample 2/10: chu_shui_lian_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_01.mid (577 tokens)
+
+  Sample 3/10: bu_bu_gao_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_02.mid (577 tokens)
+
+  Sample 4/10: ya_shan_ai_G.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_03.mid (577 tokens)
+
+  Sample 5/10: dan_dian_tou_luan_cha_hua_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_04.mid (577 tokens)
+
+  Sample 6/10: chun_miao_G.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_05.mid (577 tokens)
+
+  Sample 7/10: chun_miao_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_06.mid (577 tokens)
+
+  Sample 8/10: chu_shui_lian_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_07.mid (577 tokens)
+
+  Sample 9/10: zai_bei_jing_de_jin_shan_shang_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_08.mid (577 tokens)
+
+  Sample 10/10: chu_shui_lian_A.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained/midirwkv_pretrained_09.mid (577 tokens)
+
+Saved 10/10 MIDI files to /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_pretrained
+
+>>> Building fine-tuned MIDI-RWKV (state ckpt: /Users/anjie/Documents/MyGuzheng/Guzheng/midi-rwkv/RWKV-PEFT/peft_model_guzheng/rwkv-0.pth) ...
+Base model loaded. Missing: 12, Unexpected: 3
+State checkpoint loaded from /Users/anjie/Documents/MyGuzheng/Guzheng/midi-rwkv/RWKV-PEFT/peft_model_guzheng/rwkv-0.pth.
+  Missing: 399, Unexpected: 0
+
+=== Generating 10 samples for midirwkv_finetuned ===
+
+  Sample 1/10: ya_shan_ai_A.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_00.mid (577 tokens)
+
+  Sample 2/10: ya_shan_ai_G.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_01.mid (577 tokens)
+
+  Sample 3/10: qian_sheng_fo_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_02.mid (577 tokens)
+
+  Sample 4/10: cai_yun_zhui_yue_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_03.mid (577 tokens)
+
+  Sample 5/10: qian_sheng_fo_G.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_04.mid (577 tokens)
+
+  Sample 6/10: han_tian_lei_G.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_05.mid (577 tokens)
+
+  Sample 7/10: bu_bu_gao_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_06.mid (577 tokens)
+
+  Sample 8/10: bu_bu_gao_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_07.mid (577 tokens)
+
+  Sample 9/10: zai_bei_jing_de_jin_shan_shang_D.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_08.mid (577 tokens)
+
+  Sample 10/10: chun_miao_C.mid
+  Token 0/512 (total seq len: 65)
+  Token 100/512 (total seq len: 165)
+  Token 200/512 (total seq len: 265)
+  Token 300/512 (total seq len: 365)
+  Token 400/512 (total seq len: 465)
+  Token 500/512 (total seq len: 565)
+  Saved /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned/midirwkv_finetuned_09.mid (577 tokens)
+
+Saved 10/10 MIDI files to /Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_finetuned

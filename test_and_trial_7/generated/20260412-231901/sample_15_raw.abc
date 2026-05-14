@@ -1,0 +1,21 @@
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+[r:0/16][V:1]z9 [A,A]7 d5 A4 G4 A,-|
+[r:1/15][V:1]A,3 A4 G4 [D,D]7 G8 A4 G-|
+[r:2/14][V:1]G3 E,5 E7 D3 E4 G4 A4 D-|
+[r:3/13][V:1]D3 d4 A4 [G,G]10 A4 G5-|
+[r:4/12][V:1]G5 A7 G7 A4 d4 G4 A-|
+[r:5/11][V:1]A3 G4 E7 D8 d4 e3 A4-|
+[r:6/10][V:1]A2 d4 A4 G4 A,8 A8 G,-|
+[r:7/9][V:1]G,7 A3 G,4 G9 A4 D4 E-|
+[r:8/8][V:1]E5 G4 A4 D7 D8 [E,-E-]4|
+[r:9/7][V:1][E,E]4 A3 G4 E4 G5 E5 [D,-D-]7|
+[r:10/6][V:1][D,D] D4 E5 D4 A,4 D5 D,4 D3-|
+[r:11/5][V:1]D E4 G3 E4 D4 E4 G3 [D,D]8 G-|
+[r:12/4][V:1]G3 d8 e3 d4 A4 d5 A,4 A-|
+[r:13/3][V:1]A3 d4 G4 A3 d5 G,4 G8 E-|
+[r:14/2][V:1]E3 A4 d4 E4 G4 A5 d7 G2-|
+[r:15/1][V:1]G6 [D,-D-]8 [D,-D-E-G-]14|
+[r:16/0][V:1][D,DEG]18 z24|

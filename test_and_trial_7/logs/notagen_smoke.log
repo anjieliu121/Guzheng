@@ -1,0 +1,8 @@
+
+=== run started Sat Apr 11 11:32:02 2026 device=mps epochs 1..2 ===
+epoch   1  train=0.5687  eval=0.5534  best=0.5534 *  26.7s
+epoch   2  train=0.5466  eval=0.5355  best=0.5355 *  6.6s
+
+=== run started Sat Apr 11 11:51:50 2026 device=mps epochs 1..2 ===
+epoch   1  train=0.7045  eval=0.8575  best=0.8575 *  13.0s
+epoch   2  train=0.6731  eval=0.8012  best=0.8012 *  6.7s

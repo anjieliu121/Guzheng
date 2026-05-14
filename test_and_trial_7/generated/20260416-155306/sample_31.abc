@@ -1,0 +1,28 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+[G,G]16 G8 E4 G4 D4|
+[D,D]16 D24 E4 D4 E4|
+[G,G]16 G,4 G4 E4 G4|
+[D,D]16 D4 E4 D4 E4|
+[G,G]16 G4 G4 E4 G4|
+[D,D]16 D4 E4 D4 E4|
+[G,G]16 G4 E4 D4 E4|
+[D,D]16 D4 D4 D4 D4|
+[E,E]16 D4 E4 D4 E4|
+[G,G]16 G4 E4 D4 E4|
+[D,D]16 D4 E4 D4 E4|
+[G,G]16 G4 G4 A4 G4|
+[E,E]16 E4 G4 E4 G4|
+[D,D]16 D4 E4 D4 E4|
+[G,G]16 G,4 G4 E4 D4|
+[D,D]16 D4 E4 D4 E4|
+[G,G]16 G4 E4 D4 E4|
+[D,D]16 D4 D4 D4 D4|
+[E,E]16 D4 E4 D4 E4|
+[G,G]16 G4 E4 D4 E4|
+[D,D]16 z24|

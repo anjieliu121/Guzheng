@@ -1,0 +1,8 @@
+Variant                   mean_n_notes       mean_leap_rate     mean_density       mean_duration      mean_pc_entropy    mean_penta_purity  mean_pitch        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+training_data             600.2              0.1144             3.258              0.4465             2.324              0.9592             63.49             
+moonbeam_pretrained       142.8              0.1899             5.324              0.3905             2.1415             0.8325             61.34             
+moonbeam_finetuned        83.5               0.076              2.225              0.3738             1.5761             0.959              63.11             
+moonbeam_finetuned_t95    111.3              0.0249             2.5                0.3731             1.5275             0.8711             63.09             
+midirwkv_pretrained       206.2              0.3564             6.353              0.4873             3.3642             0.8151             61.67             
+midirwkv_finetuned        184.2              0.3091             4.7                0.5138             3.1679             0.8655             61.78             

@@ -1,0 +1,31 @@
+Device: mps
+
+Loading training data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/data/train
+  1488 sequences, 1421768 total tokens
+Loading validation data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/data/val
+  49 sequences, 37539 total tokens
+Train chunks: 4933
+Val chunks: 122
+
+Model parameters: 8,203,840
+Vocab size: 469
+
+Training for up to 200 epochs
+Early stopping patience: 20
+Label smoothing: 0.1
+Weight decay: 0.05
+Dropout: 0.15
+Batches/epoch: 308
+
+Epoch   0 | train=4.3228 | val=3.0463 | ppl=21.0 | lr=1.85e-04 | 116.2s
+  -> best model saved (val_loss=3.0463)
+Epoch   1 | train=2.8730 | val=2.5099 | ppl=12.3 | lr=3.00e-04 | 111.0s
+Epoch   2 | train=2.6241 | val=2.2560 | ppl=9.5 | lr=3.00e-04 | 107.6s
+Epoch   3 | train=2.5104 | val=2.1659 | ppl=8.7 | lr=3.00e-04 | 499.6s
+Epoch   4 | train=2.4360 | val=2.1234 | ppl=8.4 | lr=3.00e-04 | 108.2s
+Epoch   5 | train=2.3812 | val=2.1133 | ppl=8.3 | lr=3.00e-04 | 107.7s
+  -> best model saved (val_loss=2.1133)
+Epoch   6 | train=2.3372 | val=2.1059 | ppl=8.2 | lr=2.99e-04 | 108.9s
+Epoch   8 | train=2.2665 | val=2.1052 | ppl=8.2 | lr=2.99e-04 | 108.0s
+Epoch   9 | train=2.2345 | val=2.1014 | ppl=8.2 | lr=2.99e-04 | 107.7s
+Epoch  10 | train=2.2066 | val=2.1148 | ppl=8.3 | lr=2.98e-04 | 108.9s

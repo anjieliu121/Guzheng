@@ -1,0 +1,37 @@
+{
+  "checkpoint": "/Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_3/checkpoints/rwkv-2.pth",
+  "config": {
+    "temperature": 0.85,
+    "top_p": 0.9,
+    "max_new_tokens": 256,
+    "prompt_tokens": 64,
+    "seed": 42,
+    "n_samples": 3
+  },
+  "results": [
+    {
+      "file": "constrained_00_A.mid",
+      "source_prompt": "chu_shui_lian_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 321,
+      "elapsed": 199.4
+    },
+    {
+      "file": "constrained_01_A.mid",
+      "source_prompt": "bai_jia_chun_han_gao_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 321,
+      "elapsed": 198.9
+    },
+    {
+      "file": "constrained_02_G.mid",
+      "source_prompt": "gao_shan_liu_shui_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 321,
+      "elapsed": 530.8
+    }
+  ]
+}

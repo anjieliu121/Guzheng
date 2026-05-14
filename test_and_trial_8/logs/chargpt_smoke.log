@@ -1,0 +1,6 @@
+
+=== Tue Apr 14 13:20:13 2026 device=mps ===
+
+=== Tue Apr 14 13:20:30 2026 device=mps ===
+epoch   1  train=4.9752  eval=4.4843  best=4.4843 *  3.3s
+epoch   2  train=4.3738  eval=4.3212  best=4.3212 *  0.3s

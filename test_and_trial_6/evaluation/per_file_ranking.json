@@ -1,0 +1,1277 @@
+{
+  "training_targets": {
+    "note_density": 2.2518,
+    "pc_entropy": 2.1375,
+    "trans_entropy_2nd": 1.7112,
+    "groove_consistency": 0.6798,
+    "compression_ratio": 5.1383,
+    "structureness": 0.9915,
+    "mean_interval": 5.8908
+  },
+  "scales": {
+    "note_density": 1.0,
+    "pc_entropy": 0.3,
+    "trans_entropy_2nd": 0.3,
+    "groove_consistency": 0.1,
+    "compression_ratio": 1.5,
+    "structureness": 0.02,
+    "mean_interval": 1.0
+  },
+  "scoring": "sum of |value - training_mean| / scale; lower = closer to training distribution",
+  "variants": {
+    "constrained": [
+      {
+        "file": "constrained_G_01.mid",
+        "score": 2.87,
+        "rank_metrics": {
+          "note_density": 2.0,
+          "pc_entropy": 2.148,
+          "trans_entropy_2nd": 2.083,
+          "groove_consistency": 0.637,
+          "compression_ratio": 5.559,
+          "structureness": 1.0,
+          "mean_interval": 5.68,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.252,
+          "pc_entropy": 0.035,
+          "trans_entropy_2nd": 1.239,
+          "groove_consistency": 0.428,
+          "compression_ratio": 0.28,
+          "structureness": 0.425,
+          "mean_interval": 0.211,
+          "purity_pen": 0.0
+        },
+        "rank": 1
+      },
+      {
+        "file": "constrained_D_03.mid",
+        "score": 2.908,
+        "rank_metrics": {
+          "note_density": 1.42,
+          "pc_entropy": 1.989,
+          "trans_entropy_2nd": 1.863,
+          "groove_consistency": 0.707,
+          "compression_ratio": 4.99,
+          "structureness": 1.0,
+          "mean_interval": 6.17,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.832,
+          "pc_entropy": 0.495,
+          "trans_entropy_2nd": 0.506,
+          "groove_consistency": 0.272,
+          "compression_ratio": 0.099,
+          "structureness": 0.425,
+          "mean_interval": 0.279,
+          "purity_pen": 0.0
+        },
+        "rank": 2
+      },
+      {
+        "file": "constrained_C_03.mid",
+        "score": 3.186,
+        "rank_metrics": {
+          "note_density": 2.0,
+          "pc_entropy": 1.802,
+          "trans_entropy_2nd": 1.702,
+          "groove_consistency": 0.624,
+          "compression_ratio": 5.488,
+          "structureness": 1.0,
+          "mean_interval": 6.46,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.252,
+          "pc_entropy": 1.118,
+          "trans_entropy_2nd": 0.031,
+          "groove_consistency": 0.558,
+          "compression_ratio": 0.233,
+          "structureness": 0.425,
+          "mean_interval": 0.569,
+          "purity_pen": 0.0
+        },
+        "rank": 3
+      },
+      {
+        "file": "constrained_C_00.mid",
+        "score": 3.794,
+        "rank_metrics": {
+          "note_density": 1.5,
+          "pc_entropy": 1.887,
+          "trans_entropy_2nd": 1.841,
+          "groove_consistency": 0.697,
+          "compression_ratio": 6.44,
+          "structureness": 1.0,
+          "mean_interval": 6.2,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.752,
+          "pc_entropy": 0.835,
+          "trans_entropy_2nd": 0.433,
+          "groove_consistency": 0.172,
+          "compression_ratio": 0.868,
+          "structureness": 0.425,
+          "mean_interval": 0.309,
+          "purity_pen": 0.0
+        },
+        "rank": 4
+      },
+      {
+        "file": "constrained_A_03.mid",
+        "score": 5.486,
+        "rank_metrics": {
+          "note_density": 2.42,
+          "pc_entropy": 1.71,
+          "trans_entropy_2nd": 1.555,
+          "groove_consistency": 0.575,
+          "compression_ratio": 7.809,
+          "structureness": 1.0,
+          "mean_interval": 6.01,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.168,
+          "pc_entropy": 1.425,
+          "trans_entropy_2nd": 0.521,
+          "groove_consistency": 1.048,
+          "compression_ratio": 1.78,
+          "structureness": 0.425,
+          "mean_interval": 0.119,
+          "purity_pen": 0.0
+        },
+        "rank": 5
+      },
+      {
+        "file": "constrained_A_01.mid",
+        "score": 5.536,
+        "rank_metrics": {
+          "note_density": 2.47,
+          "pc_entropy": 2.044,
+          "trans_entropy_2nd": 1.984,
+          "groove_consistency": 0.629,
+          "compression_ratio": 5.866,
+          "structureness": 0.976,
+          "mean_interval": 8.22,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.218,
+          "pc_entropy": 0.312,
+          "trans_entropy_2nd": 0.909,
+          "groove_consistency": 0.508,
+          "compression_ratio": 0.485,
+          "structureness": 0.775,
+          "mean_interval": 2.329,
+          "purity_pen": 0.0
+        },
+        "rank": 6
+      },
+      {
+        "file": "constrained_G_02.mid",
+        "score": 6.764,
+        "rank_metrics": {
+          "note_density": 2.29,
+          "pc_entropy": 2.154,
+          "trans_entropy_2nd": 2.044,
+          "groove_consistency": 0.591,
+          "compression_ratio": 4.733,
+          "structureness": 0.917,
+          "mean_interval": 6.57,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.038,
+          "pc_entropy": 0.055,
+          "trans_entropy_2nd": 1.109,
+          "groove_consistency": 0.888,
+          "compression_ratio": 0.27,
+          "structureness": 3.725,
+          "mean_interval": 0.679,
+          "purity_pen": 0.0
+        },
+        "rank": 7
+      },
+      {
+        "file": "constrained_D_02.mid",
+        "score": 6.856,
+        "rank_metrics": {
+          "note_density": 1.62,
+          "pc_entropy": 2.165,
+          "trans_entropy_2nd": 2.124,
+          "groove_consistency": 0.676,
+          "compression_ratio": 5.414,
+          "structureness": 0.917,
+          "mean_interval": 6.7,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.632,
+          "pc_entropy": 0.092,
+          "trans_entropy_2nd": 1.376,
+          "groove_consistency": 0.038,
+          "compression_ratio": 0.184,
+          "structureness": 3.725,
+          "mean_interval": 0.809,
+          "purity_pen": 0.0
+        },
+        "rank": 8
+      },
+      {
+        "file": "constrained_D_04.mid",
+        "score": 8.064,
+        "rank_metrics": {
+          "note_density": 4.54,
+          "pc_entropy": 2.086,
+          "trans_entropy_2nd": 1.845,
+          "groove_consistency": 0.506,
+          "compression_ratio": 5.972,
+          "structureness": 0.951,
+          "mean_interval": 6.73,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.288,
+          "pc_entropy": 0.172,
+          "trans_entropy_2nd": 0.446,
+          "groove_consistency": 1.738,
+          "compression_ratio": 0.556,
+          "structureness": 2.025,
+          "mean_interval": 0.839,
+          "purity_pen": 0.0
+        },
+        "rank": 9
+      },
+      {
+        "file": "constrained_D_01.mid",
+        "score": 8.116,
+        "rank_metrics": {
+          "note_density": 4.65,
+          "pc_entropy": 2.071,
+          "trans_entropy_2nd": 2.017,
+          "groove_consistency": 0.499,
+          "compression_ratio": 7.306,
+          "structureness": 1.0,
+          "mean_interval": 6.69,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.398,
+          "pc_entropy": 0.222,
+          "trans_entropy_2nd": 1.019,
+          "groove_consistency": 1.808,
+          "compression_ratio": 1.445,
+          "structureness": 0.425,
+          "mean_interval": 0.799,
+          "purity_pen": 0.0
+        },
+        "rank": 10
+      },
+      {
+        "file": "constrained_C_04.mid",
+        "score": 8.737,
+        "rank_metrics": {
+          "note_density": 3.61,
+          "pc_entropy": 2.177,
+          "trans_entropy_2nd": 2.08,
+          "groove_consistency": 0.502,
+          "compression_ratio": 5.823,
+          "structureness": 0.917,
+          "mean_interval": 5.95,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 1.358,
+          "pc_entropy": 0.132,
+          "trans_entropy_2nd": 1.229,
+          "groove_consistency": 1.778,
+          "compression_ratio": 0.456,
+          "structureness": 3.725,
+          "mean_interval": 0.059,
+          "purity_pen": 0.0
+        },
+        "rank": 11
+      },
+      {
+        "file": "constrained_F_01.mid",
+        "score": 9.01,
+        "rank_metrics": {
+          "note_density": 2.66,
+          "pc_entropy": 2.283,
+          "trans_entropy_2nd": 2.236,
+          "groove_consistency": 0.554,
+          "compression_ratio": 6.257,
+          "structureness": 0.917,
+          "mean_interval": 6.53,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.408,
+          "pc_entropy": 0.485,
+          "trans_entropy_2nd": 1.749,
+          "groove_consistency": 1.258,
+          "compression_ratio": 0.746,
+          "structureness": 3.725,
+          "mean_interval": 0.639,
+          "purity_pen": 0.0
+        },
+        "rank": 12
+      },
+      {
+        "file": "constrained_F_04.mid",
+        "score": 10.288,
+        "rank_metrics": {
+          "note_density": 2.84,
+          "pc_entropy": 2.215,
+          "trans_entropy_2nd": 2.144,
+          "groove_consistency": 0.539,
+          "compression_ratio": 6.154,
+          "structureness": 0.917,
+          "mean_interval": 8.08,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.588,
+          "pc_entropy": 0.258,
+          "trans_entropy_2nd": 1.443,
+          "groove_consistency": 1.408,
+          "compression_ratio": 0.677,
+          "structureness": 3.725,
+          "mean_interval": 2.189,
+          "purity_pen": 0.0
+        },
+        "rank": 13
+      },
+      {
+        "file": "constrained_C_01.mid",
+        "score": 10.885,
+        "rank_metrics": {
+          "note_density": 5.16,
+          "pc_entropy": 1.369,
+          "trans_entropy_2nd": 1.124,
+          "groove_consistency": 0.535,
+          "compression_ratio": 7.053,
+          "structureness": 1.0,
+          "mean_interval": 6.2,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.908,
+          "pc_entropy": 2.562,
+          "trans_entropy_2nd": 1.957,
+          "groove_consistency": 1.448,
+          "compression_ratio": 1.276,
+          "structureness": 0.425,
+          "mean_interval": 0.309,
+          "purity_pen": 0.0
+        },
+        "rank": 14
+      },
+      {
+        "file": "constrained_G_04.mid",
+        "score": 11.462,
+        "rank_metrics": {
+          "note_density": 5.01,
+          "pc_entropy": 1.621,
+          "trans_entropy_2nd": 1.56,
+          "groove_consistency": 0.525,
+          "compression_ratio": 6.825,
+          "structureness": 0.917,
+          "mean_interval": 5.81,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.758,
+          "pc_entropy": 1.722,
+          "trans_entropy_2nd": 0.504,
+          "groove_consistency": 1.548,
+          "compression_ratio": 1.124,
+          "structureness": 3.725,
+          "mean_interval": 0.081,
+          "purity_pen": 0.0
+        },
+        "rank": 15
+      },
+      {
+        "file": "constrained_A_00.mid",
+        "score": 11.729,
+        "rank_metrics": {
+          "note_density": 5.12,
+          "pc_entropy": 1.939,
+          "trans_entropy_2nd": 1.786,
+          "groove_consistency": 0.546,
+          "compression_ratio": 5.781,
+          "structureness": 0.885,
+          "mean_interval": 6.75,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.868,
+          "pc_entropy": 0.662,
+          "trans_entropy_2nd": 0.249,
+          "groove_consistency": 1.338,
+          "compression_ratio": 0.428,
+          "structureness": 5.325,
+          "mean_interval": 0.859,
+          "purity_pen": 0.0
+        },
+        "rank": 16
+      },
+      {
+        "file": "constrained_C_02.mid",
+        "score": 11.824,
+        "rank_metrics": {
+          "note_density": 5.02,
+          "pc_entropy": 1.395,
+          "trans_entropy_2nd": 1.125,
+          "groove_consistency": 0.528,
+          "compression_ratio": 7.081,
+          "structureness": 1.0,
+          "mean_interval": 7.28,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.768,
+          "pc_entropy": 2.475,
+          "trans_entropy_2nd": 1.954,
+          "groove_consistency": 1.518,
+          "compression_ratio": 1.295,
+          "structureness": 0.425,
+          "mean_interval": 1.389,
+          "purity_pen": 0.0
+        },
+        "rank": 17
+      },
+      {
+        "file": "constrained_G_03.mid",
+        "score": 11.883,
+        "rank_metrics": {
+          "note_density": 4.7,
+          "pc_entropy": 2.144,
+          "trans_entropy_2nd": 2.053,
+          "groove_consistency": 0.505,
+          "compression_ratio": 5.232,
+          "structureness": 0.905,
+          "mean_interval": 8.03,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.448,
+          "pc_entropy": 0.022,
+          "trans_entropy_2nd": 1.139,
+          "groove_consistency": 1.748,
+          "compression_ratio": 0.062,
+          "structureness": 4.325,
+          "mean_interval": 2.139,
+          "purity_pen": 0.0
+        },
+        "rank": 18
+      },
+      {
+        "file": "constrained_D_00.mid",
+        "score": 13.023,
+        "rank_metrics": {
+          "note_density": 2.72,
+          "pc_entropy": 2.24,
+          "trans_entropy_2nd": 2.164,
+          "groove_consistency": 0.6,
+          "compression_ratio": 4.955,
+          "structureness": 0.843,
+          "mean_interval": 8.25,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.468,
+          "pc_entropy": 0.342,
+          "trans_entropy_2nd": 1.509,
+          "groove_consistency": 0.798,
+          "compression_ratio": 0.122,
+          "structureness": 7.425,
+          "mean_interval": 2.359,
+          "purity_pen": 0.0
+        },
+        "rank": 19
+      },
+      {
+        "file": "constrained_A_02.mid",
+        "score": 13.821,
+        "rank_metrics": {
+          "note_density": 1.42,
+          "pc_entropy": 1.012,
+          "trans_entropy_2nd": 0.838,
+          "groove_consistency": 0.73,
+          "compression_ratio": 12.474,
+          "structureness": 1.0,
+          "mean_interval": 6.4,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.832,
+          "pc_entropy": 3.752,
+          "trans_entropy_2nd": 2.911,
+          "groove_consistency": 0.502,
+          "compression_ratio": 4.89,
+          "structureness": 0.425,
+          "mean_interval": 0.509,
+          "purity_pen": 0.0
+        },
+        "rank": 20
+      },
+      {
+        "file": "constrained_F_03.mid",
+        "score": 14.477,
+        "rank_metrics": {
+          "note_density": 6.2,
+          "pc_entropy": 1.775,
+          "trans_entropy_2nd": 1.732,
+          "groove_consistency": 0.523,
+          "compression_ratio": 6.984,
+          "structureness": 0.919,
+          "mean_interval": 8.72,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.948,
+          "pc_entropy": 1.208,
+          "trans_entropy_2nd": 0.069,
+          "groove_consistency": 1.568,
+          "compression_ratio": 1.23,
+          "structureness": 3.625,
+          "mean_interval": 2.829,
+          "purity_pen": 0.0
+        },
+        "rank": 21
+      },
+      {
+        "file": "constrained_A_04.mid",
+        "score": 17.612,
+        "rank_metrics": {
+          "note_density": 2.77,
+          "pc_entropy": 0.435,
+          "trans_entropy_2nd": 0.427,
+          "groove_consistency": 0.543,
+          "compression_ratio": 11.342,
+          "structureness": 1.0,
+          "mean_interval": 7.1,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.518,
+          "pc_entropy": 5.675,
+          "trans_entropy_2nd": 4.281,
+          "groove_consistency": 1.368,
+          "compression_ratio": 4.136,
+          "structureness": 0.425,
+          "mean_interval": 1.209,
+          "purity_pen": 0.0
+        },
+        "rank": 22
+      },
+      {
+        "file": "constrained_F_02.mid",
+        "score": 18.213,
+        "rank_metrics": {
+          "note_density": 5.33,
+          "pc_entropy": 0.979,
+          "trans_entropy_2nd": 0.852,
+          "groove_consistency": 0.545,
+          "compression_ratio": 14.806,
+          "structureness": 1.0,
+          "mean_interval": 5.7,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.078,
+          "pc_entropy": 3.862,
+          "trans_entropy_2nd": 2.864,
+          "groove_consistency": 1.348,
+          "compression_ratio": 6.445,
+          "structureness": 0.425,
+          "mean_interval": 0.191,
+          "purity_pen": 0.0
+        },
+        "rank": 23
+      },
+      {
+        "file": "constrained_F_00.mid",
+        "score": 18.616,
+        "rank_metrics": {
+          "note_density": 7.42,
+          "pc_entropy": 1.047,
+          "trans_entropy_2nd": 0.868,
+          "groove_consistency": 0.713,
+          "compression_ratio": 7.725,
+          "structureness": 1.0,
+          "mean_interval": 1.37,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 5.168,
+          "pc_entropy": 3.635,
+          "trans_entropy_2nd": 2.811,
+          "groove_consistency": 0.332,
+          "compression_ratio": 1.724,
+          "structureness": 0.425,
+          "mean_interval": 4.521,
+          "purity_pen": 0.0
+        },
+        "rank": 24
+      },
+      {
+        "file": "constrained_G_00.mid",
+        "score": 27.461,
+        "rank_metrics": {
+          "note_density": 5.06,
+          "pc_entropy": 0.41,
+          "trans_entropy_2nd": 0.291,
+          "groove_consistency": 0.528,
+          "compression_ratio": 14.929,
+          "structureness": 1.0,
+          "mean_interval": 0.2,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.808,
+          "pc_entropy": 5.758,
+          "trans_entropy_2nd": 4.734,
+          "groove_consistency": 1.518,
+          "compression_ratio": 6.527,
+          "structureness": 0.425,
+          "mean_interval": 5.691,
+          "purity_pen": 0.0
+        },
+        "rank": 25
+      }
+    ],
+    "unconstrained": [
+      {
+        "file": "unconstrained_G_04.mid",
+        "score": 3.237,
+        "rank_metrics": {
+          "note_density": 1.95,
+          "pc_entropy": 2.158,
+          "trans_entropy_2nd": 2.069,
+          "groove_consistency": 0.632,
+          "compression_ratio": 4.449,
+          "structureness": 1.0,
+          "mean_interval": 5.58,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.302,
+          "pc_entropy": 0.068,
+          "trans_entropy_2nd": 1.193,
+          "groove_consistency": 0.478,
+          "compression_ratio": 0.46,
+          "structureness": 0.425,
+          "mean_interval": 0.311,
+          "purity_pen": 0.0
+        },
+        "rank": 1
+      },
+      {
+        "file": "unconstrained_G_02.mid",
+        "score": 4.021,
+        "rank_metrics": {
+          "note_density": 2.13,
+          "pc_entropy": 2.226,
+          "trans_entropy_2nd": 2.154,
+          "groove_consistency": 0.61,
+          "compression_ratio": 4.322,
+          "structureness": 1.0,
+          "mean_interval": 5.43,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.122,
+          "pc_entropy": 0.295,
+          "trans_entropy_2nd": 1.476,
+          "groove_consistency": 0.698,
+          "compression_ratio": 0.544,
+          "structureness": 0.425,
+          "mean_interval": 0.461,
+          "purity_pen": 0.0
+        },
+        "rank": 2
+      },
+      {
+        "file": "unconstrained_A_01.mid",
+        "score": 4.505,
+        "rank_metrics": {
+          "note_density": 2.17,
+          "pc_entropy": 2.209,
+          "trans_entropy_2nd": 2.163,
+          "groove_consistency": 0.605,
+          "compression_ratio": 4.693,
+          "structureness": 1.0,
+          "mean_interval": 7.1,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.082,
+          "pc_entropy": 0.238,
+          "trans_entropy_2nd": 1.506,
+          "groove_consistency": 0.748,
+          "compression_ratio": 0.297,
+          "structureness": 0.425,
+          "mean_interval": 1.209,
+          "purity_pen": 0.0
+        },
+        "rank": 3
+      },
+      {
+        "file": "unconstrained_G_03.mid",
+        "score": 4.949,
+        "rank_metrics": {
+          "note_density": 1.47,
+          "pc_entropy": 2.02,
+          "trans_entropy_2nd": 1.939,
+          "groove_consistency": 0.699,
+          "compression_ratio": 7.478,
+          "structureness": 1.0,
+          "mean_interval": 6.73,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.782,
+          "pc_entropy": 0.392,
+          "trans_entropy_2nd": 0.759,
+          "groove_consistency": 0.192,
+          "compression_ratio": 1.56,
+          "structureness": 0.425,
+          "mean_interval": 0.839,
+          "purity_pen": 0.0
+        },
+        "rank": 4
+      },
+      {
+        "file": "unconstrained_D_04.mid",
+        "score": 5.327,
+        "rank_metrics": {
+          "note_density": 2.86,
+          "pc_entropy": 2.146,
+          "trans_entropy_2nd": 2.068,
+          "groove_consistency": 0.543,
+          "compression_ratio": 4.899,
+          "structureness": 1.0,
+          "mean_interval": 7.44,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.608,
+          "pc_entropy": 0.028,
+          "trans_entropy_2nd": 1.189,
+          "groove_consistency": 1.368,
+          "compression_ratio": 0.16,
+          "structureness": 0.425,
+          "mean_interval": 1.549,
+          "purity_pen": 0.0
+        },
+        "rank": 5
+      },
+      {
+        "file": "unconstrained_A_00.mid",
+        "score": 5.53,
+        "rank_metrics": {
+          "note_density": 1.31,
+          "pc_entropy": 2.289,
+          "trans_entropy_2nd": 2.241,
+          "groove_consistency": 0.731,
+          "compression_ratio": 3.817,
+          "structureness": 1.0,
+          "mean_interval": 6.39,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.942,
+          "pc_entropy": 0.505,
+          "trans_entropy_2nd": 1.766,
+          "groove_consistency": 0.512,
+          "compression_ratio": 0.881,
+          "structureness": 0.425,
+          "mean_interval": 0.499,
+          "purity_pen": 0.0
+        },
+        "rank": 6
+      },
+      {
+        "file": "unconstrained_F_03.mid",
+        "score": 6.024,
+        "rank_metrics": {
+          "note_density": 2.79,
+          "pc_entropy": 2.112,
+          "trans_entropy_2nd": 2.014,
+          "groove_consistency": 0.541,
+          "compression_ratio": 6.849,
+          "structureness": 0.976,
+          "mean_interval": 6.98,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.538,
+          "pc_entropy": 0.085,
+          "trans_entropy_2nd": 1.009,
+          "groove_consistency": 1.388,
+          "compression_ratio": 1.14,
+          "structureness": 0.775,
+          "mean_interval": 1.089,
+          "purity_pen": 0.0
+        },
+        "rank": 7
+      },
+      {
+        "file": "unconstrained_G_01.mid",
+        "score": 6.334,
+        "rank_metrics": {
+          "note_density": 1.37,
+          "pc_entropy": 2.053,
+          "trans_entropy_2nd": 1.953,
+          "groove_consistency": 0.717,
+          "compression_ratio": 9.546,
+          "structureness": 1.0,
+          "mean_interval": 6.52,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.882,
+          "pc_entropy": 0.282,
+          "trans_entropy_2nd": 0.806,
+          "groove_consistency": 0.372,
+          "compression_ratio": 2.938,
+          "structureness": 0.425,
+          "mean_interval": 0.629,
+          "purity_pen": 0.0
+        },
+        "rank": 8
+      },
+      {
+        "file": "unconstrained_A_04.mid",
+        "score": 6.975,
+        "rank_metrics": {
+          "note_density": 0.78,
+          "pc_entropy": 2.281,
+          "trans_entropy_2nd": 2.237,
+          "groove_consistency": 0.825,
+          "compression_ratio": 4.563,
+          "structureness": 1.0,
+          "mean_interval": 4.88,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 1.472,
+          "pc_entropy": 0.478,
+          "trans_entropy_2nd": 1.753,
+          "groove_consistency": 1.452,
+          "compression_ratio": 0.384,
+          "structureness": 0.425,
+          "mean_interval": 1.011,
+          "purity_pen": 0.0
+        },
+        "rank": 9
+      },
+      {
+        "file": "unconstrained_D_03.mid",
+        "score": 9.439,
+        "rank_metrics": {
+          "note_density": 2.61,
+          "pc_entropy": 2.127,
+          "trans_entropy_2nd": 2.063,
+          "groove_consistency": 0.557,
+          "compression_ratio": 6.25,
+          "structureness": 0.892,
+          "mean_interval": 6.82,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.358,
+          "pc_entropy": 0.035,
+          "trans_entropy_2nd": 1.173,
+          "groove_consistency": 1.228,
+          "compression_ratio": 0.741,
+          "structureness": 4.975,
+          "mean_interval": 0.929,
+          "purity_pen": 0.0
+        },
+        "rank": 10
+      },
+      {
+        "file": "unconstrained_F_04.mid",
+        "score": 9.883,
+        "rank_metrics": {
+          "note_density": 6.05,
+          "pc_entropy": 1.805,
+          "trans_entropy_2nd": 1.595,
+          "groove_consistency": 0.532,
+          "compression_ratio": 5.855,
+          "structureness": 0.976,
+          "mean_interval": 7.75,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.798,
+          "pc_entropy": 1.108,
+          "trans_entropy_2nd": 0.387,
+          "groove_consistency": 1.478,
+          "compression_ratio": 0.478,
+          "structureness": 0.775,
+          "mean_interval": 1.859,
+          "purity_pen": 0.0
+        },
+        "rank": 11
+      },
+      {
+        "file": "unconstrained_F_00.mid",
+        "score": 10.151,
+        "rank_metrics": {
+          "note_density": 1.39,
+          "pc_entropy": 1.507,
+          "trans_entropy_2nd": 1.379,
+          "groove_consistency": 0.747,
+          "compression_ratio": 11.895,
+          "structureness": 1.0,
+          "mean_interval": 6.37,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.862,
+          "pc_entropy": 2.102,
+          "trans_entropy_2nd": 1.107,
+          "groove_consistency": 0.672,
+          "compression_ratio": 4.504,
+          "structureness": 0.425,
+          "mean_interval": 0.479,
+          "purity_pen": 0.0
+        },
+        "rank": 12
+      },
+      {
+        "file": "unconstrained_C_01.mid",
+        "score": 10.569,
+        "rank_metrics": {
+          "note_density": 6.02,
+          "pc_entropy": 1.604,
+          "trans_entropy_2nd": 1.345,
+          "groove_consistency": 0.634,
+          "compression_ratio": 7.238,
+          "structureness": 0.976,
+          "mean_interval": 7.06,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.768,
+          "pc_entropy": 1.778,
+          "trans_entropy_2nd": 1.221,
+          "groove_consistency": 0.458,
+          "compression_ratio": 1.4,
+          "structureness": 0.775,
+          "mean_interval": 1.169,
+          "purity_pen": 0.0
+        },
+        "rank": 13
+      },
+      {
+        "file": "unconstrained_C_03.mid",
+        "score": 11.126,
+        "rank_metrics": {
+          "note_density": 6.0,
+          "pc_entropy": 1.573,
+          "trans_entropy_2nd": 1.356,
+          "groove_consistency": 0.631,
+          "compression_ratio": 7.418,
+          "structureness": 0.951,
+          "mean_interval": 6.17,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.748,
+          "pc_entropy": 1.882,
+          "trans_entropy_2nd": 1.184,
+          "groove_consistency": 0.488,
+          "compression_ratio": 1.52,
+          "structureness": 2.025,
+          "mean_interval": 0.279,
+          "purity_pen": 0.0
+        },
+        "rank": 14
+      },
+      {
+        "file": "unconstrained_F_01.mid",
+        "score": 12.364,
+        "rank_metrics": {
+          "note_density": 5.57,
+          "pc_entropy": 1.731,
+          "trans_entropy_2nd": 1.643,
+          "groove_consistency": 0.539,
+          "compression_ratio": 8.787,
+          "structureness": 0.927,
+          "mean_interval": 6.29,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.318,
+          "pc_entropy": 1.355,
+          "trans_entropy_2nd": 0.227,
+          "groove_consistency": 1.408,
+          "compression_ratio": 2.432,
+          "structureness": 3.225,
+          "mean_interval": 0.399,
+          "purity_pen": 0.0
+        },
+        "rank": 15
+      },
+      {
+        "file": "unconstrained_A_03.mid",
+        "score": 15.122,
+        "rank_metrics": {
+          "note_density": 2.29,
+          "pc_entropy": 2.559,
+          "trans_entropy_2nd": 2.465,
+          "groove_consistency": 0.619,
+          "compression_ratio": 5.102,
+          "structureness": 0.809,
+          "mean_interval": 7.3,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.038,
+          "pc_entropy": 1.405,
+          "trans_entropy_2nd": 2.513,
+          "groove_consistency": 0.608,
+          "compression_ratio": 0.024,
+          "structureness": 9.125,
+          "mean_interval": 1.409,
+          "purity_pen": 0.0
+        },
+        "rank": 16
+      },
+      {
+        "file": "unconstrained_C_04.mid",
+        "score": 15.541,
+        "rank_metrics": {
+          "note_density": 5.98,
+          "pc_entropy": 1.013,
+          "trans_entropy_2nd": 0.57,
+          "groove_consistency": 0.617,
+          "compression_ratio": 8.572,
+          "structureness": 1.0,
+          "mean_interval": 6.81,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.728,
+          "pc_entropy": 3.748,
+          "trans_entropy_2nd": 3.804,
+          "groove_consistency": 0.628,
+          "compression_ratio": 2.289,
+          "structureness": 0.425,
+          "mean_interval": 0.919,
+          "purity_pen": 0.0
+        },
+        "rank": 17
+      },
+      {
+        "file": "unconstrained_D_01.mid",
+        "score": 16.957,
+        "rank_metrics": {
+          "note_density": 2.57,
+          "pc_entropy": 0.078,
+          "trans_entropy_2nd": 0.024,
+          "groove_consistency": 0.568,
+          "compression_ratio": 7.37,
+          "structureness": 1.0,
+          "mean_interval": 7.01,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 0.318,
+          "pc_entropy": 6.865,
+          "trans_entropy_2nd": 5.624,
+          "groove_consistency": 1.118,
+          "compression_ratio": 1.488,
+          "structureness": 0.425,
+          "mean_interval": 1.119,
+          "purity_pen": 0.0
+        },
+        "rank": 18
+      },
+      {
+        "file": "unconstrained_A_02.mid",
+        "score": 17.052,
+        "rank_metrics": {
+          "note_density": 7.16,
+          "pc_entropy": 2.185,
+          "trans_entropy_2nd": 2.144,
+          "groove_consistency": 0.591,
+          "compression_ratio": 4.507,
+          "structureness": 0.844,
+          "mean_interval": 7.75,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 4.908,
+          "pc_entropy": 0.158,
+          "trans_entropy_2nd": 1.443,
+          "groove_consistency": 0.888,
+          "compression_ratio": 0.421,
+          "structureness": 7.375,
+          "mean_interval": 1.859,
+          "purity_pen": 0.0
+        },
+        "rank": 19
+      },
+      {
+        "file": "unconstrained_F_02.mid",
+        "score": 18.685,
+        "rank_metrics": {
+          "note_density": 5.02,
+          "pc_entropy": 0.347,
+          "trans_entropy_2nd": 0.31,
+          "groove_consistency": 0.525,
+          "compression_ratio": 8.718,
+          "structureness": 1.0,
+          "mean_interval": 6.81,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.768,
+          "pc_entropy": 5.968,
+          "trans_entropy_2nd": 4.671,
+          "groove_consistency": 1.548,
+          "compression_ratio": 2.386,
+          "structureness": 0.425,
+          "mean_interval": 0.919,
+          "purity_pen": 0.0
+        },
+        "rank": 20
+      },
+      {
+        "file": "unconstrained_D_02.mid",
+        "score": 21.578,
+        "rank_metrics": {
+          "note_density": 5.33,
+          "pc_entropy": 0.658,
+          "trans_entropy_2nd": 0.628,
+          "groove_consistency": 0.545,
+          "compression_ratio": 15.646,
+          "structureness": 1.0,
+          "mean_interval": 7.07,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.078,
+          "pc_entropy": 4.932,
+          "trans_entropy_2nd": 3.611,
+          "groove_consistency": 1.348,
+          "compression_ratio": 7.005,
+          "structureness": 0.425,
+          "mean_interval": 1.179,
+          "purity_pen": 0.0
+        },
+        "rank": 21
+      },
+      {
+        "file": "unconstrained_G_00.mid",
+        "score": 22.573,
+        "rank_metrics": {
+          "note_density": 4.61,
+          "pc_entropy": 0.241,
+          "trans_entropy_2nd": 0.193,
+          "groove_consistency": 0.497,
+          "compression_ratio": 14.168,
+          "structureness": 1.0,
+          "mean_interval": 6.45,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 2.358,
+          "pc_entropy": 6.322,
+          "trans_entropy_2nd": 5.061,
+          "groove_consistency": 1.828,
+          "compression_ratio": 6.02,
+          "structureness": 0.425,
+          "mean_interval": 0.559,
+          "purity_pen": 0.0
+        },
+        "rank": 22
+      },
+      {
+        "file": "unconstrained_C_00.mid",
+        "score": 23.293,
+        "rank_metrics": {
+          "note_density": 9.0,
+          "pc_entropy": 1.095,
+          "trans_entropy_2nd": 0.582,
+          "groove_consistency": 0.81,
+          "compression_ratio": 8.45,
+          "structureness": 1.0,
+          "mean_interval": 0.52,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 6.748,
+          "pc_entropy": 3.475,
+          "trans_entropy_2nd": 3.764,
+          "groove_consistency": 1.302,
+          "compression_ratio": 2.208,
+          "structureness": 0.425,
+          "mean_interval": 5.371,
+          "purity_pen": 0.0
+        },
+        "rank": 23
+      },
+      {
+        "file": "unconstrained_D_00.mid",
+        "score": 24.901,
+        "rank_metrics": {
+          "note_density": 10.18,
+          "pc_entropy": 2.083,
+          "trans_entropy_2nd": 1.975,
+          "groove_consistency": 0.94,
+          "compression_ratio": 10.124,
+          "structureness": 0.853,
+          "mean_interval": 2.83,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 7.928,
+          "pc_entropy": 0.182,
+          "trans_entropy_2nd": 0.879,
+          "groove_consistency": 2.602,
+          "compression_ratio": 3.324,
+          "structureness": 6.925,
+          "mean_interval": 3.061,
+          "purity_pen": 0.0
+        },
+        "rank": 24
+      },
+      {
+        "file": "unconstrained_C_02.mid",
+        "score": 26.097,
+        "rank_metrics": {
+          "note_density": 5.26,
+          "pc_entropy": 0.172,
+          "trans_entropy_2nd": 0.136,
+          "groove_consistency": 0.54,
+          "compression_ratio": 16.92,
+          "structureness": 1.0,
+          "mean_interval": 7.5,
+          "penta_purity": 1.0
+        },
+        "distance_components": {
+          "note_density": 3.008,
+          "pc_entropy": 6.552,
+          "trans_entropy_2nd": 5.251,
+          "groove_consistency": 1.398,
+          "compression_ratio": 7.854,
+          "structureness": 0.425,
+          "mean_interval": 1.609,
+          "purity_pen": 0.0
+        },
+        "rank": 25
+      }
+    ]
+  }
+}

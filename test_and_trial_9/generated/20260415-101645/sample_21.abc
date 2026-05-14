@@ -1,0 +1,14 @@
+X:1
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+[V:1]
+" D3 D7 D7 [D,D] D4 D3 D3- | A3 A4 A7 d2- | G2 G,3 F5 G5 E5 E6- |
+[VV:1]G,3 G,4 G,5 G G E4 G3 D5 G4 A2 d4 d4 A,4 A4 | A4 G,7 G8 [,G]4 [dg]4 [G,,-]6 |
+A,4 D4 [Cc]8 [C,C]8 | E8 G4 G,3 G7 G,, G8 A,4 D4 | F,,4 F,4 F,, [Ee-]2 [A,-A-e]2 G3 G E,8 [G,-D]2 F,- [D,-D]2 [D,D]2 [G,,G,CD]8 [F,-A,]2 |
+[A,a]2 [Da]2 [B,,F,]20 [D,D]3 F, C,,2 C2 E, G,3 [B,,-F]2 B,- [B,B,-f]3 [B,-f]3 [A,,D]10 D13 [D,-B]8 |
+[D,,-F-D,-D,-A,,-A]13 [F,-F]3 F,3 [F,-B,] [B,,-F,,-B,]4 F4 E4 |
+C8 [C,c]8 [D-c]8 | [E,-F]3 E,3 C8 | [D,G]1 | [G,-G]2 G, [B,,-F]2 [F,,--] [D,-D]2 C, [D,-G]13 [C,,-G,-C,-f]2 [G,,f-]2 [[G,-A]2 F,- [G,-]16 |
+[G,-G,G]4 [D,D]4 [dg]3 [E,,F,D]2 F, [A-D]3 [D,,-E]2 [D-f]13 [C,c]13 [F]8 |
+[F,-D]3 | [C,,-G]6 [A,-F]3 D,- [G,-D]4 [G,-G]4 [D,d] [A,,-F]2 F,,- F2 [F,-d]2 [F,-dF]7 [G,,-F]4 [C,,-B]10 [D,,-B,,-B,]2 [C,,-B]2 [C] [D,,-F,-D]2 [DB,B-]3 [B,,-D]3 B,,4 [G,,-G,-B,,G]2 [C-B]2 [C-F]19 G,8 [B,,-F,-]13 D3 D,3 E3 G,3 [F,,-f]2 F,,- [A,,-F]2 A,, A,, [D,-F]2 D,,- [D,,-F]3 [D,,D,F]3 |

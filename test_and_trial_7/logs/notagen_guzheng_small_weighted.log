@@ -1,0 +1,68 @@
+
+=== run started Sat Apr 11 14:09:04 2026 device=mps epochs 1..30 ===
+
+=== run started Sat Apr 11 14:33:46 2026 device=mps epochs 1..30 ===
+
+=== run started Sat Apr 11 15:24:54 2026 device=mps epochs 1..30 ===
+epoch   1  train=0.6028  eval=0.5628  best=0.5628 *  84.1s
+epoch   2  train=0.5198  eval=0.5164  best=0.5164 *  278.1s
+epoch   3  train=0.4548  eval=0.4990  best=0.4990 *  278.4s
+epoch   4  train=0.4419  eval=0.4856  best=0.4856 *  487.0s
+epoch   5  train=0.4452  eval=0.4742  best=0.4742 *  302.1s
+epoch   6  train=0.4088  eval=0.4711  best=0.4711 *  826.8s
+epoch   7  train=0.4134  eval=0.4664  best=0.4664 *  633.0s
+epoch   8  train=0.3887  eval=0.4640  best=0.4640 *  74.1s
+epoch   9  train=0.3685  eval=0.4640  best=0.4640  375.6s
+epoch  10  train=0.3943  eval=0.4595  best=0.4595 *  455.6s
+epoch  11  train=0.3785  eval=0.4607  best=0.4595  646.6s
+epoch  12  train=0.3729  eval=0.4576  best=0.4576 *  229.9s
+epoch  13  train=0.3567  eval=0.4570  best=0.4570 *  78.9s
+epoch  14  train=0.3655  eval=0.4539  best=0.4539 *  238.7s
+epoch  15  train=0.3418  eval=0.4535  best=0.4535 *  217.1s
+epoch  16  train=0.3414  eval=0.4586  best=0.4535  332.2s
+epoch  17  train=0.3323  eval=0.4580  best=0.4535  112.3s
+epoch  18  train=0.3186  eval=0.4538  best=0.4535  417.9s
+epoch  19  train=0.3288  eval=0.4549  best=0.4535  256.2s
+epoch  20  train=0.3086  eval=0.4561  best=0.4535  47.2s
+epoch  21  train=0.3174  eval=0.4527  best=0.4527 *  366.5s
+epoch  22  train=0.3278  eval=0.4517  best=0.4517 *  898.8s
+epoch  23  train=0.2956  eval=0.4506  best=0.4506 *  1600.3s
+epoch  24  train=0.2851  eval=0.4515  best=0.4506  208.0s
+epoch  25  train=0.3031  eval=0.4556  best=0.4506  202.1s
+epoch  26  train=0.2909  eval=0.4563  best=0.4506  396.7s
+epoch  27  train=0.2730  eval=0.4533  best=0.4506  75.4s
+epoch  28  train=0.2744  eval=0.4530  best=0.4506  70.8s
+epoch  29  train=0.2623  eval=0.4597  best=0.4506  511.6s
+epoch  30  train=0.2728  eval=0.4514  best=0.4506  470.1s
+
+=== run started Sat Apr 11 20:03:58 2026 device=mps epochs 1..30 ===
+epoch   1  train=0.6408  eval=0.5894  best=0.5894 *  1171.0s
+epoch   2  train=0.5628  eval=0.5279  best=0.5279 *  91.9s
+epoch   3  train=0.4884  eval=0.5090  best=0.5090 *  81.5s
+epoch   4  train=0.4790  eval=0.5034  best=0.5034 *  68.5s
+epoch   5  train=0.5003  eval=0.4883  best=0.4883 *  64.0s
+epoch   6  train=0.4405  eval=0.4847  best=0.4847 *  125.7s
+epoch   7  train=0.4421  eval=0.4842  best=0.4842 *  1047.0s
+epoch   8  train=0.4151  eval=0.4831  best=0.4831 *  354.1s
+epoch   9  train=0.3885  eval=0.4825  best=0.4825 *  3706.6s
+epoch  10  train=0.4220  eval=0.4777  best=0.4777 *  559.9s
+epoch  11  train=0.3981  eval=0.4775  best=0.4775 *  442.4s
+epoch  12  train=0.3995  eval=0.4767  best=0.4767 *  417.2s
+epoch  13  train=0.3940  eval=0.4776  best=0.4767  431.6s
+epoch  14  train=0.3925  eval=0.4764  best=0.4764 *  468.8s
+epoch  15  train=0.3814  eval=0.4781  best=0.4764  910.4s
+epoch  16  train=0.3608  eval=0.4788  best=0.4764  1050.0s
+epoch  17  train=0.3539  eval=0.4798  best=0.4764  101.6s
+epoch  18  train=0.3519  eval=0.4757  best=0.4757 *  474.1s
+epoch  19  train=0.3656  eval=0.4805  best=0.4757  155.1s
+epoch  20  train=0.3345  eval=0.4822  best=0.4757  334.9s
+epoch  21  train=0.3427  eval=0.4812  best=0.4757  737.6s
+epoch  22  train=0.3537  eval=0.4768  best=0.4757  427.0s
+epoch  23  train=0.3189  eval=0.4859  best=0.4757  1491.2s
+epoch  24  train=0.3145  eval=0.4868  best=0.4757  302.2s
+epoch  25  train=0.3269  eval=0.4852  best=0.4757  608.8s
+epoch  26  train=0.3262  eval=0.4874  best=0.4757  557.4s
+epoch  27  train=0.2999  eval=0.5002  best=0.4757  825.8s
+epoch  28  train=0.3024  eval=0.4933  best=0.4757  1305.8s
+epoch  29  train=0.2808  eval=0.5063  best=0.4757  698.9s
+epoch  30  train=0.2939  eval=0.5039  best=0.4757  101.2s

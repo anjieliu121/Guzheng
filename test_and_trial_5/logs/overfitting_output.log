@@ -1,0 +1,260 @@
+Loading training data pitch sequences...
+  196 original training sequences loaded (excluding augmented)
+
+Analyzing rwkv-0/val_postprocessed...
+  val_00_A.mid: n=237, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  val_01_D.mid: n=158, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_02_C.mid: n=103, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  val_03_D.mid: n=117, lcs=4(0.03), 5gram=0.00, self4=0.02, selfmax=4 
+  val_04_D.mid: n=139, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+
+Analyzing rwkv-0/test_postprocessed...
+  test_05_C.mid: n=67, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=3 
+  test_06_A.mid: n=76, lcs=3(0.04), 5gram=0.00, self4=0.07, selfmax=6 
+  test_07_G.mid: n=89, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  test_08_F.mid: n=209, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_09_D.mid: n=34, lcs=3(0.09), 5gram=0.00, self4=0.00, selfmax=3 
+
+Analyzing rwkv-0/synthetic_postprocessed...
+  synthetic_10_A.mid: n=174, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  synthetic_11_C.mid: n=155, lcs=5(0.03), 5gram=0.01, self4=0.01, selfmax=4 
+  synthetic_12_D.mid: n=71, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_13_F.mid: n=158, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_14_G.mid: n=117, lcs=5(0.04), 5gram=0.02, self4=0.00, selfmax=2 
+  val_00_A.mid: n=237, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  val_01_D.mid: n=158, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_02_C.mid: n=103, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  val_03_D.mid: n=117, lcs=4(0.03), 5gram=0.00, self4=0.02, selfmax=4 
+  val_04_D.mid: n=139, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+  test_05_C.mid: n=67, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=3 
+  test_06_A.mid: n=76, lcs=3(0.04), 5gram=0.00, self4=0.07, selfmax=6 
+  test_07_G.mid: n=89, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  test_08_F.mid: n=209, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_09_D.mid: n=34, lcs=3(0.09), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_10_A.mid: n=174, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  synthetic_11_C.mid: n=155, lcs=5(0.03), 5gram=0.01, self4=0.01, selfmax=4 
+  synthetic_12_D.mid: n=71, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_13_F.mid: n=158, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_14_G.mid: n=117, lcs=5(0.04), 5gram=0.02, self4=0.00, selfmax=2 
+
+Analyzing rwkv-2/val_postprocessed...
+  val_00_A.mid: n=276, lcs=4(0.01), 5gram=0.00, self4=0.03, selfmax=5 
+  val_01_D.mid: n=46, lcs=5(0.11), 5gram=0.02, self4=0.00, selfmax=0 
+  val_02_C.mid: n=252, lcs=5(0.02), 5gram=0.01, self4=0.01, selfmax=4 
+  val_03_D.mid: n=132, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=2 
+  val_04_D.mid: n=232, lcs=5(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+
+Analyzing rwkv-2/test_postprocessed...
+  test_05_C.mid: n=171, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_06_A.mid: n=53, lcs=4(0.08), 5gram=0.00, self4=0.00, selfmax=2 
+  test_07_G.mid: n=63, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=3 
+  test_08_F.mid: n=24, lcs=3(0.12), 5gram=0.00, self4=0.00, selfmax=0 
+  test_09_D.mid: n=165, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=2 
+
+Analyzing rwkv-2/synthetic_postprocessed...
+  synthetic_10_A.mid: n=156, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_11_C.mid: n=132, lcs=5(0.04), 5gram=0.01, self4=0.00, selfmax=2 
+  synthetic_12_D.mid: n=191, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_13_F.mid: n=165, lcs=4(0.02), 5gram=0.00, self4=0.04, selfmax=6 
+  synthetic_14_G.mid: n=101, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=3 
+  val_00_A.mid: n=276, lcs=4(0.01), 5gram=0.00, self4=0.03, selfmax=5 
+  val_01_D.mid: n=46, lcs=5(0.11), 5gram=0.02, self4=0.00, selfmax=0 
+  val_02_C.mid: n=252, lcs=5(0.02), 5gram=0.01, self4=0.01, selfmax=4 
+  val_03_D.mid: n=132, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=2 
+  val_04_D.mid: n=232, lcs=5(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_05_C.mid: n=171, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_06_A.mid: n=53, lcs=4(0.08), 5gram=0.00, self4=0.00, selfmax=2 
+  test_07_G.mid: n=63, lcs=4(0.06), 5gram=0.00, self4=0.00, selfmax=3 
+  test_08_F.mid: n=24, lcs=3(0.12), 5gram=0.00, self4=0.00, selfmax=0 
+  test_09_D.mid: n=165, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_10_A.mid: n=156, lcs=4(0.03), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_11_C.mid: n=132, lcs=5(0.04), 5gram=0.01, self4=0.00, selfmax=2 
+  synthetic_12_D.mid: n=191, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_13_F.mid: n=165, lcs=4(0.02), 5gram=0.00, self4=0.04, selfmax=6 
+  synthetic_14_G.mid: n=101, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=3 
+
+Analyzing rwkv-4/val_postprocessed...
+  val_00_A.mid: n=166, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  val_01_D.mid: n=175, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_02_C.mid: n=195, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_03_D.mid: n=384, lcs=5(0.01), 5gram=0.00, self4=0.71, selfmax=50 REPETITIVE
+  val_04_D.mid: n=94, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=3 
+
+Analyzing rwkv-4/test_postprocessed...
+  test_05_C.mid: n=43, lcs=3(0.07), 5gram=0.00, self4=0.00, selfmax=2 
+  test_06_A.mid: n=188, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_07_G.mid: n=194, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_08_F.mid: n=86, lcs=5(0.06), 5gram=0.01, self4=0.00, selfmax=3 
+  test_09_D.mid: n=17, lcs=4(0.24), 5gram=0.00, self4=0.00, selfmax=0 MEMORIZATION(lcs>0.20)
+
+Analyzing rwkv-4/synthetic_postprocessed...
+  synthetic_10_A.mid: n=104, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_11_C.mid: n=177, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_12_D.mid: n=178, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_13_F.mid: n=178, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_14_G.mid: n=57, lcs=5(0.09), 5gram=0.02, self4=0.00, selfmax=2 
+  val_00_A.mid: n=166, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  val_01_D.mid: n=175, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_02_C.mid: n=195, lcs=5(0.03), 5gram=0.01, self4=0.00, selfmax=3 
+  val_03_D.mid: n=384, lcs=5(0.01), 5gram=0.00, self4=0.71, selfmax=50 REPETITIVE
+  val_04_D.mid: n=94, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=3 
+  test_05_C.mid: n=43, lcs=3(0.07), 5gram=0.00, self4=0.00, selfmax=2 
+  test_06_A.mid: n=188, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_07_G.mid: n=194, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  test_08_F.mid: n=86, lcs=5(0.06), 5gram=0.01, self4=0.00, selfmax=3 
+  test_09_D.mid: n=17, lcs=4(0.24), 5gram=0.00, self4=0.00, selfmax=0 MEMORIZATION(lcs>0.20)
+  synthetic_10_A.mid: n=104, lcs=4(0.04), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_11_C.mid: n=177, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_12_D.mid: n=178, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=2 
+  synthetic_13_F.mid: n=178, lcs=4(0.02), 5gram=0.00, self4=0.00, selfmax=3 
+  synthetic_14_G.mid: n=57, lcs=5(0.09), 5gram=0.02, self4=0.00, selfmax=2 
+
+Reference: test set n-gram coverage against training...
+  Mean test 5-gram coverage: 0.5779
+  Mean test 8-gram coverage: 0.0781
+  Mean test LCS ratio: 0.0656
+
+================================================================================
+OVERFITTING & MEMORIZATION ANALYSIS SUMMARY (Trial 4)
+================================================================================
+
+Thresholds: LCS ratio > 0.20 = memorization, 5-gram > 0.50 = memorization
+
+
+rwkv-0/val_postprocessed: (5 files, mean 151 notes)
+  Mean pitch 5-gram coverage: 0.0026
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0301
+  Mean max LCS length:        4.2
+  Mean self-rep (4-gram):      0.0035
+  Mean longest self-repeat:    3.0
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-0/test_postprocessed: (5 files, mean 95 notes)
+  Mean pitch 5-gram coverage: 0.0
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0503
+  Mean max LCS length:        3.6
+  Mean self-rep (4-gram):      0.0137
+  Mean longest self-repeat:    3.4
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-0/synthetic_postprocessed: (5 files, mean 135 notes)
+  Mean pitch 5-gram coverage: 0.0072
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0371
+  Mean max LCS length:        4.6
+  Mean self-rep (4-gram):      0.0026
+  Mean longest self-repeat:    2.8
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-0/all_postprocessed: (15 files, mean 127 notes)
+  Mean pitch 5-gram coverage: 0.0033
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0391
+  Mean max LCS length:        4.1
+  Mean self-rep (4-gram):      0.0066
+  Mean longest self-repeat:    3.1
+  Memorization (LCS>0.20):     0/15 files
+  Memorization (5gram>0.50):   0/15 files
+  Excessive repetition:        0/15 files
+
+rwkv-2/val_postprocessed: (5 files, mean 188 notes)
+  Mean pitch 5-gram coverage: 0.0081
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.039
+  Mean max LCS length:        4.6
+  Mean self-rep (4-gram):      0.0075
+  Mean longest self-repeat:    2.8
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-2/test_postprocessed: (5 files, mean 95 notes)
+  Mean pitch 5-gram coverage: 0.0
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0623
+  Mean max LCS length:        3.8
+  Mean self-rep (4-gram):      0.0
+  Mean longest self-repeat:    2.0
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-2/synthetic_postprocessed: (5 files, mean 149 notes)
+  Mean pitch 5-gram coverage: 0.0016
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0296
+  Mean max LCS length:        4.2
+  Mean self-rep (4-gram):      0.0074
+  Mean longest self-repeat:    3.4
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-2/all_postprocessed: (15 files, mean 144 notes)
+  Mean pitch 5-gram coverage: 0.0032
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0436
+  Mean max LCS length:        4.2
+  Mean self-rep (4-gram):      0.005
+  Mean longest self-repeat:    2.7
+  Memorization (LCS>0.20):     0/15 files
+  Memorization (5gram>0.50):   0/15 files
+  Excessive repetition:        0/15 files
+
+rwkv-4/val_postprocessed: (5 files, mean 203 notes)
+  Mean pitch 5-gram coverage: 0.0027
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0268
+  Mean max LCS length:        4.6
+  Mean self-rep (4-gram):      0.1412
+  Mean longest self-repeat:    12.4
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        1/5 files
+
+rwkv-4/test_postprocessed: (5 files, mean 106 notes)
+  Mean pitch 5-gram coverage: 0.0024
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.081
+  Mean max LCS length:        4.0
+  Mean self-rep (4-gram):      0.0
+  Mean longest self-repeat:    2.2
+  Memorization (LCS>0.20):     1/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-4/synthetic_postprocessed: (5 files, mean 139 notes)
+  Mean pitch 5-gram coverage: 0.0038
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0388
+  Mean max LCS length:        4.2
+  Mean self-rep (4-gram):      0.0
+  Mean longest self-repeat:    2.4
+  Memorization (LCS>0.20):     0/5 files
+  Memorization (5gram>0.50):   0/5 files
+  Excessive repetition:        0/5 files
+
+rwkv-4/all_postprocessed: (15 files, mean 149 notes)
+  Mean pitch 5-gram coverage: 0.003
+  Mean pitch 8-gram coverage: 0.0
+  Mean LCS ratio:             0.0489
+  Mean max LCS length:        4.3
+  Mean self-rep (4-gram):      0.0471
+  Mean longest self-repeat:    5.7
+  Memorization (LCS>0.20):     1/15 files
+  Memorization (5gram>0.50):   0/15 files
+  Excessive repetition:        1/15 files
+Test set baseline:
+  Mean 5-gram coverage: 0.5779
+  Mean 8-gram coverage: 0.0781
+  Mean LCS ratio:       0.0656
+
+Results saved to: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/evaluation/overfitting_analysis.json

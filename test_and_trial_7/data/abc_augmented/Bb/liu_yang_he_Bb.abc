@@ -1,0 +1,105 @@
+L:1/32
+M:4/4
+Q:1/4=200
+K:Bb
+V:1 treble nm="Guzheng"
+[V:1][C,,C,]16 F,,16|
+[V:1]G,,16 B,16|
+[V:1]C,16 F,16|
+[V:1]G,16 B,16|
+[V:1]C16 F16|
+[V:1]G16 B16|
+[V:1]C,2- [C,-F,-]2 [C,-F,-G,-]2 [C,-F,-G,-C-]3 [C,-F,-G,-C-F-]2 [C,-F,-G,-C-F-G-]2 [C,F,G,CFGc]19|
+[V:1][D,,D,]16 F,,16|
+[V:1]G,,16 B,,16|
+[V:1]D,16 F,16|
+[V:1]G,16 B,16|
+[V:1]D16 F16|
+[V:1]G16 B16|
+[V:1]D,2- [D,-G,-]2 [D,-G,-B,-]2 [D,-G,-B,-D-]3 [D,-G,-B,-D-G-]2 [D,-G,-B,-D-G-B-]2 [D,G,B,DGBd]3 F,2- [F,-B,-]2 [F,-B,-C-]2 [F,-B,-C-F-]3 [F,-B,-C-F-B-]2 [F,-B,-C-F-B-c-]2 [F,-B,-C-F-B-c-f-]3|
+[V:1][F,B,CFBcf]8 [F,,F,]8 [G,,G,]8 [B,,B,]8|
+[V:1]C8 B,8 C8 D8|
+[V:1][F,F]8 G8 G4 F4 D8|
+[V:1]D8 C8 G,8 F,8|
+[V:1]B,,4 B,4 B,4 C4 [F,F]8 F4 D4|
+[V:1]C4 D4 B,8 G,8 F,8|
+[V:1]F,4 F4 D4 F4 G,4 [FG]8 F4|
+[V:1]D,4 D4 D4 F4 [D,CD]12 D4|
+[V:1][C,C]8 C4 B,4 G,8 F,4 G,4|
+[V:1][B,,B,]8 [cf]4 [Bd]4 [Gc]4 [FB]4 [DG]4 [CF]4|
+[V:1]B,,4 B,4 B,4 B,4 B,,4 B,4 C4 D4|
+[V:1]F,8 [DF]8 [DF]8 D8|
+[V:1]C8 C4 B,4 G,8 F,4 G,4|
+[V:1][B,,B,]8 [G,,G,]8 F,4 B,4 G,8|
+[V:1][Ff]8 [Gg]4 [Bb]4 G4 [fg]8 f4|
+[V:1]D4 d4 d4 f4 G8 F8|
+[V:1]B,4 B4 B4 c4 [Ff]8 f4 d4|
+[V:1][CBc]12 d4 B8 B4 G4|
+[V:1][F,F]8 [Fdf]8 [Fdf]8 [Fdf]8|
+[V:1][F,F]8 f2 f2 f2 f2 f2 f2 f2 f2 f8|
+[V:1]z8 [Gg]8 [Ff]16|
+[V:1][Ff]8 f2 f2 f2 f2 f2 f2 f2 f2 f8|
+[V:1][Cc]12 f4 d8 f8|
+[V:1][Cc]8 c4 B4 G8 B8|
+[V:1]F,8 F8 [CF]16|
+[V:1][F,-F]4 [F,f]4 [C-F-g]4 [CFb]4 [F,-g]4 [F,f]4 [C-F-d]4 [CFf]4|
+[V:1][C,d]8 [G,Cc]8 [C,G]8 [G,CF]8|
+[V:1][B,,-B,]4 [B,,B]4 [F,-B,-B]4 [F,B,c]4 [B,,-f]4 [B,,g]4 [F,-B,-f]4 [F,B,d]4|
+[V:1][B,,c]8 [F,B,B]8 [B,,G]8 [F,B,F]8|
+[V:1][F,-F]4 [F,f]4 [C-F-d]4 [CFf]4 [F,-g]4 [F,f]4 [C-F-g]4 [CFb]4|
+[V:1][G,-g]4 [G,b]4 [D-G-g]4 [DGf]4 [G,-d]4 [G,c]4 [D-G-f]4 [DGd]4|
+[V:1][F,-c]4 [F,d]4 [C-F-c]4 [CFB]4 [F,-G]4 [F,B]4 [C-F]4 [CG]4|
+[V:1][B,,B,]8 [F,B,B]8 [B,,G]8 [F,B,F]8|
+[V:1][B,,-B,]4 [B,,B]4 [F,-B,-B]4 [F,B,B]4 [B,,-B,]4 [B,,B]4 [F,-B,-c]4 [F,B,d]4|
+[V:1][B,,F]8 [F,B,c-f-]8 [B,,cf]8 [F,B,d]8|
+[V:1][D,-c]4 [D,d]4 [B,-D-c]4 [B,DB]4 [D,-G]4 [D,B]4 [B,-D-F]4 [B,DG]4|
+[V:1][D,B]8 [B,DG]8 [D,-F]4 [D,B]4 [B,DG]8|
+[V:1][G,-F]4 [G,f]4 [D-G-g]4 [DGb]4 [G,-g]4 [G,f]4 [D-G-d]4 [DGf]4|
+[V:1][F,-d]4 [F,c]4 [C-F-f]4 [CFd]4 [F,-G]4 [F,B]4 [C-F]4 [CG]4|
+[V:1][D,-B,]4 [D,B]4 [B,-D-B]4 [B,Dc]4 [D,-f]4 [D,g]4 [B,-D-f]4 [B,Dd]4|
+[V:1][C,c]8 [G,Cc-]8 [C,c]8 [G,-C-c]4 [G,Cd]4|
+[V:1][B,,-B,]4 [B,,B]4 [F,-B,-B]4 [F,B,c]4 [B,,-B]4 [B,,c]4 [F,-B,-B]4 [F,B,G]4|
+[V:1][F,,F]16 F2- [F-B-]2 [F-B-c-]2 [FBcf]10|
+[V:1]f4 d4 B4 G4 F4 D4 B,4 G,4|
+[V:1]g4 d4 G4 D4 b4 f4 B4 F4|
+[V:1]g4 f4 d4 B4 G4 F4 D4 B,4|
+[V:1]f4 d4 B4 G4 F4 D4 B,4 G,4|
+[V:1]d4 B4 G4 F4 D4 B,4 G,4 F,4|
+[V:1]d4 B4 D4 B,4 f4 c4 F4 C4|
+[V:1]G4 F4 D4 B,4 G,4 F,4 D,4 B,,4|
+[V:1]F4 D4 B,4 G,4 F,4 D,4 B,,4 G,,4|
+[V:1]B4 G4 F4 D4 B,4 G,4 F,4 D,4|
+[V:1]B4 F4 B,4 F,4 c4 G4 C4 G,4|
+[V:1]f4 d4 B4 G4 F4 D4 B,4 G,4|
+[V:1]f4 c4 F4 C4 d4 B4 D4 B,4|
+[V:1]c4 G4 F4 D4 C4 G,4 F,4 D,4|
+[V:1]c4 G4 C4 G,4 d4 B4 D4 B,4|
+[V:1]B4 F4 B,4 F,4 c4 G4 C4 G,4|
+[V:1]B4 F4 B,4 F,4 G4 D4 G,4 D,4|
+[V:1]F4 D4 B,4 G,4 F,4 D,4 B,,4 G,,4|
+[V:1]F,,4 B,,4 C,4 D,4 F,4 B,4 C4 D4|
+[V:1][F,F]8 G8 G4 F4 D8|
+[V:1]D8 C8 G,8 F,8|
+[V:1]B,,4 B,4 B,4 C4 [F,F]8 F4 D4|
+[V:1]C4 D4 B,8 G,8 F,8|
+[V:1]F,4 F4 D4 F4 G,4 [FG]8 F4|
+[V:1]D,4 D4 D4 F4 [D,CD]12 D4|
+[V:1][C,C]8 C4 B,4 G,8 F,4 G,4|
+[V:1][B,,B,]8 [cf]4 [Bd]4 [Gc]4 [FB]4 [DG]4 [CF]4|
+[V:1]B,,4 B,4 B,4 B,4 B,,4 B,4 C4 D4|
+[V:1]F,8 [DF]8 [DF]8 D8|
+[V:1][C,C]8 C4 B,4 G,8 F,4 G,4|
+[V:1][B,,B,]8 [G,,G,]8 F,,4 B,,4 G,,8|
+[V:1][Ff]8 [Gg]4 [Bb]4 G4 [fg]8 f4|
+[V:1]D4 d4 d4 f4 G8 F8|
+[V:1]B,4 B4 B4 c4 [Ff]8 f4 d4|
+[V:1][CBc]12 d4 B8 B4 G4|
+[V:1]F16 B,,2 C,2 D,2 F,2 G,2 B,2 C2 D2|
+[V:1][F,F]8 G8 G8 G4 F4|
+[V:1][D,CD]8 D4 F4 G,8 F,8|
+[V:1]B,,4 B,4 B,4 C4 [F,F]8 F4 D4|
+[V:1][C,B,C]24 D8|
+[V:1]B,,2- [B,,-D,-]2 [B,,-D,-F,-]2 [B,,-D,-F,-B,-]3 [B,,-D,-F,-B,-D-]2 [B,,-D,-F,-B,-D-F-]2 [B,,D,F,B,DFB]3 C,2- [C,-F,-]2 [C,-F,-G,-]2 [C,-F,-G,-C-]3 [C,-F,-G,-C-F-]2 [C,-F,-G,-C-F-G-]2 [C,F,G,CFGc]3|
+[V:1]B,,2- [B,,-D,-]2 [B,,-D,-F,-]2 [B,,-D,-F,-B,-]3 [B,,-D,-F,-B,-D-]2 [B,,-D,-F,-B,-D-F-]2 [B,,D,F,B,DFB]3 G,,2- [G,,-C,-]2 [G,,-C,-D,-]2 [G,,-C,-D,-G,-]3 [G,,-C,-D,-G,-C-]2 [G,,-C,-D,-G,-C-D-]2 [G,,C,D,G,CDG]3|
+[V:1]F,,5 B,,6 C,5 F,5 B,6 C5|
+[V:1]F5 B6 c5 F,2- [F,-B,-]2 [F,-B,-C-]2 [F,-B,-C-F-]3 [F,-B,-C-F-B-]2 [F,-B,-C-F-B-c-]2 [F,B,CFBcf]3|

@@ -1,0 +1,37 @@
+Device: mps
+
+Loading training data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/data/train
+  1488 sequences, 1421768 total tokens
+Loading validation data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/data/val
+  49 sequences, 37539 total tokens
+Train chunks: 4933
+Val chunks: 122
+
+Model parameters: 8,203,840
+Vocab size: 469
+/Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/04_train.py:199: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(args.resume, map_location=device)
+/opt/miniconda3/envs/midi_rwkv/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:224: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  warnings.warn(
+Resumed from epoch 10
+
+Training for up to 200 epochs
+Early stopping patience: 20
+Label smoothing: 0.1
+Weight decay: 0.05
+Dropout: 0.15
+Batches/epoch: 308
+
+Epoch  10 | train=2.2056 | val=2.1108 | ppl=8.3 | lr=2.98e-04 | 118.6s
+  -> best model saved (val_loss=2.1108)
+Epoch  15 | train=2.0945 | val=2.1773 | ppl=8.8 | lr=2.96e-04 | 114.9s
+Epoch  20 | train=2.0233 | val=2.2497 | ppl=9.5 | lr=2.93e-04 | 115.5s
+Epoch  25 | train=1.9623 | val=2.3303 | ppl=10.3 | lr=2.89e-04 | 116.7s
+Epoch  30 | train=1.9130 | val=2.3817 | ppl=10.8 | lr=2.84e-04 | 116.2s
+
+Early stopping at epoch 30 (patience=20)
+
+Training complete at epoch 30.
+Best val loss: 2.1108
+History saved to: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_6/logs/training_history.json
+Best model: checkpoints/best_model.pt

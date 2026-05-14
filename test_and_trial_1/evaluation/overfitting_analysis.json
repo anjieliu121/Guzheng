@@ -1,0 +1,533 @@
+{
+  "constrained": {
+    "files": [
+      {
+        "file": "constrained_A_00.mid",
+        "n_notes": 483,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7859,
+          "interval_3gram": 0.6188,
+          "pitch_5gram": 0.1775,
+          "interval_5gram": 0.1276,
+          "pitch_8gram": 0.0147,
+          "interval_8gram": 0.0126,
+          "pitch_12gram": 0.0042,
+          "interval_12gram": 0.0021
+        },
+        "max_lcs_length": 13,
+        "lcs_ratio": 0.0269,
+        "closest_train_file": "bu_bu_gao_A.mid"
+      },
+      {
+        "file": "constrained_A_01.mid",
+        "n_notes": 484,
+        "ngram_coverage": {
+          "pitch_3gram": 0.4813,
+          "interval_3gram": 0.4782,
+          "pitch_5gram": 0.1333,
+          "interval_5gram": 0.1399,
+          "pitch_8gram": 0.0063,
+          "interval_8gram": 0.0084,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0165,
+        "closest_train_file": "dan_dian_tou_luan_cha_hua_A.mid"
+      },
+      {
+        "file": "constrained_A_02.mid",
+        "n_notes": 505,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7455,
+          "interval_3gram": 0.5777,
+          "pitch_5gram": 0.1337,
+          "interval_5gram": 0.11,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0139,
+        "closest_train_file": "bai_jia_chun_han_gao_D.mid"
+      },
+      {
+        "file": "constrained_C_00.mid",
+        "n_notes": 478,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7857,
+          "interval_3gram": 0.7263,
+          "pitch_5gram": 0.1772,
+          "interval_5gram": 0.1649,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0043,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0146,
+        "closest_train_file": "bai_jia_chun_han_gao_F.mid"
+      },
+      {
+        "file": "constrained_C_01.mid",
+        "n_notes": 441,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8383,
+          "interval_3gram": 0.6735,
+          "pitch_5gram": 0.2059,
+          "interval_5gram": 0.133,
+          "pitch_8gram": 0.0069,
+          "interval_8gram": 0.0046,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.0204,
+        "closest_train_file": "guzheng_train_000.mid"
+      },
+      {
+        "file": "constrained_C_02.mid",
+        "n_notes": 496,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7308,
+          "interval_3gram": 0.6653,
+          "pitch_5gram": 0.0874,
+          "interval_5gram": 0.0815,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0141,
+        "closest_train_file": "ya_shan_ai_C.mid"
+      },
+      {
+        "file": "constrained_D_00.mid",
+        "n_notes": 487,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9691,
+          "interval_3gram": 0.9132,
+          "pitch_5gram": 0.53,
+          "interval_5gram": 0.4523,
+          "pitch_8gram": 0.0312,
+          "interval_8gram": 0.0543,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 10,
+        "lcs_ratio": 0.0205,
+        "closest_train_file": "guzheng_train_077.mid"
+      },
+      {
+        "file": "constrained_D_01.mid",
+        "n_notes": 394,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9898,
+          "interval_3gram": 0.9847,
+          "pitch_5gram": 0.7231,
+          "interval_5gram": 0.6298,
+          "pitch_8gram": 0.0672,
+          "interval_8gram": 0.1425,
+          "pitch_12gram": 0.0078,
+          "interval_12gram": 0.0052
+        },
+        "max_lcs_length": 14,
+        "lcs_ratio": 0.0355,
+        "closest_train_file": "zhan_tai_feng_D.mid"
+      },
+      {
+        "file": "constrained_D_02.mid",
+        "n_notes": 511,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9057,
+          "interval_3gram": 0.6988,
+          "pitch_5gram": 0.3077,
+          "interval_5gram": 0.2411,
+          "pitch_8gram": 0.0278,
+          "interval_8gram": 0.0179,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.002
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.0176,
+        "closest_train_file": "bu_bu_gao_D.mid"
+      },
+      {
+        "file": "constrained_F_00.mid",
+        "n_notes": 270,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8172,
+          "interval_3gram": 0.8052,
+          "pitch_5gram": 0.3158,
+          "interval_5gram": 0.3434,
+          "pitch_8gram": 0.0152,
+          "interval_8gram": 0.0153,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0296,
+        "closest_train_file": "bai_jia_chun_han_gao_F.mid"
+      },
+      {
+        "file": "constrained_F_01.mid",
+        "n_notes": 482,
+        "ngram_coverage": {
+          "pitch_3gram": 0.4979,
+          "interval_3gram": 0.501,
+          "pitch_5gram": 0.0879,
+          "interval_5gram": 0.1216,
+          "pitch_8gram": 0.0021,
+          "interval_8gram": 0.0084,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0166,
+        "closest_train_file": "da_yan_F.mid"
+      },
+      {
+        "file": "constrained_F_02.mid",
+        "n_notes": 409,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8231,
+          "interval_3gram": 0.8177,
+          "pitch_5gram": 0.1975,
+          "interval_5gram": 0.2797,
+          "pitch_8gram": 0.0075,
+          "interval_8gram": 0.0075,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.022,
+        "closest_train_file": "bai_jia_chun_han_gao_F.mid"
+      },
+      {
+        "file": "constrained_G_00.mid",
+        "n_notes": 393,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9335,
+          "interval_3gram": 0.8462,
+          "pitch_5gram": 0.3856,
+          "interval_5gram": 0.3119,
+          "pitch_8gram": 0.0052,
+          "interval_8gram": 0.0104,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0204,
+        "closest_train_file": "chun_miao_G.mid"
+      },
+      {
+        "file": "constrained_G_01.mid",
+        "n_notes": 489,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7433,
+          "interval_3gram": 0.5103,
+          "pitch_5gram": 0.1361,
+          "interval_5gram": 0.1033,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0143,
+        "closest_train_file": "bai_jia_chun_han_gao_D.mid"
+      },
+      {
+        "file": "constrained_G_02.mid",
+        "n_notes": 506,
+        "ngram_coverage": {
+          "pitch_3gram": 0.6409,
+          "interval_3gram": 0.5984,
+          "pitch_5gram": 0.0857,
+          "interval_5gram": 0.1138,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.004,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0138,
+        "closest_train_file": "guzheng_train_021.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.2456,
+      "mean_max_lcs": 8.7,
+      "n_possible_memorization": 0
+    }
+  },
+  "unconstrained": {
+    "files": [
+      {
+        "file": "unconstrained_A_00.mid",
+        "n_notes": 504,
+        "ngram_coverage": {
+          "pitch_3gram": 0.5837,
+          "interval_3gram": 0.4311,
+          "pitch_5gram": 0.074,
+          "interval_5gram": 0.0681,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 6,
+        "lcs_ratio": 0.0119,
+        "closest_train_file": "dan_dian_tou_luan_cha_hua_D.mid"
+      },
+      {
+        "file": "unconstrained_A_01.mid",
+        "n_notes": 512,
+        "ngram_coverage": {
+          "pitch_3gram": 1.0,
+          "interval_3gram": 0.998,
+          "pitch_5gram": 0.998,
+          "interval_5gram": 0.998,
+          "pitch_8gram": 0.998,
+          "interval_8gram": 0.998,
+          "pitch_12gram": 0.984,
+          "interval_12gram": 0.984
+        },
+        "max_lcs_length": 17,
+        "lcs_ratio": 0.0332,
+        "closest_train_file": "cai_yun_zhui_yue_D.mid"
+      },
+      {
+        "file": "unconstrained_A_02.mid",
+        "n_notes": 449,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7271,
+          "interval_3gram": 0.3655,
+          "pitch_5gram": 0.0539,
+          "interval_5gram": 0.0203,
+          "pitch_8gram": 0.0023,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0178,
+        "closest_train_file": "chun_miao_A.mid"
+      },
+      {
+        "file": "unconstrained_C_00.mid",
+        "n_notes": 475,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8097,
+          "interval_3gram": 0.7691,
+          "pitch_5gram": 0.1826,
+          "interval_5gram": 0.1957,
+          "pitch_8gram": 0.0107,
+          "interval_8gram": 0.0128,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.0189,
+        "closest_train_file": "cai_yun_zhui_yue_D.mid"
+      },
+      {
+        "file": "unconstrained_C_01.mid",
+        "n_notes": 501,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7074,
+          "interval_3gram": 0.6647,
+          "pitch_5gram": 0.1187,
+          "interval_5gram": 0.1069,
+          "pitch_8gram": 0.004,
+          "interval_8gram": 0.002,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.018,
+        "closest_train_file": "ya_shan_ai_C.mid"
+      },
+      {
+        "file": "unconstrained_C_02.mid",
+        "n_notes": 511,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7544,
+          "interval_3gram": 0.561,
+          "pitch_5gram": 0.1183,
+          "interval_5gram": 0.0613,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 6,
+        "lcs_ratio": 0.0117,
+        "closest_train_file": "ba_yue_gui_hua_bian_di_kai_C.mid"
+      },
+      {
+        "file": "unconstrained_D_00.mid",
+        "n_notes": 395,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8779,
+          "interval_3gram": 0.6276,
+          "pitch_5gram": 0.2046,
+          "interval_5gram": 0.1,
+          "pitch_8gram": 0.0026,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0203,
+        "closest_train_file": "chun_dao_la_sa_D.mid"
+      },
+      {
+        "file": "unconstrained_D_01.mid",
+        "n_notes": 507,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9624,
+          "interval_3gram": 0.9226,
+          "pitch_5gram": 0.6879,
+          "interval_5gram": 0.6474,
+          "pitch_8gram": 0.288,
+          "interval_8gram": 0.2886,
+          "pitch_12gram": 0.0988,
+          "interval_12gram": 0.0949
+        },
+        "max_lcs_length": 14,
+        "lcs_ratio": 0.0276,
+        "closest_train_file": "cai_yun_zhui_yue_D.mid"
+      },
+      {
+        "file": "unconstrained_D_02.mid",
+        "n_notes": 322,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8656,
+          "interval_3gram": 0.6176,
+          "pitch_5gram": 0.2484,
+          "interval_5gram": 0.1167,
+          "pitch_8gram": 0.0063,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0248,
+        "closest_train_file": "guzheng_train_009.mid"
+      },
+      {
+        "file": "unconstrained_F_00.mid",
+        "n_notes": 444,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7557,
+          "interval_3gram": 0.7392,
+          "pitch_5gram": 0.1886,
+          "interval_5gram": 0.2232,
+          "pitch_8gram": 0.0137,
+          "interval_8gram": 0.0115,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 9,
+        "lcs_ratio": 0.0203,
+        "closest_train_file": "bai_jia_chun_han_gao_F.mid"
+      },
+      {
+        "file": "unconstrained_F_01.mid",
+        "n_notes": 512,
+        "ngram_coverage": {
+          "pitch_3gram": 0.6627,
+          "interval_3gram": 0.7957,
+          "pitch_5gram": 0.128,
+          "interval_5gram": 0.2781,
+          "pitch_8gram": 0.0079,
+          "interval_8gram": 0.0298,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.004
+        },
+        "max_lcs_length": 10,
+        "lcs_ratio": 0.0195,
+        "closest_train_file": "da_yan_F.mid"
+      },
+      {
+        "file": "unconstrained_F_02.mid",
+        "n_notes": 413,
+        "ngram_coverage": {
+          "pitch_3gram": 0.6204,
+          "interval_3gram": 0.7122,
+          "pitch_5gram": 0.1443,
+          "interval_5gram": 0.1814,
+          "pitch_8gram": 0.0025,
+          "interval_8gram": 0.0025,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0194,
+        "closest_train_file": "bai_jia_chun_han_gao_F.mid"
+      },
+      {
+        "file": "unconstrained_G_00.mid",
+        "n_notes": 506,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8611,
+          "interval_3gram": 0.672,
+          "pitch_5gram": 0.1633,
+          "interval_5gram": 0.1457,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.008,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 7,
+        "lcs_ratio": 0.0138,
+        "closest_train_file": "chun_miao_C.mid"
+      },
+      {
+        "file": "unconstrained_G_01.mid",
+        "n_notes": 504,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8088,
+          "interval_3gram": 0.5549,
+          "pitch_5gram": 0.144,
+          "interval_5gram": 0.1062,
+          "pitch_8gram": 0.002,
+          "interval_8gram": 0.0101,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "max_lcs_length": 8,
+        "lcs_ratio": 0.0159,
+        "closest_train_file": "zai_bei_jing_de_jin_shan_shang_F.mid"
+      },
+      {
+        "file": "unconstrained_G_02.mid",
+        "n_notes": 512,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9941,
+          "interval_3gram": 0.9902,
+          "pitch_5gram": 0.9646,
+          "interval_5gram": 0.9625,
+          "pitch_8gram": 0.9386,
+          "interval_8gram": 0.9345,
+          "pitch_12gram": 0.8024,
+          "interval_12gram": 0.812
+        },
+        "max_lcs_length": 21,
+        "lcs_ratio": 0.041,
+        "closest_train_file": "chun_miao_D.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.2946,
+      "mean_max_lcs": 9.9,
+      "n_possible_memorization": 2
+    }
+  },
+  "test_reference": {
+    "mean_pitch_5gram_coverage": 0.4984
+  }
+}

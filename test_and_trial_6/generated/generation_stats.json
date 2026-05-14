@@ -1,0 +1,602 @@
+[
+  {
+    "file": "constrained_A_00.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 102.2,
+    "pitch_range": [
+      40,
+      66
+    ]
+  },
+  {
+    "file": "constrained_A_01.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 53.2,
+    "pitch_range": [
+      42,
+      69
+    ]
+  },
+  {
+    "file": "constrained_A_02.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 35.3,
+    "pitch_range": [
+      47,
+      78
+    ]
+  },
+  {
+    "file": "constrained_A_03.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 35.8,
+    "pitch_range": [
+      54,
+      76
+    ]
+  },
+  {
+    "file": "constrained_A_04.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 33.2,
+    "pitch_range": [
+      54,
+      73
+    ]
+  },
+  {
+    "file": "constrained_C_00.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 32.3,
+    "pitch_range": [
+      55,
+      79
+    ]
+  },
+  {
+    "file": "constrained_C_01.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.1,
+    "pitch_range": [
+      43,
+      69
+    ]
+  },
+  {
+    "file": "constrained_C_02.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.3,
+    "pitch_range": [
+      43,
+      69
+    ]
+  },
+  {
+    "file": "constrained_C_03.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 33.8,
+    "pitch_range": [
+      43,
+      69
+    ]
+  },
+  {
+    "file": "constrained_C_04.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.6,
+    "pitch_range": [
+      43,
+      74
+    ]
+  },
+  {
+    "file": "constrained_D_00.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.5,
+    "pitch_range": [
+      50,
+      76
+    ]
+  },
+  {
+    "file": "constrained_D_01.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.3,
+    "pitch_range": [
+      50,
+      76
+    ]
+  },
+  {
+    "file": "constrained_D_02.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.1,
+    "pitch_range": [
+      45,
+      71
+    ]
+  },
+  {
+    "file": "constrained_D_03.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 33.8,
+    "pitch_range": [
+      45,
+      74
+    ]
+  },
+  {
+    "file": "constrained_D_04.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.0,
+    "pitch_range": [
+      47,
+      73
+    ]
+  },
+  {
+    "file": "constrained_F_00.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 33.7,
+    "pitch_range": [
+      55,
+      84
+    ]
+  },
+  {
+    "file": "constrained_F_01.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 33.3,
+    "pitch_range": [
+      48,
+      77
+    ]
+  },
+  {
+    "file": "constrained_F_02.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.0,
+    "pitch_range": [
+      52,
+      76
+    ]
+  },
+  {
+    "file": "constrained_F_03.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.3,
+    "pitch_range": [
+      50,
+      84
+    ]
+  },
+  {
+    "file": "constrained_F_04.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.2,
+    "pitch_range": [
+      45,
+      76
+    ]
+  },
+  {
+    "file": "constrained_G_00.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.2,
+    "pitch_range": [
+      50,
+      62
+    ]
+  },
+  {
+    "file": "constrained_G_01.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.2,
+    "pitch_range": [
+      43,
+      74
+    ]
+  },
+  {
+    "file": "constrained_G_02.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.0,
+    "pitch_range": [
+      43,
+      71
+    ]
+  },
+  {
+    "file": "constrained_G_03.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 34.8,
+    "pitch_range": [
+      50,
+      76
+    ]
+  },
+  {
+    "file": "constrained_G_04.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": true,
+    "elapsed": 35.5,
+    "pitch_range": [
+      38,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_A_00.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.4,
+    "pitch_range": [
+      40,
+      66
+    ]
+  },
+  {
+    "file": "unconstrained_A_01.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.3,
+    "pitch_range": [
+      40,
+      66
+    ]
+  },
+  {
+    "file": "unconstrained_A_02.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.7,
+    "pitch_range": [
+      45,
+      76
+    ]
+  },
+  {
+    "file": "unconstrained_A_03.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.7,
+    "pitch_range": [
+      52,
+      81
+    ]
+  },
+  {
+    "file": "unconstrained_A_04.mid",
+    "scale": "A",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.8,
+    "pitch_range": [
+      40,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_C_00.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 33.9,
+    "pitch_range": [
+      45,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_C_01.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 33.3,
+    "pitch_range": [
+      43,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_C_02.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.8,
+    "pitch_range": [
+      57,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_C_03.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.3,
+    "pitch_range": [
+      43,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_C_04.mid",
+    "scale": "C",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.2,
+    "pitch_range": [
+      38,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_D_00.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.5,
+    "pitch_range": [
+      47,
+      71
+    ]
+  },
+  {
+    "file": "unconstrained_D_01.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 36.3,
+    "pitch_range": [
+      50,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_D_02.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 35.7,
+    "pitch_range": [
+      52,
+      66
+    ]
+  },
+  {
+    "file": "unconstrained_D_03.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.5,
+    "pitch_range": [
+      45,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_D_04.mid",
+    "scale": "D",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.1,
+    "pitch_range": [
+      47,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_F_00.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.9,
+    "pitch_range": [
+      48,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_F_01.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 37.1,
+    "pitch_range": [
+      52,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_F_02.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.6,
+    "pitch_range": [
+      55,
+      69
+    ]
+  },
+  {
+    "file": "unconstrained_F_03.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.6,
+    "pitch_range": [
+      45,
+      77
+    ]
+  },
+  {
+    "file": "unconstrained_F_04.mid",
+    "scale": "F",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 33.6,
+    "pitch_range": [
+      43,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_G_00.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 36.5,
+    "pitch_range": [
+      55,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_G_01.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.3,
+    "pitch_range": [
+      45,
+      71
+    ]
+  },
+  {
+    "file": "unconstrained_G_02.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 34.0,
+    "pitch_range": [
+      40,
+      71
+    ]
+  },
+  {
+    "file": "unconstrained_G_03.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 33.9,
+    "pitch_range": [
+      43,
+      74
+    ]
+  },
+  {
+    "file": "unconstrained_G_04.mid",
+    "scale": "G",
+    "n_notes": 512,
+    "n_tokens": 2049,
+    "constrained": false,
+    "elapsed": 33.8,
+    "pitch_range": [
+      45,
+      74
+    ]
+  }
+]

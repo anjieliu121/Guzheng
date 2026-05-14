@@ -1,0 +1,47 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [cc']4|
+[Aa]4 [Gg]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4|
+[E,E]4 [G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4|
+[Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]8|
+[C,C]4 [D,D]4 [E,E]4 [G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4|
+[Gg]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4|
+[C,C]4 [E,E]4 [G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4|
+[Aa]4 [Gg]4 [Ee]4 [Dd]4 [Cc]16|
+[Cc]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4 [Dd]4|
+[Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]4 [A,,A,]8|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4 [Dd]4 [Cc]4|
+[A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]16|
+[Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4|
+[G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]4 [E,E]4 [D,D]4 [C,C]4 [C,C]4 [D,D]4 [E,E]4 [G,G]4|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [Gg]4 [Ee]4|
+[Cc]8 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4|
+[Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]8|
+[Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4|
+[G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]4 [E,E]4 [D,D]4 [C,C]4 [C,C]4 [D,D]4 [E,E]4 [G,G]4|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [Gg]4 [Ee]4|
+[Cc]8 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4|
+[Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]8|
+[Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4|
+[G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]4 [E,E]4 [D,D]4 [C,C]4 [C,C]4 [D,D]4 [E,E]4 [G,G]4|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [Gg]4 [Ee]4|
+[Cc]8 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4|
+[Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]8|
+[Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4|
+[G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]4 [E,E]4 [D,D]4 [C,C]4 [C,C]4 [D,D]4 [E,E]4 [G,G]4|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [Gg]4 [Ee]4|
+[Cc]8 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Ee]4|
+[Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4 [D,D]4 [C,C]8|
+[Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4 [G,G]4 [E,E]4|
+[G,G]4 [A,A]4 [Cc]4 [Dd]4 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]4 [E,E]4 [D,D]4 [C,C]4 [C,C]4 [D,D]4 [E,E]4 [G,G]4|
+[A,A]4 [Cc]4 [Dd]4 [Ee]4 [Gg]4 [Aa]4 [Gg]4 [Ee]4|

@@ -1,0 +1,45 @@
+L:1/32
+M:4/4
+K:F#
+V:1 treble nm="Guzheng"
+[V:1][G,,D]4 D4 G,4- [G,E]4 ^B,- [B,-D-] [B,DG]2 A4 ^B4 d4|
+[V:1][C,-e] [C,-e] [C,-e] [C,e] [G,-e] [G,-e] [G,-e] [G,e] [D-e] [D-e] [D-e] [De] [E-e] [E-e] [E-e] [Ee] [G-e] [G-e] [G-e] [G-e] [G-e] [G-e] [G-e] [Ge] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [Ee]|
+[V:1][G,-^B,-e]4 [G,-B,-g]8 [G,B,e]4 [G,,-D,-d]4 [G,,D,^B]4 [G,,D,d]8|
+[V:1][E,-^B,-e]4 [E,-B,-g]8 [E,B,e]4 [G,,-D,-d]4 [G,,D,^B]4 [G,,D,d]8|
+[V:1][C,e]4 [G,g-]4 [Eg]4 [G-e]4 [G-d]4 [G-^B]4 [G-d]4 [Ge]4|
+[V:1][G,,-^B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [G,-B] [G,-B] [G,-B] [G,B] [A,-B] [A,-B] [A,-B] [A,B] [^B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,B]|
+[V:1][G,,-^B,,-G,-^B]4 [G,,-B,,-G,-d]8 [G,,B,,G,B]4 [D,-A,-A]4 [D,A,G]4 [D,A,A]8|
+[V:1][G,,-D,-G,-^B]4 [G,,-D,-G,-d]8 [G,,D,G,B]4 [D,-A,-A]4 [D,A,G]4 [D,A,A]8|
+[V:1][G,^B]4 [^B,d-]4 [Dd]4 [G-B]4 [GA]4 G4 D4 E4|
+[V:1][G,,-G] [G,,-G] [G,,-G] [G,,G] [D,-G] [D,-G] [D,-G] [D,G] [G,-G] [G,-G] [G,-G] [G,G] [A,-G] [A,-G] [A,-G] [A,G] [^B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,G]|
+[V:1][G,-G]4 [G,-A]8 [G,-^B]4 [G,-e]4 [G,-d]4 [G,B]8|
+[V:1][C,e]4 [G,g-]4 [Dg]4 [Ed]4 [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [Ee]|
+[V:1][D,-A,-D-g]4 [D,-A,-D-d]8 [D,-A,-D-A-] [D,-A,-D-A-d-] [D,-A,-D-Ad^^f]2 [D,-A,-D-e]8 [D,A,Dd]8|
+[V:1][G,,-^B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [G,-B] [G,-B] [G,-B] [G,B] [A,-B] [A,-B] [A,-B] [A,B] [^B,-B] [B,-B] [B,-B] [B,B] [A,-B] [A,-B] [A,-B] [A,B] [B,-B] [B,-B] [B,-B] [B,B] [A,-B] [A,-B] [A,-B] [A,B]|
+[V:1][A,,A]4 [E,^B]4 [A,d]4 [E,A]4 [G,,-B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [^B,-B] [B,-B] [B,-B] [B,-B] [B,d]4|
+[V:1]d4 ^B8 A2 G2 E E E E E E E E [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,E,E]|
+[V:1][D,-A,-D-d]4 [D,-A,-D-e]4 [D,-A,-D-d]4 [D,A,D^B]4 [C,-E-] [C,-E-G-] [C,-EGB]4 [C,-d]2 [C,-A]4 [C,B]4|
+[V:1][G,-G] [G,-G] [G,-G] [G,G] [D-G] [D-G] [D-G] [DG] [G^B-] [GB-] [GB-] [GB] [Gd-] [Gd-] [Gd-] [Gd] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg]|
+[V:1][G,,D]4 D4 G,4- [G,E]4 ^B,- [B,-D-] [B,DG]2 A4 ^B4 d4|
+[V:1][C,-e] [C,-e] [C,-e] [C,e] [G,-e] [G,-e] [G,-e] [G,e] [D-e] [D-e] [D-e] [De] [E-e] [E-e] [E-e] [Ee] [G-e] [G-e] [G-e] [G-e] [G-e] [G-e] [G-e] [Ge] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [Ee]|
+[V:1][G,-^B,-e]4 [G,-B,-g]8 [G,B,e]4 [G,,-D,-d]4 [G,,D,^B]4 [G,,D,d]8|
+[V:1][E,-^B,-e]4 [E,-B,-g]8 [E,B,e]4 [G,,-D,-d]4 [G,,D,^B]4 [G,,D,d]8|
+[V:1][C,e]4 [G,g-]4 [Eg]4 [G-e]4 [G-d]4 [G-^B]4 [G-d]4 [Ge]4|
+[V:1][G,,-^B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [G,-B] [G,-B] [G,-B] [G,B] [A,-B] [A,-B] [A,-B] [A,B] [^B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,-B] [B,B]|
+[V:1][G,,-^B,,-G,-^B]4 [G,,-B,,-G,-d]8 [G,,B,,G,B]4 [D,-A,-A]4 [D,A,G]4 [D,A,A]8|
+[V:1][G,,-D,-G,-^B]4 [G,,-D,-G,-d]8 [G,,D,G,B]4 [D,-A,-A]4 [D,A,G]4 [D,A,A]8|
+[V:1][G,^B]4 [^B,d-]4 [Dd]4 [G-B]4 [GA]4 G4 D4 E4|
+[V:1][G,,-G] [G,,-G] [G,,-G] [G,,G] [D,-G] [D,-G] [D,-G] [D,G] [G,-G] [G,-G] [G,-G] [G,G] [A,-G] [A,-G] [A,-G] [A,G] [^B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,-G] [G,G]|
+[V:1][G,-G]4 [G,-A]8 [G,-^B]4 [G,-e]4 [G,-d]4 [G,B]8|
+[V:1][C,e]4 [G,g-]4 [Dg]4 [Ed]4 [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,-e] [G,,e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [E-e] [Ee]|
+[V:1][D,-A,-D-g]4 [D,-A,-D-d]8 [D,-A,-D-A-] [D,-A,-D-A-d-] [D,-A,-D-Ad^^f]2 [D,-A,-D-e]8 [D,A,Dd]8|
+[V:1][G,,-^B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [G,-B] [G,-B] [G,-B] [G,B] [A,-B] [A,-B] [A,-B] [A,B] [^B,-B] [B,-B] [B,-B] [B,B] [A,-B] [A,-B] [A,-B] [A,B] [B,-B] [B,-B] [B,-B] [B,B] [A,-B] [A,-B] [A,-B] [A,B]|
+[V:1][A,,A]4 [E,^B]4 [A,d]4 [E,A]4 [G,,-B] [G,,-B] [G,,-B] [G,,B] [D,-B] [D,-B] [D,-B] [D,B] [^B,-B] [B,-B] [B,-B] [B,-B] [B,d]4|
+[V:1]d4 ^B8 A2 G2 E E E E E E E E [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,-E,-E] [A,,E,E]|
+[V:1][D,-A,-D-d]4 [D,-A,-D-e]4 [D,-A,-D-d]4 [D,A,D^B]4 [C,-E-] [C,-E-G-] [C,-EGB]4 [C,-d]2 [C,-A]4 [C,B]4|
+[V:1][G,-G] [G,-G] [G,-G] [G,G] [D-G] [D-G] [D-G] [DG] [G^B-] [GB-] [GB-] [GB] [Gd-] [Gd-] [Gd-] [Gd] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg-] [Gg]|
+[V:1][D,-d]4 [D,-e]4 [D,-d]4 [D,^B]4 [G,,-B]6 [G,,-d]2 [G,,-A]4 [G,,B]4|
+[V:1][G,,-G] [G,,-G] [G,,-G] [G,,G] [D,-G] [D,-G] [D,-G] [D,G] [G,-G] [G,-G] [G,-G] [G,G] [A,-G] [A,-G] [A,-G] [A,G] [^B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,-G] [B,G] [D-G] [D-G] [D-G] [D-G] [D-G] [D-G] [D-G] [DG]|
+[V:1][G,d']4 [De']4 [Gd']4 [^B^b]4 [Db-]4 [A,-b]2 [A,d']2 [da]4 [eb]4|
+[V:1][G-g] [G-g] [G-g] [Gg] [d-g] [d-g] [d-g] [dg] g g g g [ga-] [ga-] [ga-] [ga] [g^b-] [gb-] [gb-] [gb] g g g g [gb-] [gb-] [gb-] [gb] g g g g|
+[V:1][G-g] [G-g] [G-g] [Gg] [d-g] [d-g] [d-g] [dg] g g g g [ga-] [ga-] [ga-] [ga] [g^b-] [gb-] [gb-] [gb] [gd'-] [gd'-] [gd'-] [gd'] [gg'-] [gg'-] [gg'-] [gg'-] [gg'-] [gg'-] [gg'-] [gg']|

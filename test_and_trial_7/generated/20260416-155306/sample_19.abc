@@ -1,0 +1,48 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+[G,,G,]12 A,2 C2 D2 [D,D]6 E2 G2 D4 [C,C]4|
+A,2 C2 A,2 G,2 [G,,G,]16 C,2 C2 C2 [D,-D-]6|
+[D,D]4 D,4 [E,E]4 G,2 E,2 D,4 C,4 D,4 C,,4-|
+C,,6 C,4 D,4 E,4 G,4 A,4 G,4 A,4|
+C4 D4 D,8 D8 D,4 D4 E,4|
+G,4 E,4 D,8 C,8 C,,8-|
+C,,12 [D,D]4 E4 G4 A4 [G,-G-]4|
+[G,G]4 E4 D,4 D4 D,4 D4 D,4 D4 D,4|
+E4 G4 D4 E4 G4 D4 E4 G,8|
+A,4 C4 D,8 D8 A,8|
+G,4 A,4 D,4 D4 A,4 C4 G,8|
+A,4 C4 D,8 D8 A,4 G,4|
+A,4 D,4 D4 A,4 C4 G,4 A,4 C4 C,4-|
+C,4 C4 C4 D4 E4 G4 A4 G4 A4|
+c4 d4 D8 d8 D4 d4|
+E4 G4 E4 D4 C8 C,4 C4|
+A,4 C4 G,4 A,4 C4 G,4 A,4 C,8|
+G,4 A,4 C,8 C8 A,4 G,4|
+A,4 C,4 C4 G,4 A,4 C4 G,4 A,4 A,,4-|
+A,,4 A,4 A,4 C4 D4 E4 G4 E4 G4|
+A4 c4 D8 d8 D4 d4|
+E4 G4 E4 D4 C8 C,4 C4|
+A,4 C4 G,4 A,4 C4 G,4 A,4 C,8|
+G,4 A,4 C,8 C8 G,8|
+A,4 C4 D,4 D4 A,4 C4 G,8|
+A,4 C4 D,8 D8 A,8|
+G,4 A,4 D,4 D4 A,4 C4 G,4 A,4 A,,4-|
+A,,4 A,8 A,8 A,8 D,4-|
+D,4 D8 E8 G8 D8-|
+D4 E4 D4 C4 A,4 C4 A,4 G,8-|
+G,8 E,16 E16|
+D8 C4 D4 C4 A,4 C4 A,4 G,4-|
+G,4 D4 D,4 D4 G,4 D4 D,4 D4 E4-|
+E4 D4 C4 A,4 G,4 C,8 C8|
+[D,D]8 [E,E]8 [D,D]12 E4|
+D4 C4 A,4 C4 A,4 G,8 E,4 E4|
+D,4 D4 E,4 E4 G,4 G4 A,4 G8-|
+G4 E4 D4 C4 A,4 G,4 A,4 G,4 G4|
+E,4 E4 D,4 D4 E,4 E4 D,4 D8-|
+D4 D,4 E,4 G,4 A,4 E,4 G,4 G,,8-|
+G,,8 z24|

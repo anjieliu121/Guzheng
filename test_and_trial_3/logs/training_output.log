@@ -1,0 +1,47 @@
+Device: mps
+
+Loading training data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_2/data/train
+  441 sequences, 1051027 total tokens
+Loading validation data from: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_2/data/val
+  20 sequences, 57328 total tokens
+Train chunks: 3901
+Val chunks: 217
+
+Model parameters: 3,884,288
+Vocab size: 769
+
+Training for up to 200 epochs
+Early stopping patience: 30
+Label smoothing: 0.1
+Weight decay: 0.05
+Dropout: 0.15
+Batches/epoch: 243
+
+Epoch   0 | train=4.8181 | val=2.9292 | ppl=18.7 | lr=3.00e-04 | 61.1s
+  -> best model saved (val_loss=2.9292)
+Epoch   1 | train=3.2240 | val=2.7184 | ppl=15.2 | lr=3.00e-04 | 58.7s
+Epoch   2 | train=3.0787 | val=2.6542 | ppl=14.2 | lr=3.00e-04 | 57.6s
+Epoch   3 | train=3.0179 | val=2.6174 | ppl=13.7 | lr=3.00e-04 | 57.6s
+Epoch   4 | train=2.9735 | val=2.5861 | ppl=13.3 | lr=3.00e-04 | 57.6s
+Epoch   5 | train=2.9358 | val=2.5567 | ppl=12.9 | lr=3.00e-04 | 57.9s
+  -> best model saved (val_loss=2.5567)
+Epoch   6 | train=2.8956 | val=2.5052 | ppl=12.2 | lr=2.99e-04 | 57.5s
+Epoch   7 | train=2.8475 | val=2.4496 | ppl=11.6 | lr=2.99e-04 | 57.5s
+Epoch   8 | train=2.7996 | val=2.4110 | ppl=11.1 | lr=2.99e-04 | 57.8s
+Epoch   9 | train=2.7615 | val=2.3940 | ppl=11.0 | lr=2.98e-04 | 57.6s
+Epoch  10 | train=2.7321 | val=2.3859 | ppl=10.9 | lr=2.98e-04 | 57.7s
+  -> best model saved (val_loss=2.3859)
+Epoch  13 | train=2.6587 | val=2.3767 | ppl=10.8 | lr=2.97e-04 | 57.9s
+Epoch  15 | train=2.6210 | val=2.3958 | ppl=11.0 | lr=2.96e-04 | 58.1s
+Epoch  20 | train=2.5450 | val=2.4195 | ppl=11.2 | lr=2.92e-04 | 56.5s
+Epoch  25 | train=2.4853 | val=2.4255 | ppl=11.3 | lr=2.88e-04 | 56.2s
+Epoch  30 | train=2.4368 | val=2.4512 | ppl=11.6 | lr=2.83e-04 | 56.0s
+Epoch  35 | train=2.3978 | val=2.4677 | ppl=11.8 | lr=2.77e-04 | 55.6s
+Epoch  40 | train=2.3648 | val=2.4837 | ppl=12.0 | lr=2.71e-04 | 55.7s
+
+Early stopping at epoch 43 (patience=30)
+
+Training complete at epoch 43.
+Best val loss: 2.3767
+History saved to: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_2/logs/training_history.json
+Best model: checkpoints/best_model.pt

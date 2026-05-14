@@ -1,0 +1,85 @@
+L:1/32
+M:4/4
+K:G
+V:1 treble nm="Guzheng"
+[V:1]z8 B,4 D4 A,4 B,2 D2 [A,,-A,-]8|
+[V:1][A,,A,]8 F,4 D,4 E,4 F,4 E,4 D,4|
+[V:1]C,8 B,,8 F,4 A,4 [D,,-D,-]8|
+[V:1][D,,D,]8 D4 E2 D2 C4 B,4 A,4 C4|
+[V:1][D,D]8 C2 D2 B,2 B, D A,4 B,4 [D,-D-]8|
+[V:1][D,D]8 [B,,B,]8 [E,,E,]8 C,2 C2 C2 C2|
+[V:1]B,4 B,2 A,2 G,,4 G,4 D,2 G,2 D,2 E,2 G,,4 G,4|
+[V:1]E,2 G,2 E,2 G,2 A,,4 A,2 B,2 G,2 A,2 G,2 B,2 A,,4 A,4|
+[V:1]F,2 A,2 E,4 G,,4 G,4 E,2 G,2 A,2 B,2 [G,,-G,-]8|
+[V:1][G,,G,]8 [A,,A,]8 [D,D]8 [A,,A,]8|
+[V:1][D,,D,]4 A,,2 A,2 F,4 A,,2 A,2 D,4 A,,2 A,2 F,4 A,,2 A,2|
+[V:1]E,4 F,4 E,4 D,4 C,8 B,,8|
+[V:1]F,4 A,4 E,16 [A,,A,]8|
+[V:1]A,8 E,2 E2 E2 B,2 [D,D]4 E2 F2 [D,D]8|
+[V:1]z8 B,4 D4 A,4 B,2 D2 [A,,-A,-]8|
+[V:1][A,,A,]8 F,4 D,4 E,4 F,4 E,4 D,4|
+[V:1]C,8 B,,8 F,4 A,4 [D,,-D,-]8|
+[V:1][D,,D,]8 D4 E2 D2 C4 B,4 A,4 C4|
+[V:1][D,D]8 C2 D2 B,2 B, D A,4 B,4 [D,-D-]8|
+[V:1][D,D]8 [B,,B,]8 [E,,E,]8 C,2 C2 C2 C2|
+[V:1]B,4 B,2 A,2 G,,4 G,4 D,2 G,2 D,2 E,2 G,,4 G,4|
+[V:1]E,2 G,2 E,2 G,2 A,,4 A,2 B,2 G,2 A,2 G,2 B,2 A,,4 A,4|
+[V:1]F,2 A,2 E,4 G,,4 G,4 E,2 G,2 A,2 B,2 [G,,-G,-]8|
+[V:1][G,,G,]8 [A,,A,]8 [D,D]8 [A,,A,]8|
+[V:1][D,,D,]4 A,,2 A,2 F,4 A,,2 A,2 D,4 A,,2 A,2 F,4 A,,2 A,2|
+[V:1]E,4 F,4 E,4 D,4 C,8 B,,8|
+[V:1]F,4 A,4 E,16 [A,,A,]8|
+[V:1]A,8 E,2 E2 E2 B,2 [D,D]4 E2 F2 [D,D]8|
+[V:1]z3 [B,,B,]2 z3 [E,E]3 [D,D]3 E, E D2 E D2 B, [A,,A,]3 B,, B, A,2 B, A,2|
+[V:1]G, E,3 B,, B, [E,-D] E, B,, E, G,2 [A,,A,]3 G, A, B,3 [A,,A,]6 E,5 [G,,-G,-]|
+[V:1][G,,G,]2 [A,,A,]5 G,3 A,3 [B,,B,]2 D6 G,3 [A,,A,]5 G,3|
+[V:1]A, B,2 E,2 A,3 G,,3 G,5 F,6 E,3 D,,2 D,3 z2|
+[V:1]z [B,,B,]2 z3 [E,E]3 [D,D]3 E, E D3 B,3 [A,,A,]5 F,2 F F2 F F,|
+[V:1]F2 F F F,2 F F F2 F, F2 F F F,2 F F F2 F, F2 F F E,2 E E E2|
+[V:1]E, E E2 E E,2 E E E2 E, E E2 E E,2 E E E2 E, E E2 E E2 F E D-|
+[V:1]D E F E2 D E F2 E D2 E F E2 D E, E2 E, E2 E, E E,2 E E, E2 E,|
+[V:1]E E,2 E E,2 E E, E2 E, E E,2 E E,2 E E, E2 E, E E,2 E E,2 E E,3|
+[V:1]E F E,3 E F2 E,3 E F E,3 E F2 E,3 E F E,3 E F2 E,2|
+[V:1]E2 F E,3 E F2 [D,D]2 [B,,B,]3 [E,E]3 [D,D]3 z2 [B,,B,]2 z2 [E,E]3 [D,D]2 E,|
+[V:1]E [D,D]2 [B,,B,]3 [A,,A,]2 B,, B, [A,,A,]2 [G,,G,]3 [E,,E,]2 B,, B, [E,,E,]2 G,3 [A,,A,]2 G, A, [B,,B,]2 [A,,-A,-]2|
+[V:1][A,,A,] z2 [E,,E,]2 z2 [G,,G,]3 [A,,A,]4 [G,,G,]2 A,3 [B,,B,]2 D2 z2 G,3 [A,,A,]4|
+[V:1][G,,G,]2 A,2 B, E,2 A,2 E,2 G,3 z2 F,2 z2 E,3 D,,2 D,2 z2 [B,,B,]3|
+[V:1]z2 [E,E]2 [D,D]2 E,2 E D2 B,2 [A,,A,]2 B,,2 B, A,2 G,2 E,2 B,,2 B, E,2 B,, B, E,-|
+[V:1]E, B,,2 B, E,2 B,, B, [E,,E,]5 B,,2 B,2 [E,,E,]5 B,,2 B,2 [E,,E,]5 B,,-|
+[V:1]B,, B,2 E,2 B,2 D E,2 B, D E,2 B,2 D E,2 B, D E,2 B,2 D E,2 B, D E,2|
+[V:1]B,2 D E,2 B, D E, B, E,2 B, E, B, E, B, E, B, E,2 B, E, B, E, B, E, B, E,2 B, E, B,|
+[V:1]E, B, E, B, E,2 B, E, B, E, B, A,, A, A,,2 A, A,, A, A,, A, A,, A, A,,2 A, A,, A, A,, A, A,, A, A,,-|
+[V:1]A,, A, A,, A, A,, A, A,, A, A,,2 A, A,, A, A,, A, A,,2 A,2 B, A,,2 A, B, A,,2 A,2 B, A,,2 A,|
+[V:1]B, A,,2 A,2 B, A,,2 A, B, A,,2 A,2 B, A,,2 A, B, E,2 A,,2 A, F,2 A,, A, E,2 A,,2|
+[V:1]A, F,2 A,, A, E,2 A,,2 A, F,2 A,, A, E,2 A,,2 A, F,2 A,, A, E,2 A,,2 A, F,2 A,, A,|
+[V:1]E,2 A,,2 A, F,2 A,, A, E,2 A,,2 A, F,2 A,, A, E,2 A,,2 A, F,2 A,, A, E, E E,2 E|
+[V:1]E, E E, E E, E E,2 E E, E E, E E,2 E2 F E,2 E F E,2 E2 F E,2 E F E,-|
+[V:1]E, E2 F E,2 E F E,2 E2 F E,2 E F z2 F3 E,2 E2 z2 F,3 E,,-|
+[V:1]E,, E,2 z2 F3 E,2 E2 z2 F,3 E,,2 E,2 z2 F3 [E,E]2 [D,D]2 [E,-E-]2|
+[V:1][E,E]3 z2 F2 [E,,E,]2 [D,,D,]3 [E,,E,]4 z2 F3 [E,E]2 [D,D]2 [E,E]5 z2|
+[V:1]F2 [E,,E,]2 [D,,D,]3 [E,,E,]2 F,2 [E,,E,]2 [D,,D,]3 [E,,E,]2 F,2 [E,,E,]2 [D,,D,]3 [E,,E,]2 F,2 [E,,E,]2 [D,,-D,-]|
+[V:1][D,,D,]2 [E,,E,]2 F,2 [E,,E,]2 [D,,D,]3 [E,,E,]2 F,2 [E,,E,]2 [D,,D,]3 [E,,E,]2 F,2 E,, E, E,2 E, E,, E, E,|
+[V:1]E, E,, E, E,2 E, E,, E, E, E, E,, E, E,2 E, E,, E, E, E, E,, E, E,2 E, E,, E, E, E, E,,2 E,2|
+[V:1]F, E,,2 E, F, E,,2 E,2 F, E,,2 E, F, E,,2 E,2 F, E,,2 E, F, E,,2 E,2 F, E,,2 E, F,|
+[V:1][D,D]2 [B,,B,]3 [E,E]2 [D,D]2 z2 [B,,B,]2 z2 [E,E]2 [D,D]2 E, E [D,D]2 [B,,B,]2 [A,,A,]2 B,, B, [A,,A,]2 [G,,-G,-]|
+[V:1][G,,G,] E,2 B,, B, E,2 G,2 [A,,A,]2 G, A, [B,,B,]2 [A,,A,]2 z2 [E,,E,]2 z2 [G,,G,]2 [A,,A,]4 [G,,G,]2 A,-|
+[V:1]A, B,,2 D,2 z2 G,,2 A,,4 G,2 A,2 E,2 A,2 G,,2 G,2 z2 F,2 z2 E,-|
+[V:1]E, D,,2 D,2 z2 [B,,B,]2 z2 [E,E]2 [D,D]2 E, E D2 B,2 [A,,A,]4 F, F F F F, F F|
+[V:1]F F, F F F F, F F F E, E E E E, E E E E, E E E E, E E E E F E D E F E|
+[V:1]D E F E D E F E D E, E E, E E, E E, E E, E E, E E, E E, E E,2 E F E,2 E|
+[V:1]F E,2 E F E,2 E F E,2 E F E,2 E F E,2 E F E,2 E F [D,D]2 [B,,B,]2 [E,E]2 [D,-D-]|
+[V:1][D,D] z2 [B,,B,]2 z2 [E,E]2 [D,D]2 E, E [D,D]2 [B,,B,] [A,,A,]2 B,, B, [A,,A,]2 [G,,G,]2 E,2 B,, B, E,2 G,2|
+[V:1][A,,A,]2 G, A, [B,,B,] [A,,A,]2 z2 [E,,E,]2 z2 [G,,G,]2 [A,,A,]4 [G,,G,]2 [A,,A,]2 [B,,B,]2 [D,D] z2 [G,,G,]2 [A,,-A,-]2|
+[V:1][A,,A,]2 [G,,G,]2 A,, A, E,2 A,2 E,2 G,2 z F,2 z2 E,2 D,,2 D,2 z2 [B,,B,]2 z2 [E,-E-]|
+[V:1][E,E] [D,D]2 [E,E] [D,D]2 [B,,B,]2 [A,,A,]2 B,, B, [A,,A,]2 [G,,G,]2 E,2 B,, B, E,2 B,, B, E, B,, B, E,2 B,, B, E,-|
+[V:1]E, B,, B, E,2 B,, B, [E,,E,]4 B,,2 B, [E,,E,]4 B,,2 B,2 [E,,E,]4 B,,2 B,2 E,2|
+[V:1]B, D E, B, D E,2 B, D E,2 B, D E,2 B, D E,2 B, D E,2 [B,D] E,2 B, D B,, B, B,, B,|
+[V:1]B,, B, B,, B, B,, B, B,, B, B,, B, B,, B, [B,,B,] B,, B, B,, B, B,, B, B,, B, B,, B, B,, B, B,, B, A,, A, A,, A, A,,|
+[V:1]A, [A,,A,] A,, A, A,, A, A,, A, A,, A, A,, A, A,, A, A,, A, A,, A, A,, A, A,, A, [A,,A,] A,, A, A,,2 A, B, A,,2 A,|
+[V:1]B, A,,2 A, B, A,,2 A, B, A,,2 [A,B,] A,,2 A, B, A,,2 A, B, A,,2 A, B, E,2 A,, A, F,2 A,, A,|
+[V:1]E, A,, A, F,2 A,, A, E,2 A,, A, F,2 A,, A, E,2 A,, A, F,2 [A,,A,] E,2 A,, A, F,2 A,, A, E,2|
+[V:1]A,, A, F,2 A,, A, E, A, F, A, [E,A,] F, A, E, A, F, A, E, A, F, A, E, E E, E E, E E, E E, E [E,E]|
+[V:1]E, E E, E E,2 E F E,2 E F E,2 E F E,2 E F E, E F E,2 E F E,2 E F E,-|
+[V:1]E, E F E,2 F2 D2 F E,2 E2 E,2 F2 D2 F2 E,2 E2 E,2 E2 E,, F,-|
+[V:1]F, D,2 F,2 E,,2 E,2 E,,2 E,2 D,,2 F,2 D,2 F, E,,2 E,2 E,,2 E,2 E,,2 F,2|
+[V:1]D,2 F,2 E,,2 E,2 [E,E] E F D E F D E, E, [E,E-] E z13|

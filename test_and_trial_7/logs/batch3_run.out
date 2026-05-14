@@ -1,0 +1,158 @@
+/Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_7/venv_notagen/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[device] mps
+[ckpt] loading test_and_trial_7/checkpoints/notagen_guzheng_medium_weighted_best.pth
+[ckpt] loaded epoch 9 eval_loss=0.4709233120083809
+[out] /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_7/generated/20260416-155306
+
+--- sample 1/50 ---
+  15.1s  786 bytes  ~20 bars  -> OK
+
+--- sample 2/50 ---
+  23.2s  1112 bytes  ~32 bars  -> OK
+
+--- sample 3/50 ---
+  9.6s  542 bytes  ~16 bars  -> OK
+
+--- sample 4/50 ---
+  19.1s  1075 bytes  ~32 bars  -> OK
+
+--- sample 5/50 ---
+  11.9s  780 bytes  ~21 bars  -> OK
+
+--- sample 6/50 ---
+  12.6s  883 bytes  ~25 bars  -> OK
+
+--- sample 7/50 ---
+  19.0s  1166 bytes  ~32 bars  -> OK
+
+--- sample 8/50 ---
+  12.8s  844 bytes  ~19 bars  -> OK
+
+--- sample 9/50 ---
+  13.0s  1009 bytes  ~25 bars  -> OK
+
+--- sample 10/50 ---
+  20.4s  1273 bytes  ~32 bars  -> OK
+
+--- sample 11/50 ---
+  7.6s  544 bytes  ~13 bars  -> OK
+
+--- sample 12/50 ---
+  19.8s  1221 bytes  ~32 bars  -> OK
+
+--- sample 13/50 ---
+  14.1s  975 bytes  ~28 bars  -> OK
+
+--- sample 14/50 ---
+  11.3s  790 bytes  ~20 bars  -> OK
+
+--- sample 15/50 ---
+  8.8s  685 bytes  ~17 bars  -> OK
+
+--- sample 16/50 ---
+  28.1s  1771 bytes  ~40 bars  -> OK
+
+--- sample 17/50 ---
+  396.7s  1674 bytes  ~36 bars  -> OK
+
+--- sample 18/50 ---
+  17.2s  740 bytes  ~17 bars  -> OK
+
+--- sample 19/50 ---
+  77.4s  1741 bytes  ~41 bars  -> OK
+
+--- sample 20/50 ---
+  28.1s  944 bytes  ~24 bars  -> OK
+
+--- sample 21/50 ---
+  18.8s  621 bytes  ~16 bars  -> OK
+
+--- sample 22/50 ---
+  8.3s  561 bytes  ~14 bars  -> OK
+
+--- sample 23/50 ---
+  50.4s  1509 bytes  ~45 bars  -> OK
+
+--- sample 24/50 ---
+  22.7s  1126 bytes  ~28 bars  -> OK
+
+--- sample 25/50 ---
+  12.2s  855 bytes  ~20 bars  -> OK
+
+--- sample 26/50 ---
+  23.2s  1213 bytes  ~33 bars  -> OK
+
+--- sample 27/50 ---
+  12.3s  925 bytes  ~20 bars  -> OK
+
+--- sample 28/50 ---
+  11.8s  791 bytes  ~20 bars  -> OK
+
+--- sample 29/50 ---
+  15.7s  1020 bytes  ~27 bars  -> OK
+
+--- sample 30/50 ---
+  12.2s  665 bytes  ~18 bars  -> OK
+
+--- sample 31/50 ---
+  13.5s  751 bytes  ~21 bars  -> OK
+
+--- sample 32/50 ---
+  17.8s  1124 bytes  ~25 bars  -> OK
+
+--- sample 33/50 ---
+  9.6s  791 bytes  ~18 bars  -> OK
+
+--- sample 34/50 ---
+  12.2s  1059 bytes  ~24 bars  -> OK
+
+--- sample 35/50 ---
+  97.2s  2045 bytes  ~41 bars  -> OK
+
+--- sample 36/50 ---
+  39.7s  1100 bytes  ~32 bars  -> OK
+
+--- sample 37/50 ---
+  41.3s  1491 bytes  ~27 bars  -> OK
+
+--- sample 38/50 ---
+  12.7s  766 bytes  ~17 bars  -> OK
+
+--- sample 39/50 ---
+  15.8s  939 bytes  ~24 bars  -> OK
+
+--- sample 40/50 ---
+  35.6s  1572 bytes  ~40 bars  -> OK
+
+--- sample 41/50 ---
+  16.0s  920 bytes  ~22 bars  -> OK
+
+--- sample 42/50 ---
+  8.3s  668 bytes  ~17 bars  -> OK
+
+--- sample 43/50 ---
+  7.7s  625 bytes  ~15 bars  -> OK
+
+--- sample 44/50 ---
+  10.4s  885 bytes  ~19 bars  -> OK
+
+--- sample 45/50 ---
+  8.1s  712 bytes  ~15 bars  -> OK
+
+--- sample 46/50 ---
+  9.8s  841 bytes  ~21 bars  -> OK
+
+--- sample 47/50 ---
+  11.1s  940 bytes  ~22 bars  -> OK
+
+--- sample 48/50 ---
+  6.7s  551 bytes  ~14 bars  -> OK
+
+--- sample 49/50 ---
+  8.5s  661 bytes  ~17 bars  -> OK
+
+--- sample 50/50 ---
+  42.3s  1393 bytes  ~37 bars  -> OK
+
+[done] 50/50 valid MIDI in /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_7/generated/20260416-155306

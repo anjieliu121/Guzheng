@@ -1,0 +1,283 @@
+{
+  "rwkv-0/constrained": {
+    "files": [
+      {
+        "file": "constrained_00_A.mid",
+        "n_notes": 40,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9211,
+          "interval_3gram": 0.9459,
+          "pitch_5gram": 0.2778,
+          "interval_5gram": 0.3429,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.4324,
+          "self_rep_8gram": 0.0606,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 8
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.125,
+        "closest_train_file": "Gao_Shan_Liu_Shui.mid"
+      },
+      {
+        "file": "constrained_01_A.mid",
+        "n_notes": 37,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9714,
+          "interval_3gram": 0.9706,
+          "pitch_5gram": 0.9697,
+          "interval_5gram": 0.9688,
+          "pitch_8gram": 0.9667,
+          "interval_8gram": 0.9655,
+          "pitch_12gram": 0.9615,
+          "interval_12gram": 0.96
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0588,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 4
+        },
+        "max_lcs_length": 36,
+        "lcs_ratio": 0.973,
+        "closest_train_file": "bai_jia_chun_han_gao_A.mid"
+      },
+      {
+        "file": "constrained_02_G.mid",
+        "n_notes": 53,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7647,
+          "interval_3gram": 0.5,
+          "pitch_5gram": 0.0408,
+          "interval_5gram": 0.0208,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.04,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 4
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.0943,
+        "closest_train_file": "Butterfly_Lovers.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.4294,
+      "mean_max_lcs": 15.3,
+      "mean_self_rep_4gram": 0.1771,
+      "mean_longest_self_repeat": 5.3,
+      "n_possible_memorization": 1,
+      "n_excessive_repetition": 0
+    }
+  },
+  "rwkv-0/unconstrained": {
+    "files": [
+      {
+        "file": "unconstrained_00_A.mid",
+        "n_notes": 198,
+        "ngram_coverage": {
+          "pitch_3gram": 0.3776,
+          "interval_3gram": 0.2769,
+          "pitch_5gram": 0.0155,
+          "interval_5gram": 0.0,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 2
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.0253,
+        "closest_train_file": "guzheng_train_000.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.0155,
+      "mean_max_lcs": 5.0,
+      "mean_self_rep_4gram": 0.0,
+      "mean_longest_self_repeat": 2.0,
+      "n_possible_memorization": 0,
+      "n_excessive_repetition": 0
+    }
+  },
+  "rwkv-2/constrained": {
+    "files": [
+      {
+        "file": "constrained_00_A.mid",
+        "n_notes": 37,
+        "ngram_coverage": {
+          "pitch_3gram": 0.9714,
+          "interval_3gram": 0.9706,
+          "pitch_5gram": 0.303,
+          "interval_5gram": 0.375,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.4706,
+          "self_rep_8gram": 0.0667,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 8
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.1351,
+        "closest_train_file": "Gao_Shan_Liu_Shui.mid"
+      },
+      {
+        "file": "constrained_01_A.mid",
+        "n_notes": 53,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7255,
+          "interval_3gram": 0.66,
+          "pitch_5gram": 0.449,
+          "interval_5gram": 0.4167,
+          "pitch_8gram": 0.3261,
+          "interval_8gram": 0.2889,
+          "pitch_12gram": 0.2381,
+          "interval_12gram": 0.2195
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 2
+        },
+        "max_lcs_length": 21,
+        "lcs_ratio": 0.3962,
+        "closest_train_file": "bai_jia_chun_han_gao_A.mid"
+      },
+      {
+        "file": "constrained_02_G.mid",
+        "n_notes": 55,
+        "ngram_coverage": {
+          "pitch_3gram": 0.7358,
+          "interval_3gram": 0.4231,
+          "pitch_5gram": 0.0196,
+          "interval_5gram": 0.02,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0385,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 4
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.0909,
+        "closest_train_file": "chun_miao_C.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.2572,
+      "mean_max_lcs": 10.3,
+      "mean_self_rep_4gram": 0.1697,
+      "mean_longest_self_repeat": 4.7,
+      "n_possible_memorization": 0,
+      "n_excessive_repetition": 0
+    }
+  },
+  "rwkv-4/constrained": {
+    "files": [
+      {
+        "file": "constrained_00_A.mid",
+        "n_notes": 48,
+        "ngram_coverage": {
+          "pitch_3gram": 0.5435,
+          "interval_3gram": 0.5556,
+          "pitch_5gram": 0.1591,
+          "interval_5gram": 0.186,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.1333,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 6
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.1042,
+        "closest_train_file": "Gao_Shan_Liu_Shui.mid"
+      },
+      {
+        "file": "constrained_01_A.mid",
+        "n_notes": 49,
+        "ngram_coverage": {
+          "pitch_3gram": 0.6383,
+          "interval_3gram": 0.6522,
+          "pitch_5gram": 0.4222,
+          "interval_5gram": 0.3864,
+          "pitch_8gram": 0.3095,
+          "interval_8gram": 0.2927,
+          "pitch_12gram": 0.2368,
+          "interval_12gram": 0.2162
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 3
+        },
+        "max_lcs_length": 20,
+        "lcs_ratio": 0.4082,
+        "closest_train_file": "bai_jia_chun_han_gao_A.mid"
+      },
+      {
+        "file": "constrained_02_G.mid",
+        "n_notes": 48,
+        "ngram_coverage": {
+          "pitch_3gram": 0.8043,
+          "interval_3gram": 0.4889,
+          "pitch_5gram": 0.0227,
+          "interval_5gram": 0.0233,
+          "pitch_8gram": 0.0,
+          "interval_8gram": 0.0,
+          "pitch_12gram": 0.0,
+          "interval_12gram": 0.0
+        },
+        "self_repetition": {
+          "self_rep_4gram": 0.0444,
+          "self_rep_8gram": 0.0,
+          "self_rep_12gram": 0.0,
+          "longest_self_repeat": 4
+        },
+        "max_lcs_length": 5,
+        "lcs_ratio": 0.1042,
+        "closest_train_file": "chun_miao_C.mid"
+      }
+    ],
+    "summary": {
+      "mean_pitch_5gram_coverage": 0.2013,
+      "mean_max_lcs": 10.0,
+      "mean_self_rep_4gram": 0.0592,
+      "mean_longest_self_repeat": 4.3,
+      "n_possible_memorization": 0,
+      "n_excessive_repetition": 0
+    }
+  },
+  "test_reference": {
+    "mean_pitch_5gram_coverage": 0.4876
+  }
+}

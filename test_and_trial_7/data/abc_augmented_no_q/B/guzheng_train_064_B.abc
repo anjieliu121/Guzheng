@@ -1,0 +1,74 @@
+L:1/32
+M:4/4
+K:B
+V:1 treble nm="Guzheng"
+[V:1]z2 C,4 C5 C5 C5 A,5 C4 G,2-|
+[V:1]G,3 C5 F,,10 F,9 [F,,-F,-]5|
+[V:1][F,,F,]4 C5 C5 G,,5 G,5 G,5 F,3-|
+[V:1]F,2 D,4 F,5 C,5 D,5 F,,10 F,-|
+[V:1]F,4 z4 F,,5 F,10 G,5 C,4-|
+[V:1]C, C4 C5 C5 A,5 C4 G,5 C3-|
+[V:1]C2 F,,10 F,9 D,5 D4 C2-|
+[V:1]C3 D5 F,5 F5 D5 G5 F,4-|
+[V:1]F,5 F10 [F,F]15 c2-|
+[V:1]c3 C5 c9 G5 F,4 F5 D-|
+[V:1]D4 c5 G,4 G5 G5 F4 D,5|
+[V:1]D2 C2 C5 C5 D,9 D9-|
+[V:1]D10 F,5 F5 C,4 C3 C2 G,3-|
+[V:1]G, C5 C,5 C10 F4 D5 F2-|
+[V:1]F3 C10 C9 D,4 D5 C,-|
+[V:1]C,4 C9 C5 G,,10 G,4-|
+[V:1]G,6 G,,5 G,9 C6 C,4 C2-|
+[V:1]C3 C5 F4 D,5 D2 C3 C4 D6|
+[V:1]C,10 C9 [C,-C-]13|
+[V:1][C,C]7 C,9 C10 D,5 D-|
+[V:1]D4 C5 D5 F,4 F5 D5 G4-|
+[V:1]G F,9 F10 F,5 F4 F3-|
+[V:1]F2 F5 D,5 D4 D5 C5 C,5 C-|
+[V:1]C4 G,5 D4 C5 D5 C9-|
+[V:1]C C10 A,9 G,5 G,2 F,2 D,3-|
+[V:1]D,2 F,5 G,,10 G,10 [G,,-G,-]5|
+[V:1][G,,G,]15 C,5 C5 G,7-|
+[V:1]G,3 G,9 C5 D5 C,9 C-|
+[V:1]C9 A,5 C4 G,5 C4 F,,5|
+[V:1]F,5 D,4 C5 G,,4 G,3 F,2 D,5 F,4-|
+[V:1]F, G,,9 G,10 [G,,-G,-]12|
+[V:1][G,,G,]7 C5 c5 G10 G5-|
+[V:1]G5 c5 d5 C9 c8-|
+[V:1]c2 A4 c5 G5 c4 F,6 F6-|
+[V:1]F3 c5 G,5 G5 G5 F4 G,5-|
+[V:1]G,5 G9 [G,-G-]18|
+[V:1][G,G]2 C,5 C10 G,4 C,10 C-|
+[V:1]C9 F,,5 F,9 G,5 C,4-|
+[V:1]C,5 C10 F,,4 F,5 D,5 C3-|
+[V:1]C G,,5 G,5 G,5 F,4 D,5 D2 C2 C3-|
+[V:1]C2 C5 D,9 D16-|
+[V:1]D4 F,5 F5 C,4 C5 G,5 C4-|
+[V:1]C C,6 C4 C5 F5 D5 F4 C2-|
+[V:1]C8 C,10 C5 D5 C,4-|
+[V:1]C, C4 C5 C5 G,,9 G,8-|
+[V:1]G,2 G,,5 G,4 G,5 C5 C,4 C5 C2-|
+[V:1]C3 F5 D,4 D3 C2 C4 D5 C,6-|
+[V:1]C,4 C9 [C,-C-]19|
+[V:1][C,C] C,9 C10 D,5 D5 C2-|
+[V:1]C3 D5 F,5 F4 D6 G4 F,5-|
+[V:1]F,5 F10 F,5 F5 F5 F2-|
+[V:1]F2 D,5 D5 D5 C4 C,5 C5 G,-|
+[V:1]G,4 D5 C5 D5 C9 C4-|
+[V:1]C6 A,4 A,5 G,4 G,3 F,2 D,5 F,3-|
+[V:1]F, G,,10 G,10 [G,,-G,-]11|
+[V:1][G,,G,]8 C,5 C5 C4 D6 A,4-|
+[V:1]A,5 A,5 C5 G,,9 G,8-|
+[V:1]G,2 [G,,G,]19 F,5 F5 D-|
+[V:1]D3 G5 F,5 F5 F5 D5 C,4-|
+[V:1]C, C10 F4 D5 F5 C,7-|
+[V:1]C,2 C10 F,4 F5 D5 D4 D2-|
+[V:1]D3 C5 C,4 C5 G,4 D5 C5 D-|
+[V:1]D4 C10 C9 F,5 F4-|
+[V:1]F D,5 F4 D5 C5 C,9 C3-|
+[V:1]C7 D,5 D5 D5 C5 C,5-|
+[V:1]C,4 C5 D6 C,4 C5 C5 A,3-|
+[V:1]A,2 G,5 C5 F,5 G,5 C,9 C-|
+[V:1]C18 A,9 G,,4 G,-|
+[V:1]G,2 F,2 D,5 F,5 G,,9 G,9-|
+[V:1]G, [G,,G,]29 z2|

@@ -1,0 +1,622 @@
+Device: mps
+Tokenizer loaded: 663 tokens
+
+Building prompt list...
+  Val prompts: 5 (from 60 files)
+  Test prompts: 5 (from 59 files)
+  Synthetic prompts: 5
+Total prompts: 15
+Found 3 checkpoints: ['rwkv-0.pth', 'rwkv-2.pth', 'rwkv-4.pth']
+
+============================================================
+Generating from checkpoint: rwkv-0
+============================================================
+Loaded state checkpoint: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/checkpoints/rwkv-0.pth
+
+  [1/15] val/guzheng_train_053_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/val/val_00_A.mid (1024 generated tokens, 45.4s)
+
+  [2/15] val/fang_zhi_mang_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/val/val_01_D.mid (1024 generated tokens, 45.0s)
+
+  [3/15] val/chu_shui_lian_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/val/val_02_C.mid (1024 generated tokens, 44.3s)
+
+  [4/15] val/guzheng_validation_004_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/val/val_03_D.mid (1024 generated tokens, 44.4s)
+
+  [5/15] val/guzheng_train_005_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/val/val_04_D.mid (1024 generated tokens, 44.8s)
+
+  [6/15] test/guzheng_train_004_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/test/test_05_C.mid (1024 generated tokens, 44.5s)
+
+  [7/15] test/guzheng_train_004_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/test/test_06_A.mid (1024 generated tokens, 44.6s)
+
+  [8/15] test/guzheng_test_000_G.mid (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/test/test_07_G.mid (1024 generated tokens, 44.0s)
+
+  [9/15] test/guzheng_train_070_F.mid (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/test/test_08_F.mid (1024 generated tokens, 44.3s)
+
+  [10/15] test/guzheng_test_000_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/test/test_09_D.mid (1024 generated tokens, 44.3s)
+
+  [11/15] synthetic/synthetic_BOS_A (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/synthetic/synthetic_10_A.mid (1024 generated tokens, 44.2s)
+
+  [12/15] synthetic/synthetic_BOS_C (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/synthetic/synthetic_11_C.mid (1024 generated tokens, 44.3s)
+
+  [13/15] synthetic/synthetic_BOS_D (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/synthetic/synthetic_12_D.mid (1024 generated tokens, 44.3s)
+
+  [14/15] synthetic/synthetic_BOS_F (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/synthetic/synthetic_13_F.mid (1024 generated tokens, 44.3s)
+
+  [15/15] synthetic/synthetic_BOS_G (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-0/synthetic/synthetic_14_G.mid (1024 generated tokens, 44.3s)
+
+Checkpoint rwkv-0: generated 15 samples
+
+============================================================
+Generating from checkpoint: rwkv-2
+============================================================
+Loaded state checkpoint: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/checkpoints/rwkv-2.pth
+
+  [1/15] val/guzheng_train_053_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/val/val_00_A.mid (1024 generated tokens, 44.4s)
+
+  [2/15] val/fang_zhi_mang_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/val/val_01_D.mid (1024 generated tokens, 44.4s)
+
+  [3/15] val/chu_shui_lian_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/val/val_02_C.mid (1024 generated tokens, 44.4s)
+
+  [4/15] val/guzheng_validation_004_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/val/val_03_D.mid (1024 generated tokens, 44.4s)
+
+  [5/15] val/guzheng_train_005_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/val/val_04_D.mid (1024 generated tokens, 44.4s)
+
+  [6/15] test/guzheng_train_004_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/test/test_05_C.mid (1024 generated tokens, 44.4s)
+
+  [7/15] test/guzheng_train_004_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/test/test_06_A.mid (1024 generated tokens, 44.4s)
+
+  [8/15] test/guzheng_test_000_G.mid (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/test/test_07_G.mid (1024 generated tokens, 44.3s)
+
+  [9/15] test/guzheng_train_070_F.mid (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/test/test_08_F.mid (1024 generated tokens, 44.3s)
+
+  [10/15] test/guzheng_test_000_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/test/test_09_D.mid (1024 generated tokens, 44.4s)
+
+  [11/15] synthetic/synthetic_BOS_A (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/synthetic/synthetic_10_A.mid (1024 generated tokens, 44.3s)
+
+  [12/15] synthetic/synthetic_BOS_C (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/synthetic/synthetic_11_C.mid (1024 generated tokens, 44.3s)
+
+  [13/15] synthetic/synthetic_BOS_D (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/synthetic/synthetic_12_D.mid (1024 generated tokens, 44.4s)
+
+  [14/15] synthetic/synthetic_BOS_F (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/synthetic/synthetic_13_F.mid (1024 generated tokens, 44.4s)
+
+  [15/15] synthetic/synthetic_BOS_G (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-2/synthetic/synthetic_14_G.mid (1024 generated tokens, 44.4s)
+
+Checkpoint rwkv-2: generated 15 samples
+
+============================================================
+Generating from checkpoint: rwkv-4
+============================================================
+Loaded state checkpoint: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/checkpoints/rwkv-4.pth
+
+  [1/15] val/guzheng_train_053_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/val/val_00_A.mid (1024 generated tokens, 44.4s)
+
+  [2/15] val/fang_zhi_mang_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/val/val_01_D.mid (1024 generated tokens, 44.4s)
+
+  [3/15] val/chu_shui_lian_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/val/val_02_C.mid (1024 generated tokens, 44.3s)
+
+  [4/15] val/guzheng_validation_004_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/val/val_03_D.mid (1024 generated tokens, 44.7s)
+
+  [5/15] val/guzheng_train_005_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/val/val_04_D.mid (1024 generated tokens, 44.7s)
+
+  [6/15] test/guzheng_train_004_C.mid (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/test/test_05_C.mid (1024 generated tokens, 44.6s)
+
+  [7/15] test/guzheng_train_004_A.mid (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/test/test_06_A.mid (1024 generated tokens, 44.6s)
+
+  [8/15] test/guzheng_test_000_G.mid (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/test/test_07_G.mid (1024 generated tokens, 44.6s)
+
+  [9/15] test/guzheng_train_070_F.mid (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/test/test_08_F.mid (1024 generated tokens, 44.7s)
+
+  [10/15] test/guzheng_test_000_D.mid (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/test/test_09_D.mid (1024 generated tokens, 44.7s)
+
+  [11/15] synthetic/synthetic_BOS_A (scale: A)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/synthetic/synthetic_10_A.mid (1024 generated tokens, 44.6s)
+
+  [12/15] synthetic/synthetic_BOS_C (scale: C)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/synthetic/synthetic_11_C.mid (1024 generated tokens, 44.7s)
+
+  [13/15] synthetic/synthetic_BOS_D (scale: D)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/synthetic/synthetic_12_D.mid (1024 generated tokens, 43.0s)
+
+  [14/15] synthetic/synthetic_BOS_F (scale: F)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/synthetic/synthetic_13_F.mid (1024 generated tokens, 42.7s)
+
+  [15/15] synthetic/synthetic_BOS_G (scale: G)
+    step 100/1024
+    step 200/1024
+    step 300/1024
+    step 400/1024
+    step 500/1024
+    step 600/1024
+    step 700/1024
+    step 800/1024
+    step 900/1024
+    step 1000/1024
+    Saved: /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/generated/rwkv-4/synthetic/synthetic_14_G.mid (1024 generated tokens, 42.7s)
+
+Checkpoint rwkv-4: generated 15 samples
+
+============================================================
+GENERATION SUMMARY
+============================================================
+  rwkv-0: 15 total (synthetic: 5, test: 5, val: 5)
+  rwkv-2: 15 total (synthetic: 5, test: 5, val: 5)
+  rwkv-4: 15 total (synthetic: 5, test: 5, val: 5)

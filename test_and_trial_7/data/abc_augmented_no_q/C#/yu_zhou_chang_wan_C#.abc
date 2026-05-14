@@ -1,0 +1,72 @@
+L:1/32
+M:4/4
+K:C#
+V:1 treble nm="Guzheng"
+[V:1][E,E]8 G4 A4 D,8 D8|
+[V:1][E,E]4 G4 [E,E]4 E2 D2 C,4 C8 A,4|
+[V:1][G,,G,]16 A,2 C2 G,2 A,2 C,4 C4|
+[V:1]A,2 C2 A,2 G,2 E,8 G,4 A,2 A,2 G,4 A,2 A,2|
+[V:1]C8 D8 [E,E]16|
+[V:1][G,G]4 G2 E2 D,4 D4 [E,E]4 E2 D2 C,4 C4-|
+[V:1]C4 A,4 [G,,G,]16 A,2 C2 G,2 A,2|
+[V:1]C4 C,4 A,2 C2 A,2 G,2 E,8 G,4 A,2 A,2|
+[V:1]E,4 A,4 G,,8 G,8 G,4 G2 G2|
+[V:1]G4 A2 A2 C4 c4 C4 c2 A2 G,4 G4|
+[V:1]G,4 G2 E2 D,8 D8 C,4 C2 C2|
+[V:1]C4 D2 D2 E,4 E4 E,4 z E D C A,,4 A,4-|
+[V:1]A,4 C4 D,8 D8 [E,E]8|
+[V:1][G,G]4 z G E D C,4 C4 D,4 D4 E,4 E2 E2|
+[V:1]G,8 G8 G8 A8|
+[V:1]C4 c2 c2 G4 c4 C4 c2 c2 G4 c4|
+[V:1]C4 c4 E4 c2 A2 G,8 G8|
+[V:1]G4 A2 A2 C4 c4 A4 c4 A2 c2 A2 G2|
+[V:1]F12 z c A G F12 z A G E|
+[V:1]D12 z A G E D4 z A G E D4 F2 F2|
+[V:1]G,8 G8 A,4 A4 [Cc]4 c2 A2|
+[V:1]G,4 G4 [A,A]4 A2 G2 E,4 E4 [G,G]4 G2 E2|
+[V:1]D,4 D4 [E,E]4 E2 D2 C,4 C4 [D,D]4 D2 C2|
+[V:1]A,,4 A,4 [C,C]4 C2 A,2 G,,4 G,8 A,4|
+[V:1]G,,8 G,8 E2 G2 A2 c2 G4 G,4|
+[V:1]D2 E2 G2 A2 E4 E,4 C2 D2 E2 G2 D4 D,4|
+[V:1]A,2 C2 D2 E2 C4 C,4 G,2 A,2 C2 D2 A,4 A,,4|
+[V:1]E,2 G,2 A,2 C2 G,4 G,,4 E3 G A2 c2 G4 G,4|
+[V:1]D3 E G2 A2 E4 E,4 C3 D E2 G2 D4 D,4|
+[V:1]A,3 C D2 E2 C4 C,4 G,3 A, C2 D2 A,4 A,,4|
+[V:1]E,4 G,4 A,4 C4 G,8 G,,8|
+[V:1]G,4 z G E D C,4 C4 C4 z E D C A,,4 A,4|
+[V:1]A,4 z A G E D,4 D4 D4 z G E D C,4 C4|
+[V:1]C4 z c A G E,4 E4 E4 z A G E D,4 D4|
+[V:1]D4 z d c A G,4 G4 G4 z c A G E,4 E4|
+[V:1]E4 z e d c A,4 A4 A4 z d c A G,4 G4|
+[V:1]G4 z g e d C4 c4 c4 z d c A G,4 G4|
+[V:1]G4 z d c A A,4 A4 A4 z c A G E,4 E4|
+[V:1]E4 z d c A G,4 G4 G4 z A G E D,4 D4|
+[V:1]D4 z c A G E,4 E4 E4 z G E D C,4 C4|
+[V:1]C4 z A G E D,4 D4 D4 z E D C A,,4 A,4|
+[V:1]A,4 z G E D C,4 C4 C4 z D C A, G,,4 G,4|
+[V:1]G,4 z G E D C,4 C4 C4 z E D C A,,4 A,4|
+[V:1]A,4 z A G E D,4 D4 D4 z G E D C,4 C4|
+[V:1]C4 z c A G E,4 E4 E4 z A G E D,4 D4|
+[V:1]D4 z d c A G,4 G4 G4 z c A G E,4 E4|
+[V:1]E4 z e d c A,4 A4 A4 z d c A G,4 G4|
+[V:1]G4 z g e d C4 c4 c4 z d c A G,4 G4|
+[V:1]G4 z d c A A,4 A4 A4 z c A G E,4 E4|
+[V:1]E4 z d c A G,4 G4 G4 z A G E D,4 D4|
+[V:1]D4 z c A G E,4 E4 E4 z G E D C,4 C4|
+[V:1]C4 z A G E D,4 D4 D4 z E D C A,,4 A,4|
+[V:1]A,4 z G E D C,4 C4 C4 z D C A, G,,4 G,4|
+[V:1]G,4 z G E D C,4 C4 C4 z E D C A,,4 A,4|
+[V:1]A,4 z A G E D,4 D4 D4 z G E D C,4 C4|
+[V:1]C4 z c A G E,4 E4 E4 z A G E D,4 D4|
+[V:1]D4 z d c A G,4 G4 G4 z c A G E,4 E4|
+[V:1]E4 z e d c A,4 A4 A4 z d c A G,4 G4|
+[V:1]G4 z g e d C4 c4 c4 z d c A G,4 G4|
+[V:1]G4 z d c A A,4 A4 A4 z c A G E,4 E4|
+[V:1]E4 z d c A G,4 G4 G4 z A G E D,4 D4|
+[V:1]D4 z c A G E,4 E4 E4 z G E D C,4 C4|
+[V:1]C4 z A G E D,4 D4 D4 z E D C A,,4 A,4|
+[V:1]A,4 z G E D C,4 C4 C4 z D C A, G,, [A,,C,] D, [E,G,] A, [CD] E [GA]|
+[V:1]c8 G,8 G12 C2 c2|
+[V:1]G,4 G4 A,4 A4 E,4 E4 G,4 G4|
+[V:1]D,4 D4 E,4 E4 A,5- [A,-c] [A,-A] [A,G] F4 D4|
+[V:1][C,C]24 z8|

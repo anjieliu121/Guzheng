@@ -1,0 +1,86 @@
+{
+  "training": {
+    "n_files": 496,
+    "mean_n_notes": 249.3427,
+    "mean_mean_duration": 0.6285,
+    "mean_note_density": 2.2518,
+    "mean_mean_velocity": 79.7788,
+    "mean_pc_entropy": 2.1375,
+    "mean_penta_purity": 1.0,
+    "mean_mean_interval": 5.8908,
+    "mean_compression_ratio": 5.1383,
+    "mean_structureness": 0.9915,
+    "mean_trans_entropy_2nd": 1.7112,
+    "mean_groove_consistency": 0.6798,
+    "mean_mean_pitch": 63.4885
+  },
+  "test": {
+    "n_files": 45,
+    "mean_n_notes": 186.9111,
+    "mean_mean_duration": 0.8076,
+    "mean_note_density": 1.6102,
+    "mean_mean_velocity": 79.8667,
+    "mean_pc_entropy": 2.1163,
+    "mean_penta_purity": 1.0,
+    "mean_mean_interval": 5.6851,
+    "mean_compression_ratio": 4.0717,
+    "mean_structureness": 1.0,
+    "mean_trans_entropy_2nd": 1.7241,
+    "mean_groove_consistency": 0.7514,
+    "mean_mean_pitch": 62.4867
+  },
+  "test_oa_vs_train": {
+    "OA_pitch_class": 0.9543,
+    "OA_duration": 0.7591,
+    "OA_interval": 0.8338,
+    "OA_ioi": 0.7056
+  },
+  "variants": {
+    "constrained": {
+      "aggregate": {
+        "n_files": 25,
+        "mean_n_notes": 508.84,
+        "mean_mean_duration": 0.3386,
+        "mean_note_density": 3.598,
+        "mean_mean_velocity": 78.316,
+        "mean_pc_entropy": 1.7239,
+        "mean_penta_purity": 1.0,
+        "mean_mean_interval": 6.312,
+        "mean_compression_ratio": 7.3199,
+        "mean_structureness": 0.9592,
+        "mean_trans_entropy_2nd": 1.6135,
+        "mean_groove_consistency": 0.5823,
+        "mean_mean_pitch": 61.696
+      },
+      "oa": {
+        "OA_pitch_class": 0.8495,
+        "OA_duration": 0.5359,
+        "OA_interval": 0.7969,
+        "OA_ioi": 0.4148
+      }
+    },
+    "unconstrained": {
+      "aggregate": {
+        "n_files": 25,
+        "mean_n_notes": 510.48,
+        "mean_mean_duration": 0.3714,
+        "mean_note_density": 4.0748,
+        "mean_mean_velocity": 78.308,
+        "mean_pc_entropy": 1.6109,
+        "mean_penta_purity": 1.0,
+        "mean_mean_interval": 6.3024,
+        "mean_compression_ratio": 7.9054,
+        "mean_structureness": 0.9682,
+        "mean_trans_entropy_2nd": 1.4898,
+        "mean_groove_consistency": 0.6318,
+        "mean_mean_pitch": 59.896
+      },
+      "oa": {
+        "OA_pitch_class": 0.7892,
+        "OA_duration": 0.4822,
+        "OA_interval": 0.7829,
+        "OA_ioi": 0.4288
+      }
+    }
+  }
+}

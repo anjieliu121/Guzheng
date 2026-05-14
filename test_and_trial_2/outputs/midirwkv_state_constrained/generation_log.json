@@ -1,0 +1,132 @@
+{
+  "config": {
+    "peft_path": "/Users/anjie/Documents/MyGuzheng/Guzheng/archive/midi-rwkv/RWKV-PEFT/peft_model_guzheng/rwkv-2.pth",
+    "temperature": 0.85,
+    "top_p": 0.9,
+    "max_new_tokens": 512,
+    "prompt_tokens": 64,
+    "seed": 42
+  },
+  "results": [
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_00_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_00_A.mid",
+      "scale": "A",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_01_A.mid",
+      "scale": "A",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_01_A.mid",
+      "scale": "A",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_02_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_02_G.mid",
+      "scale": "G",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_03_D.mid",
+      "scale": "D",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_03_D.mid",
+      "scale": "D",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_04_G.mid",
+      "scale": "G",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_04_G.mid",
+      "scale": "G",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_05_F.mid",
+      "scale": "F",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_05_F.mid",
+      "scale": "F",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_06_D.mid",
+      "scale": "D",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_06_D.mid",
+      "scale": "D",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_07_F.mid",
+      "scale": "F",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_07_F.mid",
+      "scale": "F",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_08_F.mid",
+      "scale": "F",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_08_F.mid",
+      "scale": "F",
+      "type": "unconstrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained/constrained_09_D.mid",
+      "scale": "D",
+      "type": "constrained",
+      "tokens": 577
+    },
+    {
+      "file": "/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midirwkv_state_constrained_unconstrained/unconstrained_09_D.mid",
+      "scale": "D",
+      "type": "unconstrained",
+      "tokens": 577
+    }
+  ]
+}

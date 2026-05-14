@@ -1,0 +1,20 @@
+NEW RUN 2026-03-25-23-40-33
+{'load_model': '/Users/anjie/Documents/MyGuzheng/Guzheng/archive/midi-rwkv/midi_rwkv.pth', 'wandb': '', 'proj_dir': '/Users/anjie/Documents/MyGuzheng/Guzheng/outputs/midi_rwkv_lora', 'random_seed': -1, 'data_file': '', 'data_type': 'utf-8', 'vocab_size': 16000, 'ctx_len': 2048, 'epoch_steps': 65, 'epoch_count': 20, 'epoch_begin': 0, 'epoch_save': 5, 'micro_bsz': 1, 'n_layer': 12, 'n_embd': 384, 'dim_att': 384, 'dim_ffn': 1344, 'pre_ffn': 0, 'head_qk': 0, 'tiny_att_dim': 0, 'tiny_att_layer': -999, 'lr_init': 0.0001, 'lr_final': 1e-05, 'warmup_steps': 20, 'beta1': 0.9, 'beta2': 0.99, 'adam_eps': 1e-08, 'grad_cp': 0, 'dropout': 0.2, 'weight_decay': 0, 'weight_decay_final': -1, 'my_pile_version': 1, 'my_pile_stage': 0, 'my_pile_shift': -1, 'my_pile_edecay': 0, 'layerwise_lr': 1, 'ds_bucket_mb': 200, 'my_sample_len': 0, 'my_ffn_shift': 1, 'my_att_shift': 1, 'head_size_a': 64, 'head_size_divisor': 8, 'my_pos_emb': 0, 'load_partial': 0, 'magic_prime': 0, 'my_qa_mask': 0, 'my_random_steps': 0, 'my_testing': 'x070', 'my_exit': 99999999, 'my_exit_tokens': 0, 'peft': 'lora', 'train_parts': ['time', 'ln'], 'lora_config': {'lora_load': '', 'lora_r': 8, 'lora_alpha': 32, 'lora_dropout': 0.1}, 'pissa_config': {'pissa_load': '', 'pissa_init': '', 'pissa_r': 8, 'svd_niter': 4}, 'disha_config': {'mode': 'mode', 'load': '', 'r': 64}, 'quant': 'none', 'dataload': 'pad', 'chunk_ctx': 512, 'fla': False, 'train_type': 'none', 'loss_mask': 'none', 'mask_id': {'mask0': '0', 'mask1': '1'}, 'data_shuffle': 1, 'optim': 'none', 'avg_loss': 0, 'sft_field': None, 'sft_split': 'train', 'op': 'torch', 'fused_kernel': False, 'lr_schedule': 'cos', 'accelerator': 'mps', 'strategy': 'auto', 'devices': 1, 'num_nodes': 1, 'precision': 'bf16', 'accumulate_grad_batches': 1, 'my_timestamp': '2026-03-25-23-40-33', 'enable_checkpointing': False, 'replace_sampler_ddp': False, 'logger': False, 'gradient_clip_val': 1, 'num_sanity_val_steps': 0, 'check_val_every_n_epoch': 1, 'log_every_n_steps': 100000000000000000000, 'max_epochs': 20, 'betas': (0.9, 0.99), 'real_bsz': 1, 'run_name': '16000 ctx2048 L12 D384'}
+0 5.371626 215.2125 0.00001021 2026-03-26 00:48:22.192539 0
+1 4.115705 61.2954 0.00001000 2026-03-26 03:00:16.154259 1
+2 3.883414 48.5898 0.00001000 2026-03-26 10:24:06.184059 2
+3 3.680164 39.6529 0.00001000 2026-03-26 12:18:43.363044 3
+4 3.545932 34.6720 0.00001000 2026-03-26 14:11:48.988236 4
+5 3.484267 32.5985 0.00001000 2026-03-26 17:11:52.474391 5
+6 3.393249 29.7625 0.00001000 2026-03-26 19:47:41.079641 6
+7 3.357144 28.7071 0.00001000 2026-03-26 21:21:03.367193 7
+8 3.274001 26.4168 0.00001000 2026-03-26 22:30:51.023183 8
+9 3.236403 25.4420 0.00001000 2026-03-26 23:47:17.816284 9
+10 3.206298 24.6875 0.00001000 2026-03-27 00:34:17.335800 10
+11 3.133724 22.9593 0.00001000 2026-03-27 01:22:12.347531 11
+12 3.105868 22.3286 0.00001000 2026-03-27 02:09:32.254217 12
+13 3.073436 21.6160 0.00001000 2026-03-27 02:57:59.444972 13
+14 3.029100 20.6786 0.00001000 2026-03-27 03:55:39.700837 14
+15 2.974902 19.5877 0.00001000 2026-03-27 05:27:46.740171 15
+16 2.959037 19.2794 0.00001000 2026-03-27 06:28:08.519168 16
+17 2.935899 18.8384 0.00001000 2026-03-27 07:22:28.948529 17

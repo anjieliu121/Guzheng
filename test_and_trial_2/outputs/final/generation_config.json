@@ -1,0 +1,28 @@
+{
+  "model": "MIDI-RWKV (RWKV-7, 36M params, 12 layers, 384 embd)",
+  "peft": "state-tuning",
+  "peft_checkpoint": "archive/midi-rwkv/RWKV-PEFT/peft_model_guzheng/",
+  "base_model": "archive/midi-rwkv/midi_rwkv.pth",
+  "tokenizer": "archive/midi-rwkv/train/tokenizer/tokenizer.json",
+  "generation": {
+    "temperature": 0.85,
+    "top_p": 0.9,
+    "max_new_tokens": 512,
+    "prompt_tokens": 64,
+    "constrained": false,
+    "seed": 42
+  },
+  "post_processing": {
+    "pentatonic_snap": true,
+    "pitch_range": [38, 86],
+    "max_polyphony": 4,
+    "include_pressed_strings": true
+  },
+  "evaluation": {
+    "OA_pitch_class": 0.918,
+    "OA_duration": 0.839,
+    "pentatonic_purity": 1.0,
+    "note_density": 3.45
+  },
+  "recommendation": "MIDI-RWKV state-tuned with post-processing is the best pipeline. Generate unconstrained, then post-process to snap pitches and constrain range."
+}

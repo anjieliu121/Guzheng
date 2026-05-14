@@ -1,0 +1,2276 @@
+{
+  "total_files": 189,
+  "curated_files": 72,
+  "scraped_files": 99,
+  "pittstate_files": 18,
+  "files": [
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_A.mid",
+      "source": "curated",
+      "n_notes": 502,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        37,
+        81
+      ]
+    },
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_C.mid",
+      "source": "curated",
+      "n_notes": 502,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        84
+      ]
+    },
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_D.mid",
+      "source": "curated",
+      "n_notes": 502,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        86
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_A.mid",
+      "source": "curated",
+      "n_notes": 406,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_C.mid",
+      "source": "curated",
+      "n_notes": 406,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_D.mid",
+      "source": "curated",
+      "n_notes": 406,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_F.mid",
+      "source": "curated",
+      "n_notes": 406,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        81
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_G.mid",
+      "source": "curated",
+      "n_notes": 406,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "bu_bu_gao_A.mid",
+      "source": "curated",
+      "n_notes": 321,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "bu_bu_gao_C.mid",
+      "source": "curated",
+      "n_notes": 321,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "bu_bu_gao_D.mid",
+      "source": "curated",
+      "n_notes": 321,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "bu_bu_gao_F.mid",
+      "source": "curated",
+      "n_notes": 321,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "bu_bu_gao_G.mid",
+      "source": "curated",
+      "n_notes": 321,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "cai_yun_zhui_yue_D.mid",
+      "source": "curated",
+      "n_notes": 891,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "chu_shui_lian_A.mid",
+      "source": "curated",
+      "n_notes": 646,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "chu_shui_lian_C.mid",
+      "source": "curated",
+      "n_notes": 646,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "chu_shui_lian_D.mid",
+      "source": "curated",
+      "n_notes": 646,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "chu_shui_lian_F.mid",
+      "source": "curated",
+      "n_notes": 646,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "chu_shui_lian_G.mid",
+      "source": "curated",
+      "n_notes": 646,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "chun_dao_la_sa_D.mid",
+      "source": "curated",
+      "n_notes": 1909,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "chun_miao_A.mid",
+      "source": "curated",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "chun_miao_C.mid",
+      "source": "curated",
+      "n_notes": 1102,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        84
+      ]
+    },
+    {
+      "file": "chun_miao_D.mid",
+      "source": "curated",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "chun_miao_G.mid",
+      "source": "curated",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "da_yan_A.mid",
+      "source": "curated",
+      "n_notes": 486,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "da_yan_C.mid",
+      "source": "curated",
+      "n_notes": 486,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "da_yan_D.mid",
+      "source": "curated",
+      "n_notes": 486,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "da_yan_F.mid",
+      "source": "curated",
+      "n_notes": 486,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "da_yan_G.mid",
+      "source": "curated",
+      "n_notes": 486,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_A.mid",
+      "source": "curated",
+      "n_notes": 651,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_C.mid",
+      "source": "curated",
+      "n_notes": 651,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        84
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_D.mid",
+      "source": "curated",
+      "n_notes": 651,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_G.mid",
+      "source": "curated",
+      "n_notes": 651,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_D.mid",
+      "source": "curated",
+      "n_notes": 674,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        81
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_F.mid",
+      "source": "curated",
+      "n_notes": 674,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        41,
+        84
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_G.mid",
+      "source": "curated",
+      "n_notes": 674,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "han_tian_lei_A.mid",
+      "source": "curated",
+      "n_notes": 625,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "han_tian_lei_C.mid",
+      "source": "curated",
+      "n_notes": 625,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "han_tian_lei_D.mid",
+      "source": "curated",
+      "n_notes": 625,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "han_tian_lei_F.mid",
+      "source": "curated",
+      "n_notes": 625,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "han_tian_lei_G.mid",
+      "source": "curated",
+      "n_notes": 625,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_A.mid",
+      "source": "curated",
+      "n_notes": 618,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_C.mid",
+      "source": "curated",
+      "n_notes": 618,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_D.mid",
+      "source": "curated",
+      "n_notes": 618,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_F.mid",
+      "source": "curated",
+      "n_notes": 618,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_G.mid",
+      "source": "curated",
+      "n_notes": 618,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_A.mid",
+      "source": "curated",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_C.mid",
+      "source": "curated",
+      "n_notes": 246,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_D.mid",
+      "source": "curated",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_F.mid",
+      "source": "curated",
+      "n_notes": 246,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_G.mid",
+      "source": "curated",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "shang_lou_A.mid",
+      "source": "curated",
+      "n_notes": 369,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "shang_lou_C.mid",
+      "source": "curated",
+      "n_notes": 369,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "shang_lou_D.mid",
+      "source": "curated",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "shang_lou_F.mid",
+      "source": "curated",
+      "n_notes": 369,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "shang_lou_G.mid",
+      "source": "curated",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "ya_shan_ai_A.mid",
+      "source": "curated",
+      "n_notes": 393,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "ya_shan_ai_C.mid",
+      "source": "curated",
+      "n_notes": 393,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "ya_shan_ai_D.mid",
+      "source": "curated",
+      "n_notes": 393,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "ya_shan_ai_F.mid",
+      "source": "curated",
+      "n_notes": 393,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        79
+      ]
+    },
+    {
+      "file": "ya_shan_ai_G.mid",
+      "source": "curated",
+      "n_notes": 393,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_A.mid",
+      "source": "curated",
+      "n_notes": 718,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_C.mid",
+      "source": "curated",
+      "n_notes": 718,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_D.mid",
+      "source": "curated",
+      "n_notes": 718,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_F.mid",
+      "source": "curated",
+      "n_notes": 718,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_G.mid",
+      "source": "curated",
+      "n_notes": 718,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_A.mid",
+      "source": "curated",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        37,
+        73
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_C.mid",
+      "source": "curated",
+      "n_notes": 236,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_D.mid",
+      "source": "curated",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        78
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_F.mid",
+      "source": "curated",
+      "n_notes": 236,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_G.mid",
+      "source": "curated",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        83
+      ]
+    },
+    {
+      "file": "zhan_tai_feng_D.mid",
+      "source": "curated",
+      "n_notes": 2716,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_000.mid",
+      "source": "scraped",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_001.mid",
+      "source": "scraped",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_test_002.mid",
+      "source": "scraped",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_test_003.mid",
+      "source": "scraped",
+      "n_notes": 227,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_test_004.mid",
+      "source": "scraped",
+      "n_notes": 125,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_005.mid",
+      "source": "scraped",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        66,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_006.mid",
+      "source": "scraped",
+      "n_notes": 170,
+      "scale": "D",
+      "purity": 0.9647,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_test_007.mid",
+      "source": "scraped",
+      "n_notes": 290,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_008.mid",
+      "source": "scraped",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_009.mid",
+      "source": "scraped",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_000.mid",
+      "source": "scraped",
+      "n_notes": 303,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_001.mid",
+      "source": "scraped",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_002.mid",
+      "source": "scraped",
+      "n_notes": 148,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_003.mid",
+      "source": "scraped",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_004.mid",
+      "source": "scraped",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_005.mid",
+      "source": "scraped",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_006.mid",
+      "source": "scraped",
+      "n_notes": 178,
+      "scale": "D",
+      "purity": 0.9888,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_007.mid",
+      "source": "scraped",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_008.mid",
+      "source": "scraped",
+      "n_notes": 143,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_009.mid",
+      "source": "scraped",
+      "n_notes": 395,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_010.mid",
+      "source": "scraped",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        62,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_011.mid",
+      "source": "scraped",
+      "n_notes": 113,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_012.mid",
+      "source": "scraped",
+      "n_notes": 226,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_013.mid",
+      "source": "scraped",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_014.mid",
+      "source": "scraped",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_015.mid",
+      "source": "scraped",
+      "n_notes": 404,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_016.mid",
+      "source": "scraped",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_017.mid",
+      "source": "scraped",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_018.mid",
+      "source": "scraped",
+      "n_notes": 165,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_019.mid",
+      "source": "scraped",
+      "n_notes": 118,
+      "scale": "C",
+      "purity": 0.9746,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_020.mid",
+      "source": "scraped",
+      "n_notes": 120,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_021.mid",
+      "source": "scraped",
+      "n_notes": 443,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_022.mid",
+      "source": "scraped",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_023.mid",
+      "source": "scraped",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_024.mid",
+      "source": "scraped",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_025.mid",
+      "source": "scraped",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_026.mid",
+      "source": "scraped",
+      "n_notes": 207,
+      "scale": "C",
+      "purity": 0.9807,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_027.mid",
+      "source": "scraped",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_028.mid",
+      "source": "scraped",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_029.mid",
+      "source": "scraped",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_030.mid",
+      "source": "scraped",
+      "n_notes": 266,
+      "scale": "D",
+      "purity": 0.9925,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_031.mid",
+      "source": "scraped",
+      "n_notes": 223,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_032.mid",
+      "source": "scraped",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_033.mid",
+      "source": "scraped",
+      "n_notes": 181,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_034.mid",
+      "source": "scraped",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_035.mid",
+      "source": "scraped",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        62,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_036.mid",
+      "source": "scraped",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_037.mid",
+      "source": "scraped",
+      "n_notes": 133,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_038.mid",
+      "source": "scraped",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_039.mid",
+      "source": "scraped",
+      "n_notes": 152,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_040.mid",
+      "source": "scraped",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_041.mid",
+      "source": "scraped",
+      "n_notes": 138,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_042.mid",
+      "source": "scraped",
+      "n_notes": 96,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        64,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_043.mid",
+      "source": "scraped",
+      "n_notes": 250,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_044.mid",
+      "source": "scraped",
+      "n_notes": 106,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_045.mid",
+      "source": "scraped",
+      "n_notes": 129,
+      "scale": "A",
+      "purity": 0.9922,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_046.mid",
+      "source": "scraped",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_047.mid",
+      "source": "scraped",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_048.mid",
+      "source": "scraped",
+      "n_notes": 126,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        66,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_049.mid",
+      "source": "scraped",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_050.mid",
+      "source": "scraped",
+      "n_notes": 195,
+      "scale": "A",
+      "purity": 0.9538,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_051.mid",
+      "source": "scraped",
+      "n_notes": 231,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_052.mid",
+      "source": "scraped",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_053.mid",
+      "source": "scraped",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_054.mid",
+      "source": "scraped",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_055.mid",
+      "source": "scraped",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_056.mid",
+      "source": "scraped",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_057.mid",
+      "source": "scraped",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 0.9773,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_058.mid",
+      "source": "scraped",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_059.mid",
+      "source": "scraped",
+      "n_notes": 96,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_060.mid",
+      "source": "scraped",
+      "n_notes": 228,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_061.mid",
+      "source": "scraped",
+      "n_notes": 218,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_062.mid",
+      "source": "scraped",
+      "n_notes": 47,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_063.mid",
+      "source": "scraped",
+      "n_notes": 234,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_064.mid",
+      "source": "scraped",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_065.mid",
+      "source": "scraped",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_066.mid",
+      "source": "scraped",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_067.mid",
+      "source": "scraped",
+      "n_notes": 76,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_068.mid",
+      "source": "scraped",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_069.mid",
+      "source": "scraped",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_070.mid",
+      "source": "scraped",
+      "n_notes": 206,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_071.mid",
+      "source": "scraped",
+      "n_notes": 319,
+      "scale": "G",
+      "purity": 0.9875,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_072.mid",
+      "source": "scraped",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_073.mid",
+      "source": "scraped",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_074.mid",
+      "source": "scraped",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_075.mid",
+      "source": "scraped",
+      "n_notes": 312,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_076.mid",
+      "source": "scraped",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 0.927,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_077.mid",
+      "source": "scraped",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        62,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_078.mid",
+      "source": "scraped",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        64,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_000.mid",
+      "source": "scraped",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_001.mid",
+      "source": "scraped",
+      "n_notes": 137,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_002.mid",
+      "source": "scraped",
+      "n_notes": 132,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_003.mid",
+      "source": "scraped",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_validation_004.mid",
+      "source": "scraped",
+      "n_notes": 204,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_005.mid",
+      "source": "scraped",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_006.mid",
+      "source": "scraped",
+      "n_notes": 163,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_007.mid",
+      "source": "scraped",
+      "n_notes": 288,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_008.mid",
+      "source": "scraped",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_009.mid",
+      "source": "scraped",
+      "n_notes": 94,
+      "scale": "A",
+      "purity": 0.9894,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "Butterfly_Lovers.mid",
+      "source": "pittstate",
+      "n_notes": 2412,
+      "scale": "G",
+      "purity": 0.9896,
+      "range_ratio": 0.8872,
+      "pitch_range": [
+        14,
+        110
+      ]
+    },
+    {
+      "file": "Chun_Jiang_Hua_Yue_Yie.mid",
+      "source": "pittstate",
+      "n_notes": 1077,
+      "scale": "C",
+      "purity": 0.9981,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        79
+      ]
+    },
+    {
+      "file": "Dan_Yuan_Ren_Chang_Jiu.mid",
+      "source": "pittstate",
+      "n_notes": 1845,
+      "scale": "A",
+      "purity": 0.9312,
+      "range_ratio": 0.9604,
+      "pitch_range": [
+        30,
+        90
+      ]
+    },
+    {
+      "file": "Er_Quan_Yang_Yue.mid",
+      "source": "pittstate",
+      "n_notes": 1358,
+      "scale": "A",
+      "purity": 0.9315,
+      "range_ratio": 0.9912,
+      "pitch_range": [
+        37,
+        88
+      ]
+    },
+    {
+      "file": "Feng_Yang_Hua_Gu.mid",
+      "source": "pittstate",
+      "n_notes": 2140,
+      "scale": "G",
+      "purity": 0.9939,
+      "range_ratio": 0.865,
+      "pitch_range": [
+        33,
+        84
+      ]
+    },
+    {
+      "file": "Gao_Shan_Liu_Shui.mid",
+      "source": "pittstate",
+      "n_notes": 1354,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 0.9808,
+      "pitch_range": [
+        2,
+        93
+      ]
+    },
+    {
+      "file": "Gu_Zheng.mid",
+      "source": "pittstate",
+      "n_notes": 423,
+      "scale": "G",
+      "purity": 0.9527,
+      "range_ratio": 0.922,
+      "pitch_range": [
+        35,
+        81
+      ]
+    },
+    {
+      "file": "Hua_Hao_Yue_Yuan.mid",
+      "source": "pittstate",
+      "n_notes": 7334,
+      "scale": "G",
+      "purity": 0.9712,
+      "range_ratio": 0.9617,
+      "pitch_range": [
+        31,
+        98
+      ]
+    },
+    {
+      "file": "Jiang_He_Shui.mid",
+      "source": "pittstate",
+      "n_notes": 1609,
+      "scale": "F",
+      "purity": 0.9975,
+      "range_ratio": 0.9988,
+      "pitch_range": [
+        36,
+        87
+      ]
+    },
+    {
+      "file": "Jin_She_Kuang_Wu.mid",
+      "source": "pittstate",
+      "n_notes": 1116,
+      "scale": "C",
+      "purity": 0.9866,
+      "range_ratio": 0.8593,
+      "pitch_range": [
+        42,
+        98
+      ]
+    },
+    {
+      "file": "Liu_Qing_Niang.mid",
+      "source": "pittstate",
+      "n_notes": 4253,
+      "scale": "D",
+      "purity": 0.8606,
+      "range_ratio": 0.9598,
+      "pitch_range": [
+        14,
+        92
+      ]
+    },
+    {
+      "file": "Qiu_Hu_Yue_Yie.mid",
+      "source": "pittstate",
+      "n_notes": 6531,
+      "scale": "G",
+      "purity": 0.9784,
+      "range_ratio": 0.9942,
+      "pitch_range": [
+        38,
+        95
+      ]
+    },
+    {
+      "file": "Sai_Ma.mid",
+      "source": "pittstate",
+      "n_notes": 3043,
+      "scale": "C",
+      "purity": 0.9021,
+      "range_ratio": 0.9826,
+      "pitch_range": [
+        36,
+        89
+      ]
+    },
+    {
+      "file": "Su_San_Qi_Jie.mid",
+      "source": "pittstate",
+      "n_notes": 5551,
+      "scale": "F",
+      "purity": 0.9245,
+      "range_ratio": 0.9614,
+      "pitch_range": [
+        33,
+        91
+      ]
+    },
+    {
+      "file": "Wang_Jiang_Nan.mid",
+      "source": "pittstate",
+      "n_notes": 4194,
+      "scale": "F",
+      "purity": 0.9795,
+      "range_ratio": 0.9733,
+      "pitch_range": [
+        29,
+        98
+      ]
+    },
+    {
+      "file": "Wu_Zhou_Cai_Cha_Xi.mid",
+      "source": "pittstate",
+      "n_notes": 1622,
+      "scale": "A",
+      "purity": 0.9131,
+      "range_ratio": 0.9439,
+      "pitch_range": [
+        30,
+        94
+      ]
+    },
+    {
+      "file": "Xi_Yang_Yang.mid",
+      "source": "pittstate",
+      "n_notes": 4697,
+      "scale": "C",
+      "purity": 0.9721,
+      "range_ratio": 0.8014,
+      "pitch_range": [
+        31,
+        103
+      ]
+    },
+    {
+      "file": "Yang_Bian_Cui_Ma.mid",
+      "source": "pittstate",
+      "n_notes": 13301,
+      "scale": "A",
+      "purity": 0.8908,
+      "range_ratio": 0.8212,
+      "pitch_range": [
+        28,
+        102
+      ]
+    }
+  ]
+}

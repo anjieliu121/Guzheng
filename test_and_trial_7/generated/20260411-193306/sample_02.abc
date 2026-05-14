@@ -1,0 +1,40 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+z12 [A,A]12 G2 E4|
+[A,A]12 A4 G2 E2 D4 D4|
+[E,E]12 E4 D2 C4 D4 E4|
+[G,G]12 A4 G2 E4 D4 D4|
+[A,,A,]16 [A,A]12 G2 E4|
+[A,A]12 A4 G2 E2 D4 D4|
+[E,E]12 E4 D2 C4 D4 E4|
+[G,G]12 A4 G2 E4 D4 D4|
+[A,,A,]16 G2 A2 c2 d4 d4|
+d2 c2 A4 G4 G4 A4 c2 d2 A4 G4|
+G4 E4 G4 A2 c2 d4 d2 c4 A4|
+G4 G4 E4 G4 A4 D8 D2 D2|
+[E,E]12 A2 G2 E4 D4 D4|
+[E,E]12 E2 D2 C4 A,4 G,4|
+[A,,A,]12 A2 G2 E4 D4 D4|
+[A,,A,]12 A2 G2 E2 D2 C4 C4|
+[A,,A,]12 A2 G2 E4 D4 D4|
+[A,,A,]16 A2 G2 E2 D4 D4|
+[A,,A,]16 A2 G2 E2 D4 D4|
+[A,,A,]12 A2 G2 E2 D4 D4 D4|
+[A,,A,]12 A2 G2 E2 D4 D4 D4|
+[A,,A,]16 [Gg]4 [Ee]4 [Dd]4 [Dd]4|
+[A,A]16 [Gg]4 [Ee]4 [Dd]4 [Dd]4|
+[A,,A,]16 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]16 [Ee]4 [Dd]4 [Cc]4 [A,A]4|
+[G,G]16 [A,A]16|
+z8 [G,G]16 E2 D2 D4|
+[E,E]16 E4 D4 C4 D4|
+[E,E]16 E4 D4 C4 D4|
+[E,E]12 E4 D4 C4 A,4 A,4|
+[A,,A,]16 [A,A]16|
+A,2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 A2|
+A16 z16|

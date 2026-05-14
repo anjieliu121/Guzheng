@@ -1,0 +1,6495 @@
+{
+  "total_files": 590,
+  "files": [
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_A.mid",
+      "n_notes": 502,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        37,
+        81
+      ]
+    },
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_C.mid",
+      "n_notes": 502,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        84
+      ]
+    },
+    {
+      "file": "ba_yue_gui_hua_bian_di_kai_D.mid",
+      "n_notes": 502,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        86
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_A.mid",
+      "n_notes": 406,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_C.mid",
+      "n_notes": 406,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_D.mid",
+      "n_notes": 406,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_F.mid",
+      "n_notes": 406,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        81
+      ]
+    },
+    {
+      "file": "bai_jia_chun_han_gao_G.mid",
+      "n_notes": 406,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "bu_bu_gao_A.mid",
+      "n_notes": 321,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "bu_bu_gao_C.mid",
+      "n_notes": 321,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "bu_bu_gao_D.mid",
+      "n_notes": 321,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "bu_bu_gao_F.mid",
+      "n_notes": 321,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "bu_bu_gao_G.mid",
+      "n_notes": 321,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "cai_yun_zhui_yue_D.mid",
+      "n_notes": 891,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "chu_shui_lian_A.mid",
+      "n_notes": 646,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "chu_shui_lian_C.mid",
+      "n_notes": 646,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "chu_shui_lian_D.mid",
+      "n_notes": 646,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "chu_shui_lian_F.mid",
+      "n_notes": 646,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "chu_shui_lian_G.mid",
+      "n_notes": 646,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "chun_dao_la_sa_D.mid",
+      "n_notes": 1909,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "chun_jiang_hua_yue_ye_A.mid",
+      "n_notes": 550,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "chun_jiang_hua_yue_ye_C.mid",
+      "n_notes": 550,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "chun_jiang_hua_yue_ye_D.mid",
+      "n_notes": 550,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "chun_jiang_hua_yue_ye_F.mid",
+      "n_notes": 550,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        72
+      ]
+    },
+    {
+      "file": "chun_jiang_hua_yue_ye_G.mid",
+      "n_notes": 550,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "chun_miao_A.mid",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "chun_miao_C.mid",
+      "n_notes": 1102,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        84
+      ]
+    },
+    {
+      "file": "chun_miao_D.mid",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "chun_miao_G.mid",
+      "n_notes": 1102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "da_yan_A.mid",
+      "n_notes": 486,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "da_yan_C.mid",
+      "n_notes": 486,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "da_yan_D.mid",
+      "n_notes": 486,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "da_yan_F.mid",
+      "n_notes": 486,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "da_yan_G.mid",
+      "n_notes": 486,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_A.mid",
+      "n_notes": 651,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_C.mid",
+      "n_notes": 651,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        84
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_D.mid",
+      "n_notes": 651,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "dan_dian_tou_luan_cha_hua_G.mid",
+      "n_notes": 651,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "dong_ting_xin_ge_D.mid",
+      "n_notes": 1122,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "fang_zhi_mang_A.mid",
+      "n_notes": 809,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "fang_zhi_mang_C.mid",
+      "n_notes": 809,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "fang_zhi_mang_D.mid",
+      "n_notes": 809,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "fang_zhi_mang_F.mid",
+      "n_notes": 809,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "fang_zhi_mang_G.mid",
+      "n_notes": 809,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "fen_die_cai_hua_A.mid",
+      "n_notes": 1416,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        80
+      ]
+    },
+    {
+      "file": "fen_die_cai_hua_C.mid",
+      "n_notes": 1416,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        71
+      ]
+    },
+    {
+      "file": "fen_die_cai_hua_D.mid",
+      "n_notes": 1416,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "fen_die_cai_hua_F.mid",
+      "n_notes": 1416,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        76
+      ]
+    },
+    {
+      "file": "fen_die_cai_hua_G.mid",
+      "n_notes": 1416,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_D.mid",
+      "n_notes": 674,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        81
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_F.mid",
+      "n_notes": 674,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        41,
+        84
+      ]
+    },
+    {
+      "file": "gao_shan_liu_shui_G.mid",
+      "n_notes": 674,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_000_A.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_000_C.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_000_D.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_000_F.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_000_G.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_001_A.mid",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_test_001_C.mid",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_001_D.mid",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_test_001_F.mid",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_test_001_G.mid",
+      "n_notes": 69,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_test_002_A.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_test_002_C.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_002_D.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_test_002_F.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_002_G.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_003_A.mid",
+      "n_notes": 226,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_test_003_C.mid",
+      "n_notes": 226,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_003_D.mid",
+      "n_notes": 226,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_test_003_F.mid",
+      "n_notes": 226,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_003_G.mid",
+      "n_notes": 226,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_test_004_D.mid",
+      "n_notes": 125,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_004_F.mid",
+      "n_notes": 122,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_004_G.mid",
+      "n_notes": 125,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_005_A.mid",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_test_005_C.mid",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_test_005_D.mid",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_test_005_F.mid",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_005_G.mid",
+      "n_notes": 60,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_006_A.mid",
+      "n_notes": 170,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_006_C.mid",
+      "n_notes": 170,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_006_D.mid",
+      "n_notes": 170,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_test_006_F.mid",
+      "n_notes": 170,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_006_G.mid",
+      "n_notes": 170,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_007_A.mid",
+      "n_notes": 290,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_007_C.mid",
+      "n_notes": 290,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_007_D.mid",
+      "n_notes": 290,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_007_F.mid",
+      "n_notes": 290,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_test_007_G.mid",
+      "n_notes": 290,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_008_A.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_test_008_C.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_008_D.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_008_F.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_008_G.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_009_A.mid",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_test_009_C.mid",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_test_009_D.mid",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_test_009_F.mid",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_test_009_G.mid",
+      "n_notes": 81,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_000_A.mid",
+      "n_notes": 303,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_000_C.mid",
+      "n_notes": 303,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_000_D.mid",
+      "n_notes": 303,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_000_F.mid",
+      "n_notes": 303,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_000_G.mid",
+      "n_notes": 303,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_001_A.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_001_C.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_001_D.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_001_F.mid",
+      "n_notes": 87,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_001_G.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_002_A.mid",
+      "n_notes": 148,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_002_C.mid",
+      "n_notes": 148,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_002_D.mid",
+      "n_notes": 148,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_002_F.mid",
+      "n_notes": 148,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "guzheng_train_002_G.mid",
+      "n_notes": 148,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_003_A.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_003_C.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_003_D.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_003_F.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_003_G.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_004_A.mid",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_004_C.mid",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_004_D.mid",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_004_F.mid",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_004_G.mid",
+      "n_notes": 219,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_005_A.mid",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_005_C.mid",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_005_D.mid",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_005_F.mid",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_005_G.mid",
+      "n_notes": 62,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_006_A.mid",
+      "n_notes": 178,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_006_C.mid",
+      "n_notes": 178,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_006_D.mid",
+      "n_notes": 178,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_006_F.mid",
+      "n_notes": 178,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_006_G.mid",
+      "n_notes": 178,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_007_A.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_007_C.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_007_D.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_007_F.mid",
+      "n_notes": 118,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_007_G.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_008_A.mid",
+      "n_notes": 143,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_008_C.mid",
+      "n_notes": 143,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_008_D.mid",
+      "n_notes": 143,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_008_F.mid",
+      "n_notes": 143,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_008_G.mid",
+      "n_notes": 143,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_009_A.mid",
+      "n_notes": 394,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_009_C.mid",
+      "n_notes": 394,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_009_D.mid",
+      "n_notes": 394,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_009_F.mid",
+      "n_notes": 394,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_009_G.mid",
+      "n_notes": 394,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_010_A.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_010_C.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_010_D.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_010_F.mid",
+      "n_notes": 72,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_010_G.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_011_A.mid",
+      "n_notes": 113,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_011_C.mid",
+      "n_notes": 113,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_011_D.mid",
+      "n_notes": 113,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_011_F.mid",
+      "n_notes": 113,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_011_G.mid",
+      "n_notes": 113,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_012_A.mid",
+      "n_notes": 225,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_012_C.mid",
+      "n_notes": 225,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_012_D.mid",
+      "n_notes": 225,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_012_F.mid",
+      "n_notes": 224,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_012_G.mid",
+      "n_notes": 225,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_013_A.mid",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_013_C.mid",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_013_D.mid",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_013_F.mid",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_013_G.mid",
+      "n_notes": 84,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_014_A.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_014_C.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_014_D.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_014_F.mid",
+      "n_notes": 88,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_014_G.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_015_A.mid",
+      "n_notes": 402,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_015_C.mid",
+      "n_notes": 402,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_015_D.mid",
+      "n_notes": 402,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_015_F.mid",
+      "n_notes": 403,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_015_G.mid",
+      "n_notes": 402,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_016_A.mid",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_016_C.mid",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_016_D.mid",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_016_F.mid",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_016_G.mid",
+      "n_notes": 157,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_017_A.mid",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_017_C.mid",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_017_D.mid",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_017_F.mid",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_017_G.mid",
+      "n_notes": 37,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_018_A.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_018_C.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_018_D.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_018_F.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_018_G.mid",
+      "n_notes": 164,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_019_A.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_019_C.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_019_D.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_019_F.mid",
+      "n_notes": 117,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_019_G.mid",
+      "n_notes": 118,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_020_A.mid",
+      "n_notes": 120,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_020_C.mid",
+      "n_notes": 120,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_020_D.mid",
+      "n_notes": 120,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_020_F.mid",
+      "n_notes": 120,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_020_G.mid",
+      "n_notes": 120,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_021_A.mid",
+      "n_notes": 443,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_021_C.mid",
+      "n_notes": 443,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_021_D.mid",
+      "n_notes": 443,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_021_F.mid",
+      "n_notes": 443,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_021_G.mid",
+      "n_notes": 443,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_022_A.mid",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_022_C.mid",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_022_D.mid",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_022_F.mid",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_022_G.mid",
+      "n_notes": 112,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_023_A.mid",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_023_C.mid",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_023_D.mid",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_023_F.mid",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_023_G.mid",
+      "n_notes": 40,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_024_A.mid",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_024_C.mid",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_024_D.mid",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_024_F.mid",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_024_G.mid",
+      "n_notes": 104,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_025_A.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_025_C.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_025_D.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_025_F.mid",
+      "n_notes": 195,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_025_G.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_026_A.mid",
+      "n_notes": 207,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_026_C.mid",
+      "n_notes": 207,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_026_D.mid",
+      "n_notes": 207,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_026_F.mid",
+      "n_notes": 206,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_026_G.mid",
+      "n_notes": 207,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_027_A.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_027_C.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_027_D.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_027_F.mid",
+      "n_notes": 66,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_027_G.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_028_A.mid",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_028_C.mid",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_028_D.mid",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_028_F.mid",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_028_G.mid",
+      "n_notes": 244,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_029_A.mid",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_029_C.mid",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_029_D.mid",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_029_F.mid",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_029_G.mid",
+      "n_notes": 247,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_030_A.mid",
+      "n_notes": 266,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_030_C.mid",
+      "n_notes": 266,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_030_D.mid",
+      "n_notes": 266,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_030_F.mid",
+      "n_notes": 266,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_030_G.mid",
+      "n_notes": 266,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_031_A.mid",
+      "n_notes": 221,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        85
+      ]
+    },
+    {
+      "file": "guzheng_train_031_F.mid",
+      "n_notes": 219,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_031_G.mid",
+      "n_notes": 221,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_032_A.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_032_C.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_032_D.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_032_F.mid",
+      "n_notes": 176,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_032_G.mid",
+      "n_notes": 176,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_033_A.mid",
+      "n_notes": 181,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_033_C.mid",
+      "n_notes": 181,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_033_D.mid",
+      "n_notes": 181,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_033_F.mid",
+      "n_notes": 181,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_033_G.mid",
+      "n_notes": 181,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_034_A.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_034_C.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_034_D.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_034_F.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_034_G.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_035_A.mid",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_035_C.mid",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_035_D.mid",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_train_035_F.mid",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_035_G.mid",
+      "n_notes": 48,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_036_A.mid",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_036_C.mid",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_036_D.mid",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_036_F.mid",
+      "n_notes": 135,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_036_G.mid",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_037_A.mid",
+      "n_notes": 133,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_037_C.mid",
+      "n_notes": 133,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_037_D.mid",
+      "n_notes": 133,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_037_F.mid",
+      "n_notes": 133,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_037_G.mid",
+      "n_notes": 133,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_038_A.mid",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_038_C.mid",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_038_D.mid",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_038_F.mid",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_038_G.mid",
+      "n_notes": 59,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_039_A.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_039_C.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_039_D.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_039_F.mid",
+      "n_notes": 152,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_039_G.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_040_A.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_040_C.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_040_D.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_040_F.mid",
+      "n_notes": 155,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        72
+      ]
+    },
+    {
+      "file": "guzheng_train_040_G.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_041_A.mid",
+      "n_notes": 138,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_041_C.mid",
+      "n_notes": 138,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_041_D.mid",
+      "n_notes": 138,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_041_F.mid",
+      "n_notes": 138,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_041_G.mid",
+      "n_notes": 138,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_042_A.mid",
+      "n_notes": 95,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_train_042_C.mid",
+      "n_notes": 95,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_042_D.mid",
+      "n_notes": 95,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_042_F.mid",
+      "n_notes": 95,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_042_G.mid",
+      "n_notes": 95,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_043_A.mid",
+      "n_notes": 249,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_043_C.mid",
+      "n_notes": 250,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_043_D.mid",
+      "n_notes": 250,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_043_F.mid",
+      "n_notes": 250,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_043_G.mid",
+      "n_notes": 250,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_044_A.mid",
+      "n_notes": 106,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_044_C.mid",
+      "n_notes": 106,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_044_D.mid",
+      "n_notes": 106,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_044_F.mid",
+      "n_notes": 106,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_044_G.mid",
+      "n_notes": 106,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_045_A.mid",
+      "n_notes": 129,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_045_C.mid",
+      "n_notes": 129,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_045_D.mid",
+      "n_notes": 129,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_045_F.mid",
+      "n_notes": 129,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_045_G.mid",
+      "n_notes": 129,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_046_A.mid",
+      "n_notes": 235,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_046_C.mid",
+      "n_notes": 235,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_046_D.mid",
+      "n_notes": 235,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_046_F.mid",
+      "n_notes": 235,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_046_G.mid",
+      "n_notes": 235,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_047_A.mid",
+      "n_notes": 115,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_047_C.mid",
+      "n_notes": 115,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_047_D.mid",
+      "n_notes": 115,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_047_F.mid",
+      "n_notes": 115,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_047_G.mid",
+      "n_notes": 115,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_048_A.mid",
+      "n_notes": 126,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        62
+      ]
+    },
+    {
+      "file": "guzheng_train_048_C.mid",
+      "n_notes": 126,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_048_D.mid",
+      "n_notes": 126,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_048_F.mid",
+      "n_notes": 126,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        72
+      ]
+    },
+    {
+      "file": "guzheng_train_048_G.mid",
+      "n_notes": 126,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_049_A.mid",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_train_049_C.mid",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_049_D.mid",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_049_F.mid",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        62
+      ]
+    },
+    {
+      "file": "guzheng_train_049_G.mid",
+      "n_notes": 44,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_050_A.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_050_C.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_050_D.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_050_F.mid",
+      "n_notes": 195,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_050_G.mid",
+      "n_notes": 195,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_051_A.mid",
+      "n_notes": 231,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_051_C.mid",
+      "n_notes": 231,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_051_D.mid",
+      "n_notes": 231,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_051_F.mid",
+      "n_notes": 231,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_051_G.mid",
+      "n_notes": 231,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_052_A.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_052_C.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_052_D.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_052_F.mid",
+      "n_notes": 136,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_052_G.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_053_A.mid",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_053_C.mid",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_053_D.mid",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_053_F.mid",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_053_G.mid",
+      "n_notes": 55,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_054_A.mid",
+      "n_notes": 110,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_054_C.mid",
+      "n_notes": 110,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_054_D.mid",
+      "n_notes": 110,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_054_F.mid",
+      "n_notes": 110,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_054_G.mid",
+      "n_notes": 110,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_055_A.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_055_C.mid",
+      "n_notes": 154,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_055_D.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_055_G.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_056_G.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_057_A.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_057_C.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_057_D.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_057_F.mid",
+      "n_notes": 88,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_057_G.mid",
+      "n_notes": 88,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_058_A.mid",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_train_058_C.mid",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_058_D.mid",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_058_F.mid",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_058_G.mid",
+      "n_notes": 111,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_059_A.mid",
+      "n_notes": 96,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_059_C.mid",
+      "n_notes": 95,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_059_D.mid",
+      "n_notes": 96,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_059_F.mid",
+      "n_notes": 95,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_059_G.mid",
+      "n_notes": 96,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_060_A.mid",
+      "n_notes": 228,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_060_C.mid",
+      "n_notes": 227,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_060_D.mid",
+      "n_notes": 228,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_060_G.mid",
+      "n_notes": 228,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_061_A.mid",
+      "n_notes": 214,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_061_C.mid",
+      "n_notes": 218,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_061_D.mid",
+      "n_notes": 218,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_061_F.mid",
+      "n_notes": 217,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_061_G.mid",
+      "n_notes": 218,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_062_A.mid",
+      "n_notes": 47,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_062_C.mid",
+      "n_notes": 47,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_062_D.mid",
+      "n_notes": 47,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_062_F.mid",
+      "n_notes": 47,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_062_G.mid",
+      "n_notes": 47,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_063_A.mid",
+      "n_notes": 234,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_063_C.mid",
+      "n_notes": 234,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_063_D.mid",
+      "n_notes": 234,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_063_F.mid",
+      "n_notes": 234,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_063_G.mid",
+      "n_notes": 234,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_064_A.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_064_C.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_064_D.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_064_F.mid",
+      "n_notes": 369,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_064_G.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_065_A.mid",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_065_C.mid",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_065_D.mid",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_065_F.mid",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_065_G.mid",
+      "n_notes": 150,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_066_A.mid",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_066_C.mid",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_066_D.mid",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_066_F.mid",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_066_G.mid",
+      "n_notes": 232,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_067_A.mid",
+      "n_notes": 75,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_067_C.mid",
+      "n_notes": 75,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_067_D.mid",
+      "n_notes": 75,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_067_F.mid",
+      "n_notes": 75,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_067_G.mid",
+      "n_notes": 75,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_068_A.mid",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_068_C.mid",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_068_D.mid",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_068_F.mid",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_068_G.mid",
+      "n_notes": 128,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_069_A.mid",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_069_C.mid",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_069_D.mid",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_069_F.mid",
+      "n_notes": 114,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_069_G.mid",
+      "n_notes": 116,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_train_070_A.mid",
+      "n_notes": 206,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_070_C.mid",
+      "n_notes": 206,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_070_D.mid",
+      "n_notes": 206,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_070_F.mid",
+      "n_notes": 206,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_train_070_G.mid",
+      "n_notes": 206,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_071_A.mid",
+      "n_notes": 319,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_071_C.mid",
+      "n_notes": 319,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_071_D.mid",
+      "n_notes": 319,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_071_F.mid",
+      "n_notes": 319,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_071_G.mid",
+      "n_notes": 319,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_072_A.mid",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_072_C.mid",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_072_D.mid",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_072_F.mid",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_072_G.mid",
+      "n_notes": 30,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_073_A.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_073_C.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_073_D.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_073_F.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_073_G.mid",
+      "n_notes": 203,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_074_A.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        49,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_074_C.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_train_074_D.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_074_F.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_074_G.mid",
+      "n_notes": 72,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_075_A.mid",
+      "n_notes": 312,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_075_C.mid",
+      "n_notes": 312,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_075_D.mid",
+      "n_notes": 312,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        78
+      ]
+    },
+    {
+      "file": "guzheng_train_075_F.mid",
+      "n_notes": 312,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_train_075_G.mid",
+      "n_notes": 312,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_076_A.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_076_C.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        62
+      ]
+    },
+    {
+      "file": "guzheng_train_076_D.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_076_F.mid",
+      "n_notes": 137,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_076_G.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_077_A.mid",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        73
+      ]
+    },
+    {
+      "file": "guzheng_train_077_C.mid",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        64
+      ]
+    },
+    {
+      "file": "guzheng_train_077_D.mid",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_train_077_F.mid",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_train_077_G.mid",
+      "n_notes": 102,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_078_A.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        54,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_train_078_C.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        57,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_train_078_D.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        59,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_train_078_F.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        67
+      ]
+    },
+    {
+      "file": "guzheng_train_078_G.mid",
+      "n_notes": 66,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_validation_000_A.mid",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_000_C.mid",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_000_D.mid",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_000_F.mid",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_000_G.mid",
+      "n_notes": 320,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_001_A.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        83
+      ]
+    },
+    {
+      "file": "guzheng_validation_001_C.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_001_D.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_validation_001_F.mid",
+      "n_notes": 136,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_001_G.mid",
+      "n_notes": 137,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_002_A.mid",
+      "n_notes": 132,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_validation_002_C.mid",
+      "n_notes": 132,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_002_D.mid",
+      "n_notes": 132,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_002_F.mid",
+      "n_notes": 132,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_002_G.mid",
+      "n_notes": 132,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_003_A.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        66
+      ]
+    },
+    {
+      "file": "guzheng_validation_003_C.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_validation_003_D.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        71
+      ]
+    },
+    {
+      "file": "guzheng_validation_003_F.mid",
+      "n_notes": 99,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_003_G.mid",
+      "n_notes": 99,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        55,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_validation_004_A.mid",
+      "n_notes": 204,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_validation_004_C.mid",
+      "n_notes": 204,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_004_D.mid",
+      "n_notes": 204,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_004_F.mid",
+      "n_notes": 203,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_004_G.mid",
+      "n_notes": 204,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_005_A.mid",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_005_C.mid",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_005_D.mid",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_005_F.mid",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_005_G.mid",
+      "n_notes": 77,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_006_A.mid",
+      "n_notes": 163,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_006_C.mid",
+      "n_notes": 162,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_006_D.mid",
+      "n_notes": 163,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_006_F.mid",
+      "n_notes": 163,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_006_G.mid",
+      "n_notes": 162,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_007_A.mid",
+      "n_notes": 288,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "guzheng_validation_007_C.mid",
+      "n_notes": 286,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_007_D.mid",
+      "n_notes": 288,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_007_F.mid",
+      "n_notes": 286,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_007_G.mid",
+      "n_notes": 288,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_008_A.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        81
+      ]
+    },
+    {
+      "file": "guzheng_validation_008_C.mid",
+      "n_notes": 154,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_008_D.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        86
+      ]
+    },
+    {
+      "file": "guzheng_validation_008_F.mid",
+      "n_notes": 152,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_008_G.mid",
+      "n_notes": 155,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_009_A.mid",
+      "n_notes": 94,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        69
+      ]
+    },
+    {
+      "file": "guzheng_validation_009_C.mid",
+      "n_notes": 94,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_009_D.mid",
+      "n_notes": 94,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        74
+      ]
+    },
+    {
+      "file": "guzheng_validation_009_F.mid",
+      "n_notes": 94,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "guzheng_validation_009_G.mid",
+      "n_notes": 94,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        79
+      ]
+    },
+    {
+      "file": "han_tian_lei_A.mid",
+      "n_notes": 625,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "han_tian_lei_C.mid",
+      "n_notes": 625,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "han_tian_lei_D.mid",
+      "n_notes": 625,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "han_tian_lei_F.mid",
+      "n_notes": 625,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "han_tian_lei_G.mid",
+      "n_notes": 625,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "he_nan_ba_ban_A.mid",
+      "n_notes": 340,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "he_nan_ba_ban_C.mid",
+      "n_notes": 340,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "he_nan_ba_ban_D.mid",
+      "n_notes": 340,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "he_nan_ba_ban_F.mid",
+      "n_notes": 340,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        79
+      ]
+    },
+    {
+      "file": "he_nan_ba_ban_G.mid",
+      "n_notes": 340,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "liu_yang_he_C.mid",
+      "n_notes": 787,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        84
+      ]
+    },
+    {
+      "file": "liu_yang_he_D.mid",
+      "n_notes": 787,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        86
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_A.mid",
+      "n_notes": 618,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_C.mid",
+      "n_notes": 618,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_D.mid",
+      "n_notes": 618,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_F.mid",
+      "n_notes": 618,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "nan_zheng_gong_G.mid",
+      "n_notes": 618,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_A.mid",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_C.mid",
+      "n_notes": 246,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_D.mid",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_F.mid",
+      "n_notes": 246,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "qian_sheng_fo_G.mid",
+      "n_notes": 246,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "shang_lou_A.mid",
+      "n_notes": 369,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "shang_lou_C.mid",
+      "n_notes": 369,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "shang_lou_D.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "shang_lou_F.mid",
+      "n_notes": 369,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "shang_lou_G.mid",
+      "n_notes": 369,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    },
+    {
+      "file": "ya_shan_ai_A.mid",
+      "n_notes": 393,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        71
+      ]
+    },
+    {
+      "file": "ya_shan_ai_C.mid",
+      "n_notes": 393,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "ya_shan_ai_D.mid",
+      "n_notes": 393,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "ya_shan_ai_F.mid",
+      "n_notes": 393,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        79
+      ]
+    },
+    {
+      "file": "ya_shan_ai_G.mid",
+      "n_notes": 393,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "yu_mei_ren_A.mid",
+      "n_notes": 390,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        76
+      ]
+    },
+    {
+      "file": "yu_mei_ren_C.mid",
+      "n_notes": 390,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        79
+      ]
+    },
+    {
+      "file": "yu_mei_ren_D.mid",
+      "n_notes": 390,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        81
+      ]
+    },
+    {
+      "file": "yu_mei_ren_F.mid",
+      "n_notes": 390,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        41,
+        72
+      ]
+    },
+    {
+      "file": "yu_mei_ren_G.mid",
+      "n_notes": 390,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        74
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_A.mid",
+      "n_notes": 718,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_C.mid",
+      "n_notes": 718,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        79
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_D.mid",
+      "n_notes": 718,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_F.mid",
+      "n_notes": 718,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        84
+      ]
+    },
+    {
+      "file": "yu_zhou_chang_wan_G.mid",
+      "n_notes": 718,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        74
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_A.mid",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        37,
+        73
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_C.mid",
+      "n_notes": 236,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        40,
+        76
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_D.mid",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        42,
+        78
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_F.mid",
+      "n_notes": 236,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        81
+      ]
+    },
+    {
+      "file": "zai_bei_jing_de_jin_shan_shang_G.mid",
+      "n_notes": 236,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        47,
+        83
+      ]
+    },
+    {
+      "file": "zhan_tai_feng_D.mid",
+      "n_notes": 2716,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        38,
+        86
+      ]
+    },
+    {
+      "file": "zhao_jun_yuan_A.mid",
+      "n_notes": 519,
+      "scale": "A",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        52,
+        81
+      ]
+    },
+    {
+      "file": "zhao_jun_yuan_C.mid",
+      "n_notes": 519,
+      "scale": "C",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        43,
+        72
+      ]
+    },
+    {
+      "file": "zhao_jun_yuan_D.mid",
+      "n_notes": 519,
+      "scale": "D",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        45,
+        74
+      ]
+    },
+    {
+      "file": "zhao_jun_yuan_F.mid",
+      "n_notes": 519,
+      "scale": "F",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        48,
+        77
+      ]
+    },
+    {
+      "file": "zhao_jun_yuan_G.mid",
+      "n_notes": 519,
+      "scale": "G",
+      "purity": 1.0,
+      "range_ratio": 1.0,
+      "pitch_range": [
+        50,
+        79
+      ]
+    }
+  ]
+}

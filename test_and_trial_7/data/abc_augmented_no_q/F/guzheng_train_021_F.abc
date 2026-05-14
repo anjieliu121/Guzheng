@@ -1,0 +1,75 @@
+L:1/32
+M:4/4
+K:F
+V:1 treble nm="Guzheng"
+
+[V:1]z17 A,4 A4 G3 G4|
+[V:1]A,8 A8 D,4 D4 D4 G4|
+[V:1]G4 G3 G4 A4 G8 G4 A4 G-|
+[V:1]G3 A5 E3 D5 C,7 C8 C,-|
+[V:1]C,3 C4 C4 D4 G,4 G2 G2 C4 D4 G,-|
+[V:1]G,6 G8 D,5 D4 C4 D4 G,-|
+[V:1]G,7 G9 G,4 G8 c4|
+[V:1]A4 c4 A4 G4 G,4 G2 D2 C4 D4|
+[V:1]G,8 G8 A,4 A4 G4 G4|
+[V:1]A,8 A8 D,4 D4 D4 G4|
+[V:1]G4 G5 G4 A4 G,8 G,3 A4-|
+[V:1]A G,3 G4 D4 G4 C,9 C7-|
+[V:1]C C,4 C7 D4 G,4 G2 G2 D3 C2 D2 G,-|
+[V:1]G,7 G7 D,4 D5 D4 G4 G,-|
+[V:1]G, G2 G3 G G,2 G2 G3 G2 G,8 G8|
+[V:1]E4 G4 D4 G4 C,4 C4 A,4 D4-|
+[V:1]D C,8 C8 C4 c8 g3-|
+[V:1]g D3 d4 d4 c4 A,4 A2 G2 G4 G4|
+[V:1]A,8 A8 C5 c7 g4-|
+[V:1]g D4 d4 d4 c4 G,3 G2 G2 D4 G4|
+[V:1]G,8 G8 A,5 A7 c4|
+[V:1]A,4 A4 A4 G5 G,8 G7|
+[V:1]G4 A4 G4 G4 D,8 D8|
+[V:1]G,4 G4 D4 G4 G,8 G8|
+[V:1]G,4 G4 D4 G4 C4 c4 A4 c4|
+[V:1]G,8 G8 G16-|
+[V:1]G A,4 A4 G4 A3 C4 c5 A3 d4-|
+[V:1]d C8 c8 c8 z4 e3-|
+[V:1]e D4 d2 c2 A3 c4 D2 d2 d2 d2 D2 d2 d2 d2|
+[V:1]D8 d7 C4 c5 c4 d4|
+[V:1]G8 g8 D4 d4 d4 c4-|
+[V:1]c A4 c4 G4 A4 C4 c3 A5 d3-|
+[V:1]d C7 c9 A,4 A8 c3-|
+[V:1]c D4 d4 d4 c4 A3 c4 G4 A4|
+[V:1]C8 c8 G4 c4 G4 A4|
+[V:1]C8 c8 G,4 G8 c4|
+[V:1]G,4 G4 G4 A4 C4 c4 A4 d4|
+[V:1]C8 c8 A,4 A8 c4|
+[V:1]D4 d4 d4 c4 A4 c4 G4 A4|
+[V:1]C7 c8 G,9 G8|
+[V:1]G,4 G4 G4 A4 C4 c4 A4 d4|
+[V:1]C8 c9 c15-|
+[V:1]c G,4 G8 G4 A,4 A4 A4 c3|
+[V:1]A4 c4 A4 G4 G,9 G7-|
+[V:1]G G,3 G5 G3 G4 D,4 D4 C4 D4|
+[V:1]G,8 G8 C,4 C8 G4-|
+[V:1]G D,4 D7 G4 C,4 C4 A,4 D3 C,-|
+[V:1]C,3 C5 C4 A4 G4 A4 D4 G4|
+[V:1]G,8 G8 G16|
+[V:1]C4 c4 A4 d4 C8 c8-|
+[V:1]c G,3 G8 G5 A,8 A3 c4|
+[V:1]A,4 A4 A4 G4 G,8 G8|
+[V:1]G4 A4 G4 E4 D4 G4 C4 D4|
+[V:1]G,8 G8 D,4 D4 D4 G4|
+[V:1]G,4 G4 G4 A4 C8 c8|
+[V:1]c17 G,4 G4 G4 A3-|
+[V:1]A C7 c8 G,4 G4 G4 A4|
+[V:1]C8 c8 G,4 G4 G4 G4|
+[V:1]A,9 A8 G,4 G4 G4 G3-|
+[V:1]G A,8 A8 G,3 G5 G4 A3-|
+[V:1]A G4 A4 G3 E4 D4 G4 C4 D4|
+[V:1]G,8 G8 C,4 C4 C4 G4|
+[V:1]D,4 D4 D4 G4 C,4 C4 A,5 D3|
+[V:1]C,4 C4 C4 A4 G,4 G4 D4 G4|
+[V:1]G,8 G9 G15-|
+[V:1]G C4 c4 A4 d3 C8 c8-|
+[V:1]c G,4 G8 G4 A,8 A4 c3-|
+[V:1]c A,3 A4 A4 G4 G,4 G4 C4 D4|
+[V:1]G,9 G23-|
+[V:1]G9 z23|

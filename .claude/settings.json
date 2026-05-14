@@ -1,0 +1,61 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "Bash(true find:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(awk:*)",
+      "Bash(wc:*)",
+      "Bash(xxd:*)",
+      "Bash(ps:*)",
+      "Bash(kill:*)",
+      "Bash(git status:*)",
+      "Bash(git clone:*)",
+
+      "Bash(python*:*)",
+      "Bash(/opt/miniconda3/envs/*/bin/python*:*)",
+      "Bash(/Library/Frameworks/Python.framework/Versions/*/bin/python*:*)",
+
+      "Bash(conda:*)",
+      "Bash(source */bin/activate)",
+
+      "Bash(pip install:*)",
+      "Bash(brew install:*)",
+      "Bash(pip:*)",
+
+      "Bash(*train.py*)",
+      "Bash(*generate*.py*)",
+      "Bash(*evaluate*.py*)",
+      "Bash(*data_preprocess.py*)",
+
+      "Bash(RWKV_* python* *train.py*)",
+      "Bash(RWKV_* python* *generate_constrained.py*)",
+      "Bash(RWKV_* python* *evaluate*.py*)",
+      "Bash(PYTHONPATH=* python* data_preprocess.py*)",
+      "Bash(RWKV_* python* *generate_constrained.py*)",
+
+      "Bash(*glob*.mid*)",
+      "Bash(*struct.unpack*)",
+      "Bash(fluidsynth *)",
+      "Bash(python*: *)",
+
+      "Read(/Users/anjie/Documents/MyGuzheng/Guzheng/**)",
+      "Bash(find /Users/anjie/Documents/MyGuzheng/Guzheng:*)",
+      "Bash(cp:*)",
+      "Bash(mkdir:*)",
+
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:miditok.readthedocs.io)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:salu133445.github.io)",
+      "WebFetch(domain:hermandong.com)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)"
+    ]
+  }
+}

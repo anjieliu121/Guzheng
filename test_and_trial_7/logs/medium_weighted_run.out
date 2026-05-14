@@ -1,0 +1,431 @@
+/Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_7/venv_notagen/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[device] mps
+[model] params: 242.6 M
+[init] loading pretrained /Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_7/checkpoints/notagen_medium_pretrain.pth
+[init] truncating wpe 2048 -> 1024
+[init] pretrained loaded (epoch 113, loss 0.1641659624305845)
+[data] train=113  eval=12
+[weighted] sampler weights: rep=32@5x, t99=81@1x
+[start] epochs 1..30
+---------- epoch 1/30 ----------
+  [train] 10/113  loss=0.5180  4.40s/step
+  [train] 20/113  loss=0.6216  12.00s/step
+  [train] 30/113  loss=0.6069  10.86s/step
+  [train] 40/113  loss=0.6335  10.12s/step
+  [train] 50/113  loss=0.6343  12.60s/step
+  [train] 60/113  loss=0.6211  11.54s/step
+  [train] 70/113  loss=0.6221  10.00s/step
+  [train] 80/113  loss=0.6252  8.91s/step
+  [train] 90/113  loss=0.6216  8.01s/step
+  [train] 100/113  loss=0.6105  9.26s/step
+  [train] 110/113  loss=0.6009  8.78s/step
+  [eval ] 10/12  loss=0.5689  0.49s/step
+epoch   1  train=0.6011  eval=0.5354  best=0.5354 *  975.0s
+---------- epoch 2/30 ----------
+  [train] 10/113  loss=0.4395  5.20s/step
+  [train] 20/113  loss=0.4652  3.14s/step
+  [train] 30/113  loss=0.4913  2.38s/step
+  [train] 40/113  loss=0.5108  1.98s/step
+  [train] 50/113  loss=0.5247  1.75s/step
+  [train] 60/113  loss=0.5114  3.15s/step
+  [train] 70/113  loss=0.4963  5.12s/step
+  [train] 80/113  loss=0.4892  7.01s/step
+  [train] 90/113  loss=0.4886  6.96s/step
+  [train] 100/113  loss=0.4867  6.33s/step
+  [train] 110/113  loss=0.4872  5.95s/step
+  [eval ] 10/12  loss=0.5303  0.24s/step
+epoch   2  train=0.4892  eval=0.5043  best=0.5043 *  660.6s
+---------- epoch 3/30 ----------
+  [train] 10/113  loss=0.4701  1.43s/step
+  [train] 20/113  loss=0.4321  10.11s/step
+  [train] 30/113  loss=0.4609  7.01s/step
+  [train] 40/113  loss=0.4518  8.15s/step
+  [train] 50/113  loss=0.4638  6.89s/step
+  [train] 60/113  loss=0.4615  6.74s/step
+  [train] 70/113  loss=0.4532  6.17s/step
+  [train] 80/113  loss=0.4594  6.31s/step
+  [train] 90/113  loss=0.4669  5.68s/step
+  [train] 100/113  loss=0.4646  5.19s/step
+  [train] 110/113  loss=0.4633  4.78s/step
+  [eval ] 10/12  loss=0.5141  0.23s/step
+epoch   3  train=0.4595  eval=0.4891  best=0.4891 *  530.9s
+---------- epoch 4/30 ----------
+  [train] 10/113  loss=0.3594  1.84s/step
+  [train] 20/113  loss=0.3415  4.85s/step
+  [train] 30/113  loss=0.3695  3.94s/step
+  [train] 40/113  loss=0.3754  3.18s/step
+  [train] 50/113  loss=0.3956  4.06s/step
+  [train] 60/113  loss=0.4136  4.26s/step
+  [train] 70/113  loss=0.4104  3.85s/step
+  [train] 80/113  loss=0.3986  4.30s/step
+  [train] 90/113  loss=0.3996  7.14s/step
+  [train] 100/113  loss=0.4020  6.65s/step
+  [train] 110/113  loss=0.3989  6.65s/step
+  [eval ] 10/12  loss=0.5103  0.40s/step
+epoch   4  train=0.4039  eval=0.4857  best=0.4857 *  739.6s
+---------- epoch 5/30 ----------
+  [train] 10/113  loss=0.4153  1.62s/step
+  [train] 20/113  loss=0.3837  1.22s/step
+  [train] 30/113  loss=0.3866  4.05s/step
+  [train] 40/113  loss=0.4013  3.85s/step
+  [train] 50/113  loss=0.4120  4.34s/step
+  [train] 60/113  loss=0.4203  3.76s/step
+  [train] 70/113  loss=0.4120  5.87s/step
+  [train] 80/113  loss=0.4336  5.27s/step
+  [train] 90/113  loss=0.4376  4.77s/step
+  [train] 100/113  loss=0.4336  4.36s/step
+  [train] 110/113  loss=0.4328  4.60s/step
+  [eval ] 10/12  loss=0.4994  0.26s/step
+epoch   5  train=0.4339  eval=0.4768  best=0.4768 *  515.0s
+---------- epoch 6/30 ----------
+  [train] 10/113  loss=0.4324  0.95s/step
+  [train] 20/113  loss=0.4528  0.86s/step
+  [train] 30/113  loss=0.4257  0.77s/step
+  [train] 40/113  loss=0.4231  1.47s/step
+  [train] 50/113  loss=0.4217  2.69s/step
+  [train] 60/113  loss=0.4229  2.59s/step
+  [train] 70/113  loss=0.4142  3.47s/step
+  [train] 80/113  loss=0.4200  3.34s/step
+  [train] 90/113  loss=0.4207  3.37s/step
+  [train] 100/113  loss=0.4179  3.85s/step
+  [train] 110/113  loss=0.4276  3.72s/step
+  [eval ] 10/12  loss=0.5082  0.23s/step
+epoch   6  train=0.4241  eval=0.4820  best=0.4768  416.4s
+---------- epoch 7/30 ----------
+  [train] 10/113  loss=0.3877  18.89s/step
+  [train] 20/113  loss=0.3395  20.66s/step
+  [train] 30/113  loss=0.3567  14.09s/step
+  [train] 40/113  loss=0.3569  15.79s/step
+  [train] 50/113  loss=0.3540  14.34s/step
+  [train] 60/113  loss=0.3567  15.26s/step
+  [train] 70/113  loss=0.3711  15.76s/step
+  [train] 80/113  loss=0.3690  14.79s/step
+  [train] 90/113  loss=0.3763  14.32s/step
+  [train] 100/113  loss=0.3712  13.88s/step
+  [train] 110/113  loss=0.3608  12.92s/step
+  [eval ] 10/12  loss=0.5074  0.25s/step
+epoch   7  train=0.3599  eval=0.4837  best=0.4768  1433.4s
+---------- epoch 8/30 ----------
+  [train] 10/113  loss=0.3666  1.75s/step
+  [train] 20/113  loss=0.3673  1.68s/step
+  [train] 30/113  loss=0.3866  1.33s/step
+  [train] 40/113  loss=0.3804  4.99s/step
+  [train] 50/113  loss=0.3887  4.14s/step
+  [train] 60/113  loss=0.3703  3.67s/step
+  [train] 70/113  loss=0.3730  3.27s/step
+  [train] 80/113  loss=0.3666  4.13s/step
+  [train] 90/113  loss=0.3712  3.78s/step
+  [train] 100/113  loss=0.3752  3.58s/step
+  [train] 110/113  loss=0.3757  3.34s/step
+  [eval ] 10/12  loss=0.5075  0.27s/step
+epoch   8  train=0.3796  eval=0.4836  best=0.4768  372.8s
+---------- epoch 9/30 ----------
+  [train] 10/113  loss=0.4030  8.53s/step
+  [train] 20/113  loss=0.3657  5.99s/step
+  [train] 30/113  loss=0.3419  4.52s/step
+  [train] 40/113  loss=0.3437  3.71s/step
+  [train] 50/113  loss=0.3627  3.13s/step
+  [train] 60/113  loss=0.3749  2.71s/step
+  [train] 70/113  loss=0.3619  3.63s/step
+  [train] 80/113  loss=0.3621  4.08s/step
+  [train] 90/113  loss=0.3655  3.79s/step
+  [train] 100/113  loss=0.3671  4.37s/step
+  [train] 110/113  loss=0.3673  4.55s/step
+  [eval ] 10/12  loss=0.4919  0.28s/step
+epoch   9  train=0.3709  eval=0.4709  best=0.4709 *  523.8s
+---------- epoch 10/30 ----------
+  [train] 10/113  loss=0.2545  5.63s/step
+  [train] 20/113  loss=0.3172  3.50s/step
+  [train] 30/113  loss=0.3334  2.64s/step
+  [train] 40/113  loss=0.3663  2.10s/step
+  [train] 50/113  loss=0.3729  1.96s/step
+  [train] 60/113  loss=0.3671  2.67s/step
+  [train] 70/113  loss=0.3600  4.77s/step
+  [train] 80/113  loss=0.3587  5.24s/step
+  [train] 90/113  loss=0.3555  4.88s/step
+  [train] 100/113  loss=0.3577  4.47s/step
+  [train] 110/113  loss=0.3551  4.15s/step
+  [eval ] 10/12  loss=0.4992  0.21s/step
+epoch  10  train=0.3565  eval=0.4780  best=0.4709  461.0s
+---------- epoch 11/30 ----------
+  [train] 10/113  loss=0.3736  0.60s/step
+  [train] 20/113  loss=0.3343  5.73s/step
+  [train] 30/113  loss=0.3428  6.45s/step
+  [train] 40/113  loss=0.3498  6.46s/step
+  [train] 50/113  loss=0.3486  5.36s/step
+  [train] 60/113  loss=0.3353  5.41s/step
+  [train] 70/113  loss=0.3372  4.87s/step
+  [train] 80/113  loss=0.3338  6.18s/step
+  [train] 90/113  loss=0.3281  6.38s/step
+  [train] 100/113  loss=0.3276  5.83s/step
+  [train] 110/113  loss=0.3265  6.92s/step
+  [eval ] 10/12  loss=0.5100  0.30s/step
+epoch  11  train=0.3210  eval=0.4853  best=0.4709  845.3s
+---------- epoch 12/30 ----------
+  [train] 10/113  loss=0.3396  19.32s/step
+  [train] 20/113  loss=0.3640  13.03s/step
+  [train] 30/113  loss=0.3681  10.88s/step
+  [train] 40/113  loss=0.3536  8.41s/step
+  [train] 50/113  loss=0.3473  7.26s/step
+  [train] 60/113  loss=0.3447  6.22s/step
+  [train] 70/113  loss=0.3561  5.48s/step
+  [train] 80/113  loss=0.3542  6.47s/step
+  [train] 90/113  loss=0.3470  7.28s/step
+  [train] 100/113  loss=0.3530  6.66s/step
+  [train] 110/113  loss=0.3525  6.25s/step
+  [eval ] 10/12  loss=0.4983  0.24s/step
+epoch  12  train=0.3500  eval=0.4762  best=0.4709  693.1s
+---------- epoch 13/30 ----------
+  [train] 10/113  loss=0.3067  19.46s/step
+  [train] 20/113  loss=0.2979  10.23s/step
+  [train] 30/113  loss=0.2996  7.29s/step
+  [train] 40/113  loss=0.3035  6.07s/step
+  [train] 50/113  loss=0.3055  10.79s/step
+  [train] 60/113  loss=0.3045  9.17s/step
+  [train] 70/113  loss=0.3071  7.96s/step
+  [train] 80/113  loss=0.3024  7.20s/step
+  [train] 90/113  loss=0.3092  7.89s/step
+  [train] 100/113  loss=0.3063  7.21s/step
+  [train] 110/113  loss=0.3005  6.63s/step
+  [eval ] 10/12  loss=0.5166  0.36s/step
+epoch  13  train=0.3067  eval=0.4926  best=0.4709  735.5s
+---------- epoch 14/30 ----------
+  [train] 10/113  loss=0.2387  0.80s/step
+  [train] 20/113  loss=0.2375  1.32s/step
+  [train] 30/113  loss=0.2645  1.08s/step
+  [train] 40/113  loss=0.2718  0.98s/step
+  [train] 50/113  loss=0.2614  2.23s/step
+  [train] 60/113  loss=0.2612  3.79s/step
+  [train] 70/113  loss=0.2853  3.52s/step
+  [train] 80/113  loss=0.2803  3.29s/step
+  [train] 90/113  loss=0.2819  3.65s/step
+  [train] 100/113  loss=0.2812  3.36s/step
+  [train] 110/113  loss=0.2762  3.68s/step
+  [eval ] 10/12  loss=0.5162  0.32s/step
+epoch  14  train=0.2781  eval=0.4921  best=0.4709  412.3s
+---------- epoch 15/30 ----------
+  [train] 10/113  loss=0.3795  2.81s/step
+  [train] 20/113  loss=0.3426  4.37s/step
+  [train] 30/113  loss=0.3200  3.15s/step
+  [train] 40/113  loss=0.3055  2.58s/step
+  [train] 50/113  loss=0.2974  4.72s/step
+  [train] 60/113  loss=0.2828  4.27s/step
+  [train] 70/113  loss=0.2789  3.90s/step
+  [train] 80/113  loss=0.2891  3.51s/step
+  [train] 90/113  loss=0.2904  3.93s/step
+  [train] 100/113  loss=0.2888  3.78s/step
+  [train] 110/113  loss=0.2968  3.51s/step
+  [eval ] 10/12  loss=0.5058  0.19s/step
+epoch  15  train=0.2961  eval=0.4830  best=0.4709  391.6s
+---------- epoch 16/30 ----------
+  [train] 10/113  loss=0.2762  0.79s/step
+  [train] 20/113  loss=0.2859  4.07s/step
+  [train] 30/113  loss=0.3269  4.98s/step
+  [train] 40/113  loss=0.3306  5.36s/step
+  [train] 50/113  loss=0.3056  5.46s/step
+  [train] 60/113  loss=0.3064  4.67s/step
+  [train] 70/113  loss=0.2951  4.10s/step
+  [train] 80/113  loss=0.2967  3.76s/step
+  [train] 90/113  loss=0.2881  3.59s/step
+  [train] 100/113  loss=0.2873  3.32s/step
+  [train] 110/113  loss=0.2899  4.02s/step
+  [eval ] 10/12  loss=0.5189  0.25s/step
+epoch  16  train=0.2891  eval=0.4933  best=0.4709  449.4s
+---------- epoch 17/30 ----------
+  [train] 10/113  loss=0.3581  6.24s/step
+  [train] 20/113  loss=0.3012  4.22s/step
+  [train] 30/113  loss=0.2748  3.28s/step
+  [train] 40/113  loss=0.2659  2.77s/step
+  [train] 50/113  loss=0.2634  4.86s/step
+  [train] 60/113  loss=0.2681  4.27s/step
+  [train] 70/113  loss=0.2683  6.14s/step
+  [train] 80/113  loss=0.2708  5.83s/step
+  [train] 90/113  loss=0.2643  6.15s/step
+  [train] 100/113  loss=0.2785  5.63s/step
+  [train] 110/113  loss=0.2787  5.25s/step
+  [eval ] 10/12  loss=0.5071  0.31s/step
+epoch  17  train=0.2750  eval=0.4841  best=0.4709  602.5s
+---------- epoch 18/30 ----------
+  [train] 10/113  loss=0.3361  2.07s/step
+  [train] 20/113  loss=0.3017  1.46s/step
+  [train] 30/113  loss=0.2710  6.35s/step
+  [train] 40/113  loss=0.2737  4.93s/step
+  [train] 50/113  loss=0.2895  4.08s/step
+  [train] 60/113  loss=0.2822  3.54s/step
+  [train] 70/113  loss=0.2870  3.10s/step
+  [train] 80/113  loss=0.2806  2.79s/step
+  [train] 90/113  loss=0.2821  2.54s/step
+  [train] 100/113  loss=0.2749  2.33s/step
+  [train] 110/113  loss=0.2701  2.42s/step
+  [eval ] 10/12  loss=0.5471  0.20s/step
+epoch  18  train=0.2717  eval=0.5160  best=0.4709  272.3s
+---------- epoch 19/30 ----------
+  [train] 10/113  loss=0.2256  2.17s/step
+  [train] 20/113  loss=0.2416  1.89s/step
+  [train] 30/113  loss=0.2464  2.26s/step
+  [train] 40/113  loss=0.2564  3.67s/step
+  [train] 50/113  loss=0.2476  4.53s/step
+  [train] 60/113  loss=0.2390  3.89s/step
+  [train] 70/113  loss=0.2279  3.66s/step
+  [train] 80/113  loss=0.2307  4.00s/step
+  [train] 90/113  loss=0.2361  4.44s/step
+  [train] 100/113  loss=0.2496  4.10s/step
+  [train] 110/113  loss=0.2473  3.80s/step
+  [eval ] 10/12  loss=0.5431  0.28s/step
+epoch  19  train=0.2526  eval=0.5144  best=0.4709  424.0s
+---------- epoch 20/30 ----------
+  [train] 10/113  loss=0.2926  7.67s/step
+  [train] 20/113  loss=0.2552  4.22s/step
+  [train] 30/113  loss=0.2710  7.26s/step
+  [train] 40/113  loss=0.2652  5.65s/step
+  [train] 50/113  loss=0.2552  5.02s/step
+  [train] 60/113  loss=0.2613  5.15s/step
+  [train] 70/113  loss=0.2703  4.51s/step
+  [train] 80/113  loss=0.2703  4.02s/step
+  [train] 90/113  loss=0.2768  4.46s/step
+  [train] 100/113  loss=0.2792  4.08s/step
+  [train] 110/113  loss=0.2828  3.83s/step
+  [eval ] 10/12  loss=0.5361  0.36s/step
+epoch  20  train=0.2803  eval=0.5090  best=0.4709  429.0s
+---------- epoch 21/30 ----------
+  [train] 10/113  loss=0.2189  1.23s/step
+  [train] 20/113  loss=0.2481  1.04s/step
+  [train] 30/113  loss=0.2535  1.09s/step
+  [train] 40/113  loss=0.2317  9.43s/step
+  [train] 50/113  loss=0.2358  7.72s/step
+  [train] 60/113  loss=0.2504  7.87s/step
+  [train] 70/113  loss=0.2597  7.06s/step
+  [train] 80/113  loss=0.2586  6.32s/step
+  [train] 90/113  loss=0.2583  5.69s/step
+  [train] 100/113  loss=0.2661  5.27s/step
+  [train] 110/113  loss=0.2594  4.88s/step
+  [eval ] 10/12  loss=0.5293  0.22s/step
+epoch  21  train=0.2605  eval=0.5038  best=0.4709  542.4s
+---------- epoch 22/30 ----------
+  [train] 10/113  loss=0.2574  0.69s/step
+  [train] 20/113  loss=0.2922  0.62s/step
+  [train] 30/113  loss=0.2818  5.16s/step
+  [train] 40/113  loss=0.2610  7.13s/step
+  [train] 50/113  loss=0.2606  6.03s/step
+  [train] 60/113  loss=0.2590  5.16s/step
+  [train] 70/113  loss=0.2469  4.63s/step
+  [train] 80/113  loss=0.2459  5.55s/step
+  [train] 90/113  loss=0.2453  5.02s/step
+  [train] 100/113  loss=0.2399  4.73s/step
+  [train] 110/113  loss=0.2333  4.39s/step
+  [eval ] 10/12  loss=0.5231  0.21s/step
+epoch  22  train=0.2307  eval=0.4983  best=0.4709  487.9s
+---------- epoch 23/30 ----------
+  [train] 10/113  loss=0.1997  0.95s/step
+  [train] 20/113  loss=0.2083  1.30s/step
+  [train] 30/113  loss=0.2128  2.82s/step
+  [train] 40/113  loss=0.2269  2.56s/step
+  [train] 50/113  loss=0.2227  4.77s/step
+  [train] 60/113  loss=0.2239  4.12s/step
+  [train] 70/113  loss=0.2257  3.64s/step
+  [train] 80/113  loss=0.2269  3.94s/step
+  [train] 90/113  loss=0.2252  3.61s/step
+  [train] 100/113  loss=0.2217  3.41s/step
+  [train] 110/113  loss=0.2252  3.15s/step
+  [eval ] 10/12  loss=0.5400  0.17s/step
+epoch  23  train=0.2208  eval=0.5122  best=0.4709  351.0s
+---------- epoch 24/30 ----------
+  [train] 10/113  loss=0.2019  14.52s/step
+  [train] 20/113  loss=0.1907  7.64s/step
+  [train] 30/113  loss=0.1922  7.39s/step
+  [train] 40/113  loss=0.2140  5.73s/step
+  [train] 50/113  loss=0.2264  4.70s/step
+  [train] 60/113  loss=0.2307  4.10s/step
+  [train] 70/113  loss=0.2407  3.66s/step
+  [train] 80/113  loss=0.2335  3.29s/step
+  [train] 90/113  loss=0.2294  3.01s/step
+  [train] 100/113  loss=0.2328  2.76s/step
+  [train] 110/113  loss=0.2290  3.05s/step
+  [eval ] 10/12  loss=0.5333  0.31s/step
+epoch  24  train=0.2276  eval=0.5075  best=0.4709  347.9s
+---------- epoch 25/30 ----------
+  [train] 10/113  loss=0.2759  1.60s/step
+  [train] 20/113  loss=0.2098  1.17s/step
+  [train] 30/113  loss=0.2077  1.17s/step
+  [train] 40/113  loss=0.2002  6.00s/step
+  [train] 50/113  loss=0.2243  6.41s/step
+  [train] 60/113  loss=0.2410  5.78s/step
+  [train] 70/113  loss=0.2523  5.06s/step
+  [train] 80/113  loss=0.2447  5.23s/step
+  [train] 90/113  loss=0.2451  4.77s/step
+  [train] 100/113  loss=0.2473  4.75s/step
+  [train] 110/113  loss=0.2456  4.41s/step
+  [eval ] 10/12  loss=0.5595  0.22s/step
+epoch  25  train=0.2485  eval=0.5306  best=0.4709  490.9s
+---------- epoch 26/30 ----------
+  [train] 10/113  loss=0.2672  10.31s/step
+  [train] 20/113  loss=0.2280  6.78s/step
+  [train] 30/113  loss=0.2204  4.98s/step
+  [train] 40/113  loss=0.2135  3.92s/step
+  [train] 50/113  loss=0.2250  3.51s/step
+  [train] 60/113  loss=0.2281  3.10s/step
+  [train] 70/113  loss=0.2400  2.76s/step
+  [train] 80/113  loss=0.2313  2.49s/step
+  [train] 90/113  loss=0.2394  2.28s/step
+  [train] 100/113  loss=0.2343  2.82s/step
+  [train] 110/113  loss=0.2322  2.63s/step
+  [eval ] 10/12  loss=0.5614  0.26s/step
+epoch  26  train=0.2301  eval=0.5311  best=0.4709  297.4s
+---------- epoch 27/30 ----------
+  [train] 10/113  loss=0.1821  0.64s/step
+  [train] 20/113  loss=0.2122  1.55s/step
+  [train] 30/113  loss=0.2261  1.34s/step
+  [train] 40/113  loss=0.2121  1.34s/step
+  [train] 50/113  loss=0.1993  1.23s/step
+  [train] 60/113  loss=0.2222  1.16s/step
+  [train] 70/113  loss=0.2310  2.44s/step
+  [train] 80/113  loss=0.2366  4.69s/step
+  [train] 90/113  loss=0.2430  4.25s/step
+  [train] 100/113  loss=0.2411  3.89s/step
+  [train] 110/113  loss=0.2354  3.67s/step
+  [eval ] 10/12  loss=0.5448  0.25s/step
+epoch  27  train=0.2336  eval=0.5182  best=0.4709  472.6s
+---------- epoch 28/30 ----------
+  [train] 10/113  loss=0.1679  2.97s/step
+  [train] 20/113  loss=0.2558  1.87s/step
+  [train] 30/113  loss=0.2220  1.74s/step
+  [train] 40/113  loss=0.2275  1.73s/step
+  [train] 50/113  loss=0.2228  1.54s/step
+  [train] 60/113  loss=0.2135  2.64s/step
+  [train] 70/113  loss=0.2091  2.38s/step
+  [train] 80/113  loss=0.2030  3.18s/step
+  [train] 90/113  loss=0.2084  3.09s/step
+  [train] 100/113  loss=0.2065  2.93s/step
+  [train] 110/113  loss=0.2105  2.82s/step
+  [eval ] 10/12  loss=0.5617  0.27s/step
+epoch  28  train=0.2088  eval=0.5324  best=0.4709  316.6s
+---------- epoch 29/30 ----------
+  [train] 10/113  loss=0.1208  9.36s/step
+  [train] 20/113  loss=0.1703  8.04s/step
+  [train] 30/113  loss=0.2013  5.64s/step
+  [train] 40/113  loss=0.1963  14.73s/step
+  [train] 50/113  loss=0.2024  13.45s/step
+  [train] 60/113  loss=0.2066  11.38s/step
+  [train] 70/113  loss=0.2010  9.86s/step
+  [train] 80/113  loss=0.1907  8.72s/step
+  [train] 90/113  loss=0.1925  7.80s/step
+  [train] 100/113  loss=0.1884  7.07s/step
+  [train] 110/113  loss=0.1854  6.50s/step
+  [eval ] 10/12  loss=0.5828  0.16s/step
+epoch  29  train=0.1868  eval=0.5518  best=0.4709  719.2s
+---------- epoch 30/30 ----------
+  [train] 10/113  loss=0.2208  6.93s/step
+  [train] 20/113  loss=0.2096  4.97s/step
+  [train] 30/113  loss=0.2204  3.57s/step
+  [train] 40/113  loss=0.2076  2.84s/step
+  [train] 50/113  loss=0.1968  3.42s/step
+  [train] 60/113  loss=0.1972  3.28s/step
+  [train] 70/113  loss=0.2064  3.03s/step
+  [train] 80/113  loss=0.2046  2.93s/step
+  [train] 90/113  loss=0.1983  2.70s/step
+  [train] 100/113  loss=0.1987  2.64s/step
+  [train] 110/113  loss=0.1986  2.50s/step
+  [eval ] 10/12  loss=0.5536  0.23s/step
+epoch  30  train=0.1997  eval=0.5246  best=0.4709  280.3s
+[done] best eval loss: 0.4709

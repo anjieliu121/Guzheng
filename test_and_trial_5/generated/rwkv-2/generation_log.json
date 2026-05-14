@@ -1,0 +1,163 @@
+{
+  "checkpoint": "/Users/anjie/Documents/MyGuzheng/Guzheng/test_and_trial_5/checkpoints/rwkv-2.pth",
+  "config": {
+    "temperature": 0.85,
+    "top_p": 0.9,
+    "max_new_tokens": 1024,
+    "min_tokens_before_eos": 200,
+    "prompt_tokens": 16,
+    "seed": 42
+  },
+  "results": [
+    {
+      "file": "val_00_A.mid",
+      "category": "val",
+      "source_prompt": "guzheng_train_053_A.mid",
+      "scale": "A",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "val_01_D.mid",
+      "category": "val",
+      "source_prompt": "fang_zhi_mang_D.mid",
+      "scale": "D",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "val_02_C.mid",
+      "category": "val",
+      "source_prompt": "chu_shui_lian_C.mid",
+      "scale": "C",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "val_03_D.mid",
+      "category": "val",
+      "source_prompt": "guzheng_validation_004_D.mid",
+      "scale": "D",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "val_04_D.mid",
+      "category": "val",
+      "source_prompt": "guzheng_train_005_D.mid",
+      "scale": "D",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "test_05_C.mid",
+      "category": "test",
+      "source_prompt": "guzheng_train_004_C.mid",
+      "scale": "C",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "test_06_A.mid",
+      "category": "test",
+      "source_prompt": "guzheng_train_004_A.mid",
+      "scale": "A",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "test_07_G.mid",
+      "category": "test",
+      "source_prompt": "guzheng_test_000_G.mid",
+      "scale": "G",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.3
+    },
+    {
+      "file": "test_08_F.mid",
+      "category": "test",
+      "source_prompt": "guzheng_train_070_F.mid",
+      "scale": "F",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.3
+    },
+    {
+      "file": "test_09_D.mid",
+      "category": "test",
+      "source_prompt": "guzheng_test_000_D.mid",
+      "scale": "D",
+      "total_tokens": 1041,
+      "generated_tokens": 1024,
+      "prompt_tokens": 17,
+      "elapsed": 44.4
+    },
+    {
+      "file": "synthetic_10_A.mid",
+      "category": "synthetic",
+      "source_prompt": "synthetic_BOS_A",
+      "scale": "A",
+      "total_tokens": 1025,
+      "generated_tokens": 1024,
+      "prompt_tokens": 1,
+      "elapsed": 44.3
+    },
+    {
+      "file": "synthetic_11_C.mid",
+      "category": "synthetic",
+      "source_prompt": "synthetic_BOS_C",
+      "scale": "C",
+      "total_tokens": 1025,
+      "generated_tokens": 1024,
+      "prompt_tokens": 1,
+      "elapsed": 44.3
+    },
+    {
+      "file": "synthetic_12_D.mid",
+      "category": "synthetic",
+      "source_prompt": "synthetic_BOS_D",
+      "scale": "D",
+      "total_tokens": 1025,
+      "generated_tokens": 1024,
+      "prompt_tokens": 1,
+      "elapsed": 44.4
+    },
+    {
+      "file": "synthetic_13_F.mid",
+      "category": "synthetic",
+      "source_prompt": "synthetic_BOS_F",
+      "scale": "F",
+      "total_tokens": 1025,
+      "generated_tokens": 1024,
+      "prompt_tokens": 1,
+      "elapsed": 44.4
+    },
+    {
+      "file": "synthetic_14_G.mid",
+      "category": "synthetic",
+      "source_prompt": "synthetic_BOS_G",
+      "scale": "G",
+      "total_tokens": 1025,
+      "generated_tokens": 1024,
+      "prompt_tokens": 1,
+      "elapsed": 44.4
+    }
+  ]
+}

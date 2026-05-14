@@ -1,0 +1,32 @@
+X:1
+T:Generated Guzheng
+L:1/32
+M:4/4
+K:C
+V:1 treble nm="Guzheng"
+V:1
+z11 D,13 D5 E3-|
+E2 G12 G,12 G5 A2-|
+A4 G6 E21 E,2-|
+E,2 E10 E,12 E4 G2-|
+G4 A6 d22 G,4-|
+G,6 G12 E,12-|
+E,2 E12 D11 D,4-|
+D,2 D11 D12 D,4-|
+D,2 D11 E12 D,4-|
+D,2 D12 D,12 D4-|
+D4 G12 G,12-|
+G, G12 A12 E,4 E2-|
+E4 G12 A,12 A4-|
+A4 G12 G,12 G2-|
+G4 A12 A,12-|
+A, A11 d2 A2 G,4 G2 A2|
+G2 E,4 E2 G2 A2 G2 E2 D,4 D2 D2 E2 D2|
+B,2 D,4 D2 E2 D2 D,2 D2 D,2 D2 E2 D2 B,2 A,4|
+G,,2 G,2 A,2 G,2 E,,4 E,2 G,2 A,2 G,2 E,2 D,,2 D,2 E,2 D,2|
+B,,2 D,,4 D,2 E,2 D,2 B,,2 A,,,2 A,,4 B,,2 A,,2 G,,2 E,,4|
+E,2 G,2 A,2 G,2 E,2 D,,4 D,2 E,2 D,2 B,,2 B,,,4 B,,2 D,2 B,,2|
+A,,2 A,,,4 A,,2 B,,2 A,,2 G,,2 G,,,4 G,,2 A,,2 G,,2 E,,2 D,,,4|
+D,,2 E,,2 D,,2 B,,,2 B,,,,4 B,,,2 D,,2 B,,,2 A,,,,4 A,,,2 B,,,2 A,,,2 G,,,2|
+G,,,,16 G,,,12-|
+G,,,11 z21|
